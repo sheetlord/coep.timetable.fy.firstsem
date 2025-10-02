@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalized Timetable</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>My Class Timetable</h1>
+        <form id="scheduleForm">
+            <label for="mis_number">Enter Your MIS Number:</label>
+            <input type="text" id="mis_number" name="mis_number" placeholder="e.g., 612515010" required>
+            <button type="submit">Show My Schedule</button>
+        </form>
+        <div id="loading" class="hidden">Loading...</div>
+        <div id="result"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+<footer>
+  <p>Created by [Rushikesh EE]</p>
+</footer>
+</body>
+</html>
