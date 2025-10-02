@@ -9,17 +9,58 @@
 <body>
     <div class="container">
         <h1>My Class Timetable</h1>
-        <form id="scheduleForm">
+        <form method="POST" action="/get_schedule">
             <label for="mis_number">Enter Your MIS Number:</label>
             <input type="text" id="mis_number" name="mis_number" placeholder="e.g., 612515010" required>
             <button type="submit">Show My Schedule</button>
         </form>
-        <div id="loading" class="hidden">Loading...</div>
-        <div id="result"></div>
+
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+
+        {% if schedule %}
+        <div class="timetable-container">
+            <h2>{{ student_name }} <span class="branch">— {{ branch }}</span></h2>
+            <table class="timetable">
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        {% for day in schedule.days %}
+                            <th>{{ day }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for time in schedule.time_slots %}
+                        <tr>
+                            <th class="time-slot">{{ time }}</th>
+                            {% for day in schedule.days %}
+                                {% set cell = schedule.grid[time][day] %}
+                                <td>
+                                    {% if cell %}
+                                        <div class="class-details">
+                                            <span class="class-subject">{{ cell.subject }}</span>
+                                            Room: {{ cell.room }}<br>
+                                            {{ cell.division }}
+                                        </div>
+                                    {% else %}
+                                        <div class="class-details" style="color: #aaa; font-style: italic;">
+                                            No Class
+                                        </div>
+                                    {% endif %}
+                                </td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
     </div>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
-<footer>
-  <p>Created by [Rushikesh EE]</p>
-</footer>
+    <footer>
+        <p>Created by [Rushikesh EE]</p>
+    </footer>
 </body>
 </html>

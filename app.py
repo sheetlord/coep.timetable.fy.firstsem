@@ -1,10 +1,9 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request
 import sqlite3
 import os
 
 app = Flask(__name__)
 
-# Ensure the server can always find your database file
 basedir = os.path.abspath(os.path.dirname(__file__))
 db_path = os.path.join(basedir, 'schedule.db')
 
@@ -21,11 +20,9 @@ def index():
 def get_schedule():
     mis_number = request.form.get('mis_number')
     if not mis_number:
-        return jsonify({'error': 'MIS number is required.'}), 400
+        return render_template('index.html', error='MIS number is required.')
 
     conn = get_db_connection()
-
-    # Get student's name and branch
     student_info = conn.execute(
         'SELECT full_name, branch FROM student_divisions WHERE mis_number = ? LIMIT 1',
         (mis_number,)
@@ -33,9 +30,8 @@ def get_schedule():
 
     if not student_info:
         conn.close()
-        return jsonify({'error': f'No student found with MIS number {mis_number}. Please check the number.'})
+        return render_template('index.html', error=f'No student found with MIS number {mis_number}.')
 
-    # Get all matching class data
     schedule_query = """
         SELECT DISTINCT t.day, t.time, t.room, t.division, t.subject
         FROM timetables AS t
@@ -45,15 +41,7 @@ def get_schedule():
     schedule_data = conn.execute(schedule_query, (mis_number,)).fetchall()
     conn.close()
 
-    if not schedule_data:
-        return jsonify({
-            'student_name': student_info['full_name'],
-            'branch': student_info['branch'],
-            'schedule': {}
-        })
-
-    # Full grid coverage — match actual schedule format
-    days_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    days_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
     full_time_slots = [
         '08:30 - 09:30',
         '09:30 - 10:30',
@@ -67,36 +55,29 @@ def get_schedule():
         '05:30 - 06:30'
     ]
 
-    unique_days = days_order
-    unique_time_slots = full_time_slots
+    grid = {time: {day: None for day in days_order} for time in full_time_slots}
 
-    # Build empty grid
-    grid = {time: {day: None for day in unique_days} for time in unique_time_slots}
-
-    # Normalize time and day for matching
     def normalize_time(t):
         return t.replace('-', ' - ').strip()
 
     def normalize_day(d):
         return d.capitalize()
 
-    # Fill grid with actual schedule data
     for row in schedule_data:
         time_key = normalize_time(row['time'])
         day_key = normalize_day(row['day'])
         if time_key in grid and day_key in grid[time_key]:
             grid[time_key][day_key] = dict(row)
 
-    return jsonify({
-        'student_name': student_info['full_name'],
-        'branch': student_info['branch'],
-        'schedule': {
-            'days': unique_days,
-            'time_slots': unique_time_slots,
+    return render_template('index.html',
+        student_name=student_info['full_name'],
+        branch=student_info['branch'],
+        schedule={
+            'days': days_order,
+            'time_slots': full_time_slots,
             'grid': grid
         }
-    })
+    )
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
-
