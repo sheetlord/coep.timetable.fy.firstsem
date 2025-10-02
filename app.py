@@ -52,17 +52,19 @@ def get_schedule():
             'schedule': {}
         })
 
-    # Full grid coverage — always show all days and time slots
+    # Full grid coverage — match actual schedule format
     days_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
     full_time_slots = [
-        '09:00 - 10:00',
-        '10:00 - 11:00',
-        '11:00 - 12:00',
-        '12:00 - 01:00',
-        '01:00 - 02:00',
-        '02:00 - 03:00',
-        '03:00 - 04:00',
-        '04:00 - 05:00'
+        '08:30 - 09:30',
+        '09:30 - 10:30',
+        '10:30 - 11:30',
+        '11:30 - 12:30',
+        '12:30 - 01:30',
+        '01:30 - 02:30',
+        '02:30 - 03:30',
+        '03:30 - 04:30',
+        '04:30 - 05:30',
+        '05:30 - 06:30'
     ]
 
     unique_days = days_order
