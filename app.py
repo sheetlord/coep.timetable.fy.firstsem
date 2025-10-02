@@ -73,10 +73,19 @@ def get_schedule():
     # Build empty grid
     grid = {time: {day: None for day in unique_days} for time in unique_time_slots}
 
+    # Normalize time and day for matching
+    def normalize_time(t):
+        return t.replace('-', ' - ').strip()
+
+    def normalize_day(d):
+        return d.capitalize()
+
     # Fill grid with actual schedule data
     for row in schedule_data:
-        if row['time'] in grid and row['day'] in grid[row['time']]:
-            grid[row['time']][row['day']] = dict(row)
+        time_key = normalize_time(row['time'])
+        day_key = normalize_day(row['day'])
+        if time_key in grid and day_key in grid[time_key]:
+            grid[time_key][day_key] = dict(row)
 
     return jsonify({
         'student_name': student_info['full_name'],
@@ -90,3 +99,4 @@ def get_schedule():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
+
