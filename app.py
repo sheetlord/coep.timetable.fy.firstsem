@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-# This new code makes sure the server can always find your database file.
+# Ensure the server can always find your database file
 basedir = os.path.abspath(os.path.dirname(__file__))
 db_path = os.path.join(basedir, 'schedule.db')
 
@@ -45,35 +45,44 @@ def get_schedule():
     schedule_data = conn.execute(schedule_query, (mis_number,)).fetchall()
     conn.close()
 
-    # --- START OF CHANGES ---
+    if not schedule_data:
+        return jsonify({
+            'student_name': student_info['full_name'],
+            'branch': student_info['branch'],
+            'schedule': {}
+        })
 
-    # 1. Define the complete structure of your college's timetable.
-    #    You can customize these lists to match your college's full schedule!
-    all_days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
-    all_time_slots = [
-        "08:30 - 09:30", "09:30 - 10:30", "10:30 - 11:30", "11:30 - 12:30",
-        "12:30 - 01:30", "01:30 - 02:30", "02:30 - 03:30", "03:30 - 04:30",
-        "04:30 - 05:30"
+    # Full grid coverage — always show all days and time slots
+    days_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    full_time_slots = [
+        '09:00 - 10:00',
+        '10:00 - 11:00',
+        '11:00 - 12:00',
+        '12:00 - 01:00',
+        '01:00 - 02:00',
+        '02:00 - 03:00',
+        '03:00 - 04:00',
+        '04:00 - 05:00'
     ]
 
-    # 2. Create a complete, empty grid using these full lists.
-    grid = {time: {day: None for day in all_days} for time in all_time_slots}
+    unique_days = days_order
+    unique_time_slots = full_time_slots
 
-    # 3. Populate the grid with the classes you found.
+    # Build empty grid
+    grid = {time: {day: None for day in unique_days} for time in unique_time_slots}
+
+    # Fill grid with actual schedule data
     for row in schedule_data:
-        # This check prevents errors if a time/day from the database isn't in our master list.
         if row['time'] in grid and row['day'] in grid[row['time']]:
             grid[row['time']][row['day']] = dict(row)
-
-    # --- END OF CHANGES ---
 
     return jsonify({
         'student_name': student_info['full_name'],
         'branch': student_info['branch'],
         'schedule': {
-            'days': all_days,            # Use the full list for the columns
-            'time_slots': all_time_slots, # Use the full list for the rows
-            'grid': grid                 # The populated grid
+            'days': unique_days,
+            'time_slots': unique_time_slots,
+            'grid': grid
         }
     })
 
