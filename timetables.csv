@@ -7,7 +7,7 @@ MAC,Division 3,Monday,01:30-02:30,NC03
 MAC,Division 3,Tuesday,03:30-04:30,NC03
 MAC,Division 4,Monday,01:30-02:30,NC04
 MAC,Division 4,Tuesday,03:30-04:30,NC04
-MAC,Division 5,Tuesday,02:30-03:30,NC01
+MAC,Division 5,Friday,02:30-03:30,NC14
 MAC,Division 5,Wednesday,10:30-11:30,NC01
 MAC,Division 6,Tuesday,02:30-03:30,NC02
 MAC,Division 6,Wednesday,10:30-11:30,NC02
@@ -23,8 +23,8 @@ Linear Algebra,Division 2,Monday,01:30-02:30,NC08
 Linear Algebra,Division 2,Tuesday,03:30-04:30,NC08
 Linear Algebra,Division 3,Monday,01:30-02:30,NC11
 Linear Algebra,Division 3,Tuesday,03:30-04:30,NC11
-Linear Algebra,Division 4,Monday,01:30-02:30,NC12
-Linear Algebra,Division 4,Tuesday,03:30-04:30,NC12
+Linear Algebra,Division 4,Tuesday,02:30-03:30,NC14
+Linear Algebra,Division 4,Wednesday,10:30-11:30,NC14
 Linear Algebra,Division 5,Tuesday,02:30-03:30,NC11
 Linear Algebra,Division 5,Wednesday,10:30-11:30,NC11
 Linear Algebra,Division 6,Tuesday,02:30-03:30,NC12
@@ -221,11 +221,166 @@ CAD- Computer Aided Drafting,Division 1,Thursday,05:30-06:30,NC13
 EVA- EV Archi.,Division 1,Thursday,05:30-06:30,NC07
 MPFL- Manufacturing Practices and Fab Lab,Division 1,Thursday,05:30-06:30,NC14
 "RDOS- Robotics, Drone",Division 1,Thursday,05:30-06:30,NC06
-PD- Personality Development,Division 1,Saturday,08:30-09:30,NC01
-PD- Personality Development,Division 2,Saturday,10:30-12:30,NC01
-PD- Personality Development,Division 3,Saturday,08:30-09:30,NC02
-PD- Personality Development,Division 4,Saturday,10:30-12:30,NC02
-PD- Personality Development,Division 5,Saturday,08:30-09:30,NC03
-PD- Personality Development,Division 6,Saturday,10:30-12:30,NC03
-PD- Personality Development,Division 7,Saturday,08:30-09:30,NC04
-PD- Personality Development,Division 8,Saturday,10:30-12:30,NC04
+LAB Batch 1-ECE-Essentials of Civil Engineering,Division 1,Friday,10:30-11:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 1-ECE-Essentials of Civil Engineering,Division 1,Friday,11:30-12:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 2-ECE-Essentials of Civil Engineering,Division 1,Friday,10:30-11:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 2-ECE-Essentials of Civil Engineering,Division 1,Friday,11:30-12:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 3-ECE-Essentials of Civil Engineering,Division 1,Tuesday,04:30-05:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 3-ECE-Essentials of Civil Engineering,Division 1,Tuesday,05:30-06:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 4-ECE-Essentials of Civil Engineering,Division 1,Tuesday,04:30-05:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 4-ECE-Essentials of Civil Engineering,Division 1,Tuesday,05:30-06:30,Civil Drawing Hall 1 (CDH 1)
+LAB Batch 1-ECE-Essentials of Civil Engineering,Division 2,Tuesday,08:30-09:30,ST01 ( M Tech-Construction Management Classroom)
+LAB Batch 1-ECE-Essentials of Civil Engineering,Division 2,Tuesday,09:30-10:30,ST01 ( M Tech-Construction Management Classroom)
+LAB Batch 2-ECE-Essentials of Civil Engineering,Division 2,Tuesday,08:30-09:30,NT 03 ( M Tech Transportation Engineering Classroom)
+LAB Batch 2-ECE-Essentials of Civil Engineering,Division 2,Tuesday,09:30-10:30,NT 03 ( M Tech Transportation Engineering Classroom)
+LAB Batch 3-ECE-Essentials of Civil Engineering,Division 2,Monday,08:30-09:30,ST01 ( M Tech-Construction Management Classroom)
+LAB Batch 3-ECE-Essentials of Civil Engineering,Division 2,Monday,09:30-10:30,ST01 ( M Tech-Construction Management Classroom)
+LAB Batch 4-ECE-Essentials of Civil Engineering,Division 2,Monday,08:30-09:30,NT 03 ( M Tech Transportation Engineering Classroom)
+LAB Batch 4-ECE-Essentials of Civil Engineering,Division 2,Monday,09:30-10:30,NT 03 ( M Tech Transportation Engineering Classroom)
+LAB Batch 1-FEE- fundamentals OF Electrical Engineering,Division 1,Wednesday,04:30-05:30,TBD
+LAB Batch 1-FEE- fundamentals OF Electrical Engineering,Division 1,Wednesday,05:30-06:30,TBD
+LAB Batch 2-FEE- fundamentals OF Electrical Engineering,Division 1,Wednesday,04:30-05:30,TBD
+LAB Batch 2-FEE- fundamentals OF Electrical Engineering,Division 1,Wednesday,05:30-06:30,TBD
+LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1,Thursday,10:30-11:30,TBD
+LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1,Thursday,11:30-12:30,TBD
+LAB Batch 4-FEE- fundamentals OF Electrical Engineering,Division 1,Thursday,10:30-11:30,TBD
+LAB Batch 4-FEE- fundamentals OF Electrical Engineering,Division 1,Thursday,11:30-12:30,TBD
+LAB Batch 1-FEE- fundamentals OF Electrical Engineering,Division 2,Thursday,08:30-09:30,TBD
+LAB Batch 1-FEE- fundamentals OF Electrical Engineering,Division 2,Thursday,09:30-10:30,TBD
+LAB Batch 2-FEE- fundamentals OF Electrical Engineering,Division 2,Thursday,08:30-09:30,TBD
+LAB Batch 2-FEE- fundamentals OF Electrical Engineering,Division 2,Thursday,09:30-10:30,TBD
+LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 2,Tuesday,03:30-04:30,TBD
+LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 2,Tuesday,04:30-05:30,TBD
+LAB Batch 4-FEE- fundamentals OF Electrical Engineering,Division 2,Tuesday,03:30-04:30,TBD
+LAB Batch 4-FEE- fundamentals OF Electrical Engineering,Division 2,Tuesday,04:30-05:30,TBD
+Civil 1-CS- Communication Skills Dr.Neha Shroff,Division 1,Thursday,10:30-11:30,Lang Lab
+Civil 1-CS- Communication Skills Dr.Neha Shroff,Division 1,Thursday,11:30-12:30,Lang Lab
+Civil 2-CS- Communication Skills Dr. Amol Jadhav,Division 1,Thursday,10:30-11:30,NC10
+Civil 2-CS- Communication Skills Dr. Amol Jadhav,Division 1,Thursday,11:30-12:30,NC10
+Comp 3-CS- Communication Skills Dr.Avinash K,Division 1,Wednesday,01:30-02:30,Lang Lab
+Comp 3-CS- Communication Skills Dr.Avinash K,Division 1,Wednesday,02:30-03:30,Lang Lab
+Comp 3-CS- Communication Skills Dr.Avinash K,Division 2,Wednesday,01:30-02:30,Lang Lab
+Comp 3-CS- Communication Skills Dr.Avinash K,Division 2,Wednesday,02:30-03:30,Lang Lab
+Comp 4-CS-Communication Skills Dr. Amol Jadhav,Division 2,Wednesday,01:30-02:30,NC07
+Comp 4-CS-Communication Skills Dr. Amol Jadhav,Division 2,Wednesday,02:30-03:30,NC07
+Comp 5-CS- Communication Skills Dr. Neha Shroff,Division 2,Wednesday,01:30-02:30,NC10
+Comp 5-CS- Communication Skills Dr. Neha Shroff,Division 2,Wednesday,02:30-03:30,NC10
+Elec 6-CS- Communication Skills Dr. Avinash K,Division 2,Wednesday,10:30-11:30,Lang Lab
+Elec 6-CS- Communication Skills Dr. Avinash K,Division 2,Wednesday,11:30-12:30,Lang Lab
+Elec 6-CS- Communication Skills Dr. Avinash K,Division 3,Wednesday,10:30-11:30,Lang Lab
+Elec 6-CS- Communication Skills Dr. Avinash K,Division 3,Wednesday,11:30-12:30,Lang Lab
+Manu 7-CS- Communication Skills Dr. Amol Jadhav ,Division 3,Tuesday,10:30-11:30,Lang Lab
+Manu 7-CS- Communication Skills Dr. Amol Jadhav ,Division 3,Tuesday,11:30-12:30,Lang Lab
+Mech 8-CS- Communication Skills Dr. Neha Shroff,Division 3,Wednesday,10:30-11:30,NC09
+Mech 8-CS- Communication Skills Dr. Neha Shroff,Division 3,Wednesday,11:30-12:30,NC09
+Mech 8-CS- Communication Skills Dr. Neha Shroff,Division 4,Wednesday,10:30-11:30,NC09
+Mech 8-CS- Communication Skills Dr. Neha Shroff,Division 4,Wednesday,11:30-12:30,NC09
+Mech 9-CS- Communication Skills Dr. Amol Jadhav,Division 4,Wednesday,10:30-11:30,NC10
+Mech 9-CS- Communication Skills Dr. Amol Jadhav,Division 4,Wednesday,11:30-12:30,NC10
+Meta 10-CS- Communication Skills Dr. Neha Shroff,Division 4,Tuesday,10:30-11:30,NC03
+Meta 10-CS- Communication Skills Dr. Neha Shroff,Division 4,Tuesday,11:30-12:30,NC03
+AIML 11-CS- Communication Skills Dr. Amol Jadhav ,Division 5,Tuesday,03:30-04:30,NC07
+AIML 11-CS- Communication Skills Dr. Amol Jadhav ,Division 5,Tuesday,04:30-05:30,NC07
+AIML 12-CS-Communication Skills Dr. Avinash K,Division 5,Tuesday,03:30-04:30,NC14
+AIML 12-CS-Communication Skills Dr. Avinash K,Division 5,Tuesday,04:30-05:30,NC14
+Civil 13-CS- Communication Skills Dr. Meghna Mane,Division 5,Wednesday,03:30-04:30,NC10
+Civil 13-CS- Communication Skills Dr. Meghna Mane,Division 5,Wednesday,04:30-05:30,NC10
+Comp 14-CS- Communication Skills Dr. Amol Jadhav,Division 5,Monday,03:30-04:30,Lang Lab
+Comp 14-CS- Communication Skills Dr. Amol Jadhav,Division 5,Monday,04:30-05:30,Lang Lab
+Comp 15-CS- Communication Skills Dr. Neha Shroff,Division 6,Monday,03:30-04:30,NC07
+Comp 15-CS- Communication Skills Dr. Neha Shroff,Division 6,Monday,04:30-05:30,NC07
+Comp 16-CS- Communication Skills Dr. Meghna Mane,Division 6,Monday,03:30-04:30,NC14
+Comp 16-CS- Communication Skills Dr. Meghna Mane,Division 6,Monday,04:30-05:30,NC14
+Elec 17-CS- Communication Skills Dr. Avinash K,Division 6,Wednesday,03:30-04:30,Lang Lab
+Elec 17-CS- Communication Skills Dr. Avinash K,Division 6,Wednesday,04:30-05:30,Lang Lab
+Elec 17-CS- Communication Skills Dr. Avinash K,Division 7,Wednesday,03:30-04:30,Lang Lab
+Elec 17-CS- Communication Skills Dr. Avinash K,Division 7,Wednesday,04:30-05:30,Lang Lab
+E&TC 18-CS- Communication Skills Dr. Amol Jadhav,Division 7,Thursday,03:30-04:30,NC11
+E&TC 18-CS- Communication Skills Dr. Amol Jadhav,Division 7,Thursday,04:30-05:30,NC11
+E&TC 19-CS- Communication Skills Dr. Avinash K,Division 7,Thursday,03:30-04:30,NC14
+E&TC 19-CS- Communication Skills Dr. Avinash K,Division 7,Thursday,04:30-05:30,NC14
+E&TC 20-CS- Communication Skills Dr. Meghna Mane,Division 8,Thursday,03:30-04:30,Lang Lab
+E&TC 20-CS- Communication Skills Dr. Meghna Mane,Division 8,Thursday,04:30-05:30,Lang Lab
+Instru 21-CS- Communication Skills Dr. Amol Jadhav,Division 8,Monday,03:30-04:30,Lang Lab
+Instru 21-CS- Communication Skills Dr. Amol Jadhav,Division 8,Monday,04:30-05:30,Lang Lab
+Mech 22-CS- Communication Skills Dr. Neha Shroff,Division 8,Tuesday,03:30-04:30,Lang Lab
+Mech 22-CS- Communication Skills Dr. Neha Shroff,Division 8,Tuesday,04:30-05:30,Lang Lab
+1st and 3rd Sat-PD- Personality Development,Division 1,Saturday,09:30-10:30,AC101
+1st and 3rd Sat-PD- Personality Development,Division 1,Saturday,10:30-11:30,AC101
+1st and 3rd Sat-PD- Personality Development,Division 2,Saturday,09:30-10:30,AC102
+1st and 3rd Sat-PD- Personality Development,Division 2,Saturday,10:30-11:30,AC102
+1st and 3rd Sat-PD- Personality Development,Division 3,Saturday,09:30-10:30,AC103
+1st and 3rd Sat-PD- Personality Development,Division 3,Saturday,10:30-11:30,AC103
+1st and 3rd Sat-PD- Personality Development,Division 4,Saturday,09:30-10:30,AC104
+1st and 3rd Sat-PD- Personality Development,Division 4,Saturday,10:30-11:30,AC104
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 5,Saturday,10:30-11:30,AC101
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 5,Saturday,11:30-12:30,AC101
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 6,Saturday,10:30-11:30,AC102
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 6,Saturday,11:30-12:30,AC102
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 7,Saturday,10:30-11:30,AC103
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 7,Saturday,11:30-12:30,AC103
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 8,Saturday,10:30-11:30,AC104
+PD- Personality Development(1st&3rd- 11am/ 2nd&4th- 10:45am),Division 8,Saturday,11:30-12:30,AC104
+2nd & 4th Sat-PD- Personality Development (Till 10:30),Division 1,Saturday,08:30-09:30,AC101
+2nd & 4th Sat-PD- Personality Development (Till 10:30),Division 2,Saturday,08:30-09:30,AC102
+2nd & 4th Sat-PD- Personality Development (Till 10:30),Division 3,Saturday,08:30-09:30,AC103
+2nd & 4th Sat-PD- Personality Development (Till 10:30),Division 4,Saturday,08:30-09:30,AC104
+LAB Batch 2(Comp)-AM- Applied Mech-Mrs. Y. T. Lomte Patil,Division 1,Wednesday,04:30-05:30,Engineering Mechanics Lab
+LAB Batch 2(Comp)-AM- Applied Mech-Mrs. Y. T. Lomte Patil,Division 1,Wednesday,05:30-06:30,Engineering Mechanics Lab
+LAB-Batch 3A-AM- Applied Mech Dr. A. R. Tidke,Division 1,Monday,10:30-11:30,Engineering Mechanics Lab
+LAB-Batch 3A-AM- Applied Mech Dr. A. R. Tidke,Division 1,Monday,11:30-12:30,Engineering Mechanics Lab
+LAB Batch3B-AM- Applied Mech-Dr. R. D. Shambharkar,Division 1,Monday,10:30-11:30,NT 05-SOM Classsroom
+LAB Batch3B-AM- Applied Mech-Dr. R. D. Shambharkar,Division 1,Monday,11:30-12:30,NT 05-SOM Classsroom
+LAB Batch 4A-AM- Applied Mech-Mrs. Y. T. Lomte Patil,Division 1,Tuesday,04:30-05:30,Engineering Mechanics Lab
+LAB Batch 4A-AM- Applied Mech-Mrs. Y. T. Lomte Patil,Division 1,Tuesday,05:30-06:30,Engineering Mechanics Lab
+LAB Batch 4B-AM- Applied Mech- Mr.Rohit D. Mangalekar,Division 1,Tuesday,04:30-05:30,NT 05-SOM Classsroom
+LAB Batch 4B-AM- Applied Mech- Mr.Rohit D. Mangalekar,Division 1,Tuesday,05:30-06:30,NT 05-SOM Classsroom
+LAB Batch 1A-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Thursday,08:30-09:30,Engineering Mechanics Lab
+LAB Batch 1A-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Thursday,09:30-10:30,Engineering Mechanics Lab
+LAB Batch 1B-AM- Applied Mech-Mr.Rohit D. Mangalekar,Division 2,Thursday,08:30-09:30,NT 05-SOM Classsroom
+LAB Batch 1B-AM- Applied Mech-Mr.Rohit D. Mangalekar,Division 2,Thursday,09:30-10:30,NT 05-SOM Classsroom
+LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Monday,01:30-02:30,Engineering Mechanics Lab
+LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Monday,02:30-03:30,Engineering Mechanics Lab
+LAB Batch 3-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Monday,08:30-09:30,Engineering Mechanics Lab
+LAB Batch 3-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Monday,09:30-10:30,Engineering Mechanics Lab
+LAB Batch 4-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Friday,08:30-09:30,Engineering Mechanics Lab
+LAB Batch 4-AM- Applied Mech-Dr. Prajkta S. Shete,Division 2,Friday,09:30-10:30,Engineering Mechanics Lab
+Tut Batch 1-MAC,Division 1,Tuesday,09:30-10:30,NC01
+Tut Batch 2-MAC,Division 1,Friday,02:30-03:30,NC01
+Tut Batch 3-MAC,Division 1,Saturday,03:30-04:30,NC01
+Tut Batch 4-MAC,Division 1,Thursday,03:30-04:30,NC01
+Tut Batch 1-MAC,Division 2,Tuesday,09:30-10:30,NC02
+Tut Batch 2-MAC,Division 2,Friday,08:30-09:30,NC02
+Tut Batch 3-MAC,Division 2,Monday,03:30-04:30,NC02
+Tut Batch 4-MAC,Division 2,Thursday,03:30-04:30,NC02
+Tut Batch 1-MAC,Division 5,Thursday,10:30-11:30,NC01
+Tut Batch 2-MAC,Division 5,Friday,10:30-11:30,NC01
+Tut Batch 3-MAC,Division 5,Saturday,12:30-01:30,NC01
+Tut Batch 3-MAC,Division 5,Saturday,01:30-02:30,NC01
+Tut Batch 4-MAC,Division 5,Friday,11:30-12:30,NC01
+LAB Batch 1-SME- System in Mech Engg,Division 1,Wednesday,04:30-05:30,TBD
+LAB Batch 1-SME- System in Mech Engg,Division 1,Wednesday,05:30-06:30,TBD
+LAB Batch 2-SME- System in Mech Engg,Division 1,Wednesday,04:30-05:30,TBD
+LAB Batch 2-SME- System in Mech Engg,Division 1,Wednesday,05:30-06:30,TBD
+LAB Batch 3-SME- System in Mech Engg,Division 1,Tuesday,10:30-11:30,TBD
+LAB Batch 3-SME- System in Mech Engg,Division 1,Tuesday,12:30-01:30,TBD
+LAB Batch 4-SME- System in Mech Engg,Division 1,Tuesday,10:30-11:30,TBD
+LAB Batch 4-SME- System in Mech Engg,Division 1,Tuesday,12:30-01:30,TBD
+LAB Batch 1-SME- System in Mech Engg,Division 2,Wednesday,08:30-09:30,TBD
+LAB Batch 1-SME- System in Mech Engg,Division 2,Wednesday,09:30-10:30,TBD
+LAB Batch 2-SME- System in Mech Engg,Division 2,Monday,01:30-02:30,TBD
+LAB Batch 2-SME- System in Mech Engg,Division 2,Monday,02:30-03:30,TBD
+LAB Batch 3-SME- System in Mech Engg,Division 2,Wednesday,08:30-09:30,TBD
+LAB Batch 3-SME- System in Mech Engg,Division 2,Wednesday,09:30-10:30,TBD
+LAB Batch 4-SME- System in Mech Engg,Division 2,Monday,01:30-02:30,TBD
+LAB Batch 4-SME- System in Mech Engg,Division 2,Monday,02:30-03:30,TBD
+Tut Batch 1-MAC,Division 6,Thursday,10:30-11:30,NC02
+Tut Batch 2-MAC,Division 6,Friday,10:30-11:30,NC02
+Tut Batch 3-MAC,Division 6,Saturday,12:30-01:30,NC02
+Tut Batch 3-MAC,Division 6,Saturday,01:30-02:30,NC02
+Tut Batch 4-MAC,Division 6,Friday,11:30-12:30,NC02
+Tut Batch 1-MAC,Division 7,Thursday,10:30-11:30,NC03
+Tut Batch 2-MAC,Division 7,Friday,10:30-11:30,NC03
+Tut Batch 3-MAC,Division 7,Saturday,12:30-01:30,NC03
+Tut Batch 3-MAC,Division 7,Saturday,01:30-02:30,NC03
+Tut Batch 4-MAC,Division 7,Friday,11:30-12:30,NC03
