@@ -1357,7 +1357,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515372,ESHA,ANAND,MALANKAR,Computer Science and Engineering,Engg Chem,Division  7
 612515373,GOURAV,NITIN,PATIL,Computer Science and Engineering,Engg Chem,Division  7
 612515376,JAY,SATISH,SABALE,Computer Science and Engineering,Engg Chem,Division  7
-612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,Engg Chem,Division  7
+612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,Engg  Physics,Division  7
 612505134,SACHIN,MAHADU,RAJPUT,Electrical Engineering,Engg Chem,Division  7
 612505139,SAKET,SIDDHARTH,TAMGADGE,Electrical Engineering,Engg Chem,Division  7
 612505140,SAMRUDH,RAHUL,GUPTA,Electrical Engineering,Engg Chem,Division  7
@@ -5653,7 +5653,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505100,YASH,HANUMAN,PHAD,Electrical Engineering,BCE- Basics Of Civil Engineering,Division  1
 612505121,PRANJALI,SANTOSH,TEMBHURNE,Electrical Engineering,BCE- Basics Of Civil Engineering,Division  1
 612505126,PREM,PRADIP,SONNE,Electrical Engineering,BCE- Basics Of Civil Engineering,Division  1
-612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,BCE- Basics Of Civil Engineering,Division  1
+612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,AIMA- AI for Multi. Application,Division  2
 612505150,SHRINIVAS,KESHAO,KINAKE,Electrical Engineering,BCE- Basics Of Civil Engineering,Division  1
 612507077,NEHA,SHANKAR,GAIKWAD,Electronics and Telecommunication Engineering,BCE- Basics Of Civil Engineering,Division  1
 612507085,PANKAJ,ATMARAM,GAIKWAD,Electronics and Telecommunication Engineering,BCE- Basics Of Civil Engineering,Division  1
@@ -6420,7 +6420,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505106,ATHARVA,MAROTI,RANDAI,Electrical Engineering,AM- Applied Mech,Division  2
 612505111,KHYATI,VIVEKANAND,WAGHMARE,Electrical Engineering,AM- Applied Mech,Division  2
 612505128,RAM,SURESH,TIKAR,Electrical Engineering,AM- Applied Mech,Division  2
-612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,AM- Applied Mech,Division  2
+612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,FCS- Fundamentals of Cyber Security,Division  2
 612505133,RUTURAJ,,DHOTRE,Electrical Engineering,AM- Applied Mech,Division  2
 612505154,SRUSHTI,GAJANAN,HINGMIRE,Electrical Engineering,AM- Applied Mech,Division  2
 612505160,VAISHNVI,SANJAY,SONKATALE,Electrical Engineering,AM- Applied Mech,Division  2
@@ -8610,7 +8610,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505123,PRATHAM,RAJESH,SIDAM,Electrical Engineering,EMS- Electrical Maintainance and Safety,Division  1
 612505125,PRATIK,VIKAS,WAIDANDE,Electrical Engineering,EMS- Electrical Maintainance and Safety,Division  1
 612505128,RAM,SURESH,TIKAR,Electrical Engineering,EMS- Electrical Maintainance and Safety,Division  1
-612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,EMS- Electrical Maintainance and Safety,Division  1
+612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,PP- Python Programming,Division  2
 612505139,SAKET,SIDDHARTH,TAMGADGE,Electrical Engineering,EMS- Electrical Maintainance and Safety,Division  1
 612505142,SANKALP,NAVIN,PATIL,Electrical Engineering,EMS- Electrical Maintainance and Safety,Division  1
 612505144,SHARAYU,GANESH,SONAWANE,Electrical Engineering,EMS- Electrical Maintainance and Safety,Division  1
@@ -12814,7 +12814,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505106,ATHARVA,MAROTI,RANDAI,Electrical Engineering,LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division  2
 612505111,KHYATI,VIVEKANAND,WAGHMARE,Electrical Engineering,LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division  2
 612505128,RAM,SURESH,TIKAR,Electrical Engineering,LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division  2
-612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division  2
 612505133,RUTURAJ,,DHOTRE,Electrical Engineering,LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division  2
 612505154,SRUSHTI,GAJANAN,HINGMIRE,Electrical Engineering,LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division  2
 612505160,VAISHNVI,SANJAY,SONKATALE,Electrical Engineering,LAB Batch 2-AM- Applied Mech-Dr. Prajkta S. Shete,Division  2
@@ -15373,3 +15372,496 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612511090,RUPESH,DILIP,BARASKAR,Metallurgy and Materials Technology,LAB Batch 2-Engg  Physics,Division  4
 612511093,VARAD,RAJENDRA,KALEL,Metallurgy and Materials Technology,LAB Batch 2-Engg  Physics,Division  4
 612511095,DEVANG,KIRAN,BHAVSAR,Metallurgy and Materials Technology,LAB Batch 2-Engg  Physics,Division  4
+612572001,AADITYA,RANJEET,SHAH,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572002,AARADHYA,PANDEY,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572004,AAYUSH,RAJESH,KERKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572006,ABHEDYA,SRIVASTAVA,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572007,ADITYA,UTTAM,AHER,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572008,AJINKYA,AMBADAS,GULIG,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572009,AJINKYA,SHARAD,PATIL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572010,AJNISH,RAJ,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572014,ANUSHKA,VIJAYKUMAR,KAMMAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572015,ARCHIT,SUSHIL,KOTWALA,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572016,ARNAV,AVINASH,PARBAT,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572018,ARUSH,ASHISH,KALAWAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572021,AYUSH,ANIL,SONAWANE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572022,AYUSH,HEMANT,PAREEK,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612572023,AYUSH,NANDKUMAR,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  5
+612501111,RANVEERSINH,MAHESH,BHOSALE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  5
+612501113,RISHIKESH,SUNIL,WAGH,Civil Engineering,LAB Batch 3-Engg  Physics,Division  5
+612501117,RUTHIK,RAHUL,BORA,Civil Engineering,LAB Batch 3-Engg  Physics,Division  5
+612501119,SACHIN,RAJUPRASAD,SAW,Civil Engineering,LAB Batch 3-Engg  Physics,Division  5
+612501126,SARDA,RIYA,PAVAN,Civil Engineering,LAB Batch 3-Engg  Physics,Division  5
+612515201,PIYUSH,PATIL,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515202,POOJA,KIRAN,ROKADE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515203,PRABAL,ANILKUMAR,JAISWAL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515204,PRACHI,ASHOK,NIMKAR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515205,PRACHI,RAMESH,PATIL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515206,PRAGNYA,MAKARAND,KULKARNI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515207,PRAJWAL,GANESH,BHISE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515209,PRANAV,NILESH,NEHETE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515210,PRANAV,SANTOSH,MARKE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515211,PRANAV,SATISH,GOGAWALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515215,PRASAD,BHARTESH,WADKAR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515216,PRATHAMESH,SANTOSH,MORE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515217,PRATHMESH,NALKUL,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515219,PRERANA,AJIT,ZANJURNE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515220,PRNAV,SUDHIR,SHINDE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515221,PURVA,AVINASH,KALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515224,RAHUL,ANIL,KAMBALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515225,RANAPRITHVIRAJ,GAJANAN,PATIL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515226,RASIKA,SANTOSH,KUKADE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515227,REVATI,SHANTANU,PETHE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515231,RITESH,TUSHAR,PATKARI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515232,RIYA,KANCHAN,DAHIWALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515233,ROHAN,RAMDAS,DOME,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  5
+612515234,RUDRA,ANIL,PAWAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515236,RUSHIKESH,GANESH,JADHAO,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515239,SAHIL,RAMDAS,TAWHARE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515241,SAIPRASAD,MADHAVRAO,PAINAPALLE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515242,SAIRAJ,SANTOSH,KAVITAKE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515243,SAKET,ANAND,JOSHI,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515244,SAKSHAM,NILESH,PATIL,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515245,SAMARTH,ANIL,PHARTADE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515246,SAMARTH,SANJAY,KULKARNI,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515247,SAMIALI,SADIKALI,SAYYAD,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515250,SAMRUDDHI,TANAJI,KAMBLE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515252,SANA,SANJAY,SHARMA,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515253,SANCHIT,BABURAO,FARAKATE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515254,SANCHIT,GANESH,TAMHANE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612515258,SANKET,BABASAHEB,NABAGE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505101,ABHINANDAN,SUNIL,SONTAKKE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505103,ADITYA,UDDHAV,TEKALE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505106,ATHARVA,MAROTI,RANDAI,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505109,HARSHAD,SACHIDANAND,SWAMI,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505110,ISHWARI,RAHUL,SUDKE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505113,MANAV,MADAN,KHANDVE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505114,OJAS,DEEPAK,SHIRBHATE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505115,OM,SHIRISH,SHINDE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505116,PANKAJ,RAJENDRA,PUNIYANI,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505117,PRAJAKTA,JAGANNATH,SANGALE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505119,PRAJWAL,RAVINDRA,BENDRE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505120,PRANAV,ANANDA,SHINDE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505122,PRATHAM,NILESH,NIGADE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612505128,RAM,SURESH,TIKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  5
+612507002,AADITYA,MAHESH,NARKHEDKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507005,ABHIJIT,SHANTESHWAR,SWAMI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507007,ABHISHEK,RAJESHWAR,KOKATE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507009,ADITYA,ANIL,KHAWALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507011,ADITYA,DNYANOBA,BORKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507012,ADITYA,GUPTA,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507013,ADITYA,SATYANARAYAN,SONI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507014,AISHI,ROY,CHOUDHURY,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507015,AJINKYA,ARVIND,MAGADUM,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507016,AKSHAT,ATUL,KOTHARI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507018,ANISHA,AVADHUT,KAMBLE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507020,ANURADHA,BHAGWAN,AWALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507022,ARCHIT,MANOJ,DESHPANDE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507023,ARNAV,TEJAS,PADHYE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507024,ARYAN,ASHOK,TIWARI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507025,ARYAN,PRASHANT,GORE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507026,ARYAN,SANJAY,POL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507027,ASHUTOSH,KUMAR,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507028,ATHARV,AMOL,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507029,ATHARV,MACHINDRANATH,KOLEKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507030,ATHARVA,RAVI,DEGALMODE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507031,ATHARVA,SACHIN,GOVINDWAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507033,AVADHUT,SANJAY,YADAV,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507037,CHAITANYA,SUNIL,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507038,CHINMAY,PRADEEP,MUDGALKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507039,DEVAASHISH,PRANAV,VAIDYA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507040,DHANANJAY,SUNIL,KASULE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507044,GANDHAR,PRASHANT,TAWADE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507045,HARSHAD,RAMRAO,BHOYAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612507046,HARSHVARDHAN,YUVRAJ,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  5
+612509002,AGRAJ,SANJAY,RAUT,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509003,AMAN,KHANDELWAL,,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509004,AMEY,AJAY,KSHIRSAGAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509006,ANANNYA,TUSHAR,MIRKUTE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509008,ARYAN,ADMANE,,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509009,ASHVIN,VISHNU,WANJARE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509010,ASHWIN,PREM,PATHAK,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509013,CHINMAY,ANIL,DHEKANE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612509015,DAKSH,DHANANJAY,GATTEWAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  5
+612510104,ADITYA,JAYSING,SHINDE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510105,ARYAN,RAUT,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510106,ARYEN,SACHIN,SANTOSHWAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510110,GANESH,GULAB,SABLE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510111,GAURAV,AMBRISH,TIWARI,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510112,ISHAN,ASHUTOSH,WALIMBE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510114,JAY,SUNIL,VARHADE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510115,KAUSTUBH,VINAYAK,NAGAVKAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510120,NEELAKSH,UMESH,PANDYA,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510121,NIDHI,RAMSAGAR,VISHWAKARMA,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612510123,OM,HARISH,NAHIDE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  5
+612572024,BINITMANI,UMESHMANI,TRIPATHI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572027,DEEP,VINOD,AGRAWAL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572028,DHANVI,PARESH,BHUJBAL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572029,DHARINI,SUSHILKUMAR,PATIL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572031,DURVESH,ADESH,SHETH,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572034,HARSHAL,AMIT,JAGIASI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572035,HARSHIT,RAMESH,SHIROL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572036,HEER,HAMIR,JOBANPUTRA,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572037,ISHA,MUKUND,MANDKE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572038,KETAN,HEMANT,ROPLEKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572039,KRISHNA,NITIN,KHILARE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572040,MANAS,CHAVAN,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572041,MANAS,MUKESH,BADGUJAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572043,MAYANK,NITIN,CHANDOLE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612572044,MIHIRA,PRASAD,PANDE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  6
+612501146,SONAL,DAULATKAR,SHIRLEY,Civil Engineering,LAB Batch 3-Engg  Physics,Division  6
+612501149,SUJAL,SACHIN,LOTAKE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  6
+612501150,SUPRIYA,KUMARI,,Civil Engineering,LAB Batch 3-Engg  Physics,Division  6
+612501152,SWAROOP,BIBHISHAN,THOMBARE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  6
+612501153,TANISQ,VASUDEV,KORRULKAR,Civil Engineering,LAB Batch 3-Engg  Physics,Division  6
+612515259,SANSKAR,ANIL,SOBALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515260,SANSKAR,SUDHAKAR,MALI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515262,SANSKRUTI,MILIND,MANGALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515263,SANSKRUTI,UMESH,KEWALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515264,SARTHAK,NEERAJ,BHASKAR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515265,SARTHAK,RAVINDRA,PARADHI,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515266,SARTHAK,SAMBHAJI,SHIMBRE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515267,SARVESH,MANGESH,MULMULE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515268,SARVESH,RAJENDRA,KALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515269,SATYAJEET,SANJAY,PATIL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515271,SAURABH,MAHENDRA,WAGAJ,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515273,SHAIKHMOHAMMAD,RAED,AQUEEL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515275,SHANTANU,RAJESH,MAHAJAN,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515276,SHARAD,SATALKAR,SANSKAR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515277,SHARWIL,SACHIN,SHIMPI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515278,SHASHANK,RAJENDRA,SANGLE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515279,SHASHANK,SAINATH,MORE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515280,SHITAL,MALLINATH,PUJARI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515284,SHOURY,RAI,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515287,SHREYA,KADAM,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515288,SHREYA,PANDEY,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515290,SHREYASH,DATTA,TEMBHARE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515291,SHREYASH,SANTOSH,KADAM,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  6
+612515292,SHRIRAJ,RAMCHANDRA,JADHAV,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515293,SHRISH,NILESH,PATTEWAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515296,SIDDHESH,DIPAK,RAJPUT,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515297,SIDDHI,SANDIP,NIKAM,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515298,SNEHA,SATYAVAN,PATIL,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515299,SNEHAL,RUPRAJ,RANDAYE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515300,SNEHAL,SHIVRAJ,MULE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515301,SOHAM,SHANKAR,SHINGADE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515302,SOURABH,VISHNU,AMANE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515303,SUHANI,PRATAPSINH,MORE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515304,SUKHWINDER,SINGH,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515306,SUMEDH,SANTOSH,SHELGAONKAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515307,SUMIT,SUNIL,LAJURKAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515308,SUSHANT,HANSRAJ,PATIL,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515309,SUYASH,SUDHAKAR,CHAVAN,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612515310,SWARA,SANJAY,KURHADE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505133,RUTURAJ,DHOTRE,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505135,SAGAR,SUSTE,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505137,SAHIL,VASANT,LONKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505138,SAISH,VIJAY,SARGAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505141,SANJANA,ANAND,IJERI,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505143,SANKET,SANJAY,PAGAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505146,SHON,CHANDRASHEKHAR,LOKHANDE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505147,SHRADDHEY,CHARANDAS,DORLE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505148,SHRAVANI,BHUSHAN,DHOREY,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505149,SHRINATH,RAHUL,TARE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505151,SOHA,DNYANESHWAR,BORCHATE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505153,SOHAN,SATISH,KURKURE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612505155,SURYANSHU,PATIL,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  6
+612507047,HARSHWARDHAN,ADHIK,JAGTAP,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507048,HIMANSHU,DIPAK,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507050,ISHAAN,SHRIKANT,MUDKHEDKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507056,KAIVALYA,GANESH,MHATRE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507057,KARTIK,DILIP,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507058,KARTIK,GANESH,RAUT,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507059,KRISHNA,BHIKAN,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507062,KUNAL,VINOD,NIMJE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507063,LAKSHYA,VARSHNEY,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507065,LOKESH,ANIL,SURYAWANSHI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507067,MADHURA,DATTATRAY,JAGTAP,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507068,MANDAR,PRASHANT,DESAI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507071,MEET,VINAY,GUPTA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507072,MEGHAJ,PRASHANT,SHARMA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507073,NARAYANI,JAWALE,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507074,NEEL,RAHUL,BHARAMBE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507079,OJAS,DEVENDRA,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507080,OM,LALIT,RANE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507082,OMKAR,MAHESH,SHITOLE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507083,ONKAR,ASHOK,WAGH,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507084,ONKAR,RAJSHEKHAR,JAMBAGI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507086,PARSHAD,SACHIN,NALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507089,PARTH,SACHIN,NALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507091,PARTH,WADKAR,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507094,PRAGATI,YOGESH,BHORE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507095,PRANAV,GANESH,KHAIRNAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507096,PRANJAL,MAHESHKUMAR,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507100,PRIYAANSH,PRATAP,TENDULKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507101,PRIYESH,SUNIL,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612507102,PURVA,MAHESH,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  6
+612509016,DHANANJAY,SARVE,MALHAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509020,HARSH,SACHIN,VATHARE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509022,JANHAVI,GHOSE,,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509026,MEET,AMOL,PATIL,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509030,OMKAR,BHAGINATH,KORADE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509031,PARTH,SACHIN,AGRAWAL,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509044,SARTHAK,MAHADEV,BHAWAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612509045,SHARWARI,RAJESH,JAWADE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  6
+612510125,OM,SIDDHESHWAR,NARAKE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510127,PARTH,MANOJ,BOBADE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510134,RAHUL,DILIP,SHINDE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510137,RISHABH,AMARISH,KARNIK,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510138,RIYA,SACHIN,PATIL,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510139,ROBIN,XAVIER,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510140,ROHAN,SANTOSH,HARDE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510143,SAMARTH,SACHIN,KHULE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510150,SHANTANU,VIJAY,VAIDYA,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612510155,SHREERAM,SAMEER,SAWARKAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  6
+612572065,SNEHAL,AMOL,CHITNIS,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572066,SNEHAL,MAHADEV,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572073,TANMAY,NITIN,KOLHE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572076,VED,TUSHAR,BHATTAD,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572077,VEDANG,VIRAMSHRI,BIDWAI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572080,VEDANT,UTTAM,NANGARE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572081,VEDIKA,VIVEK,PATIL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572082,VEER,CHIRAG,SHAH,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572084,VIJAY,SHIVRAM,PRAJAPATI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572086,VITTHAL,GAJANAN,MASWADKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572087,YASH,DILIPRAO,KHEDKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572088,ABDEALI,MUSTANSIR,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572094,SIYA,SAGAR,POWAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572096,ANTARA,MUKHERJEE,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572097,ANTARA,SANTOSH,KOKATE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612572098,GIRISH,DODEJA,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  8
+612501175,YASH,PARESH,KOYALE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  8
+612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  8
+612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,LAB Batch 3-Engg  Physics,Division  8
+612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,LAB Batch 3-Engg  Physics,Division  8
+612501186,YUVRAAJ,SUDHIR,YEOLE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  8
+612515357,ADITYA,NARAYAN RAO,SENAPATI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515358,ADVAY,KIRDAT,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515360,ALISHA,GADKARI,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515361,AMOGH,JAYDEEP,UTEKAR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515362,ANAYA,SANDEEP,GORE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515363,ANVI,PRAVIN,MOKAL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515364,AREEN,YATIN,VALS NGKAR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515368,AYUSH,PORE,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515369,DEVARSH,DHANANJAY,MULEY,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515371,DIVIJ,SANDEEP,BANAVALI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515374,HRIDA,RAJESH,PATTANSHETTI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515375,ISHAAN,MAKARAND,SONAWANE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515377,KALASH,MUKUND,VANKAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515378,KESHAV,PAZHAYANNUR,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515380,MALHAR,PARAG,RAUL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515381,MIHIR,KEDAR,DEOGAONKAR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515383,MITALI,ROHAN,BHINDWALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515386,PARTH,MANOJKUMAR,PATIL,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515388,RISHABH,RATHI,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515389,RISHI,PATHAK,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515390,RIYA,ASHISH,LONDHE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515391,RIYA,RAGESH,APPINI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515392,RUSHABH,ATUL,SHAH,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515393,RUSHI,AMIT,RANADE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515397,SHAHRIYAR,SALSABEEL,MANSOOR,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  8
+612515399,SHREYAK,GIRISH,KADAM,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515401,SHRIHAN,KEDAR,KULKARNI,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515404,SOHAM,TIWARI,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515406,SURYANSH,PANDEY,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515408,TANVI,PAWAR,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515409,TIRTH,DHANJAI,MUSALE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515411,VAISHNAVI,MANOJKUMAR,JANGAM,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515412,VARAD,BHARASKAR,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515414,VIBHUTE,SOHAM,RAJKUMAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515416,YASH,GOEL,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515417,YASH,KALONI,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515419,AKSHIT,RAJESH,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515420,DHRUV,ASHISH,SHAH,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612515421,AARYA,PARESH,NIMKAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505177,AMOGH,ABHAY,KULKARNI,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505179,ASTHA,GUPTA,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505180,BHAVIK,RAJESH,KALRA,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505181,EHSAN,BAKSHI,S,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505182,FAROOQUI,MOHAMMAD,ANWAAR SABIR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505183,GAURAV,GUNDA,KODAG,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505184,MRUNAL,MANDAR,RATNAPARKHI,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505185,PARTH,MANOJ,PAWAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505186,RUPAK,SHIVDARSHAN,AMBEKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505187,SHRAVAN,JITENDRA,MORE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505188,SHREYASH,NITIN,SIDURKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505190,VEDANT,RAJENDRA,YEUL,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612505191,SHOURYA,MOHITE,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  8
+612507145,SIDDHI,MANOHAR,REDEKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507146,SNEHAL,BABURAO,AMBRE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507147,SOHAM,TANAJI,ADEKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507148,SOUMYA,SANJAY,FUSEY,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507149,SOURABH,SUNIL,SONTAKKE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507151,SUPRIYA,MAHENDRA,BORDEPATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507152,SURAJ,PAWAR,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507153,SUYASH,ANIL,JORE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507154,SWANANDI,GHANSHYAM,ZADE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507157,SWARALI,HIMMATRAO,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507158,SWAYAM,RAHUL,BANKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507159,TANISHA,PRAVIN,BABAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507160,TANISHQ,KAMLESH,BHANDARI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507161,TANVI,AJAY,MEHENDALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507163,VARAD,SADASHIV,SAROLKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507165,VEDANG,PANKAJ,VORA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507166,VEDANT,GOVINDRAO,KULKARNI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507168,VEDANT,VENKAT,HURCHNALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507169,VIRAJ,SWAPNIL,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507170,VISHWAJEET,SOMANATH,MOHITE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507171,VISHWANAND,MARUTHE,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507172,YUWANSH,DAHIKAR,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507181,SAMMIT,BHUSHAN,CHINCHALKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507185,SHRUTI,SANTOSH,LONKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507186,SWARALI,JAYDEEP,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507187,ADITYA,JAGAN,WABLE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507190,SAMYAK,TUSHAR,JAIN,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507191,SHIVRAJ,KAKASAHEB,BANDWAN,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612507192,RANVEER,SIDDHARTH,AJINKYA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  8
+612509061,VARDHAN,HERAMB,KULKARNI,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509062,VEDANT,ASHOK,BHAKRE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509064,VIRUPAKSHA,DNYANOBA,DHAGE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509065,WAKDE,RANJEET,JEEVAN,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509066,YASHODEEP,MAHENDRA,GAIKWAD,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509068,ZIL,SHARAD,BHUTE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509069,NAKSHATRA,ROHITKUMAR,PATIL,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509071,GURUKANT,TIWARI,,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509073,OMKAAR,SACHIN,PATWARDHAN,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612509074,SHREEHARI,FATING,,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  8
+612510171,VINISHA,SAMPATH,MUDALIAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510172,VRIDDHI,SHETTY,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510175,ARINJAY,RUDRA,PARASHER,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510177,BHUMIKA,SAMEER,MAHAJAN,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510180,MALHAR,SACHIN,SHEDBALKAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510183,SHRIYA,YOGESH,JOSHI,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510185,APURV,NITIN,INGALE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510186,KHUSHI,BANSAL,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510187,KSHITIJ,SUNIL,KUMBHAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510188,NACHIKET,VAISHAMPAYAN,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510189,VIDHIKA,SANJAY,SHARMA,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612510190,YASHODHAN,DAYANAND,KAMATH,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  8
+612572045,MRUDULA,VINAY,NISAL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572046,NAYAN,SURESH,ANDHALE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572047,PARTH,MARTAND,JORI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572048,PRASAD,SATISH,KULKARNI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572049,PRASANNA,UMESH,SAWANT,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572050,PRATHMESH,SHRIKANT,DAROKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572053,ROHIT,DIPAK,ZANWAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572054,RUDRAKSHA,CHANDRAKANT,BABAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572055,SAIRAJ,AJIT,TIVALE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572056,SAMRUDDHI,YASHWANT,MALI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572057,SANCHIT,PRAKASH,NIKAM,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572058,SANSKRUTI,SATYAWAN,JAGTAP,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572059,SHAHIL,SINGH,SHEKHAWAT,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572060,SHASHANK,RAHUL,PASTAPURE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572063,SHREYAS,SATISHKUMAR,SAVADE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612572064,SHUBHRA,JITENDRA,AHIRRAO,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division  7
+612501155,TEJVEER,AVINASH,DHAKNE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  7
+612501158,URGEN,DORJEE,,Civil Engineering,LAB Batch 3-Engg  Physics,Division  7
+612501167,VINIT,MANOJ,JOJARE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  7
+612501170,VISHWAJEET,AJAY,KARALE,Civil Engineering,LAB Batch 3-Engg  Physics,Division  7
+612501172,VIVOTO,PUCHO,,Civil Engineering,LAB Batch 3-Engg  Physics,Division  7
+612515311,TANISHKA,RAJKUMAR,JADHAV,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515312,TANISHQ,BHARUD,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515313,TANISHQ,DAYANAND,KASHID,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515315,TANMAY,NARENDRAKUMAR,PATIL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515316,TANVI,MANOJ,LOYA,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515317,TEJAS,CHANDRAKANT,SURYAVANSHI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515318,TEJAS,NANDKISHOR,PALVE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515319,TEJAS,SUDEEP,APHALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515320,TILAK,SHARAD,THETE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515325,VARSH,GOINDANI,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515326,VEDANT,KAREKAR,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515327,VEDANT,KIRAN,MOTEWAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515328,VEDANT,NANASO,SARAK,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515330,VEDANT,VIKAS,PANGARE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515331,VEDIKA,NITIN,CHAUDHARI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515332,VIGHNESH,ANIL,THALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515333,VIJAY,SHAMSUNDAR,KADAM,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515334,VIKHYATH,VINAYAK,PATIL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515335,VINITA,DATTATRAY,KULKARNI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515337,VISHAL,VENKATESH,BHAT,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515338,VIVEK,SUNIL,LAGAD,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515339,YASH,ALOK,CHOUREY,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515340,YASH,RAHUL,SOMANI,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515341,YASH,RAMPRASAD,AMBHURE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515342,YASH,SAGAR,VARMA,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515343,YASH,SANDEEP,LONDHE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515344,YASH,SANTOSH,SHINGAVI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division  7
+612515345,YASH,SUDHAKAR,WANKHEDE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515346,YASHRAJ,VINAYAK,KALE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515347,YASHVARDHAN,VIJAY,WALSE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515348,YESHASHREE,SHAILESH,KARHALE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515349,AADITYA,AMIT,PATEL,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515350,AADYA,SHAH,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515351,AARUSH,CHIRAG,SHAH,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515352,ABHISHEK,BIJJARGI,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515355,ADITYA,ASHTUOSH,DESHMUKH,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612515356,ADITYA,KEDAR,BAVADEKAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505157,SWANAND,DHANANJAY,SIRSIKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505159,UTKARSH,GIRIDHAR,JHA,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505161,VARAD,RAJESH,INGALE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505162,VARUN,HEMANT,GODBOLE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505163,VEDANSHU,ANILKUMAR,PANDEY,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505164,VEDANT,MAHAJAN,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505165,VEERPRATAPSINGH,JAGDISHSINGH,THAKUR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505167,VIKRAM,SINGH,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505168,VISHNU,VINAYAK,WAGHMARE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505169,YUGA,RUPAK,SHEVATE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505170,AKSHAT,PRASAD,,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505172,ARYAN,SANTOSH,DIVEKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505173,SHALAKA,SANGRAM,KUDALE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612505176,AALAP,HARSHAL,TALEGAONKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division  7
+612507103,RAJVEER,SINGH,DIXIT,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507104,RAMMYA,JANARDAN,SHETE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507105,RAWANE,DHRUV,HARSHVARDHAN,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507106,RIDDHI,SACHIN,BENDALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507107,RISHI,PANKAJ,GUJARATHI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507108,RISHIK,RAJESH,RAJURKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507109,RISHIKA,SHRIHARSH,SHARMA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507111,RITESH,NAGNATH,KAYATE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507113,ROHAN,VINAYAK,VAIDYA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507114,RONNIT,YOGESH,KASAT,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507115,RUCHA,GANESH,DASNAM,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507116,RUGVED,DINESH,NANDEDKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507118,SAI,RAJEEV,HOTHA,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507119,SAKSHAM,MANOJKUMAR,INANI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507120,SAMARTH,KRUSHANA,GADEKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507121,SAMARTH,SUNIL,KADAM,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507122,SAMBIT,DAS,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507124,SAMYAK,TULJANAND,KHANAPURKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507128,SARTHAK,VISHWAS,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507129,SARTHAKI,DEVANAND,BUDHWANT,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507130,SARVESH,MAHESH,KULKARNI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507131,SAVANI,VIJAY,REDEKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507133,SHAMAN,SUDHEER,RAI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507134,SHARVARI,SHRIPADRAO,MULEY,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507135,SHARVARY,NARAYAN,JUWAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507136,SHOURYASAMARTH,SACHIN,ICHALKARANJE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507138,SHRESTHA,BHAUMIK,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507141,SHRUTI,JAYHIND,DISALE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612507142,SHUBHAM,YASHAWANT,NEMADE,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division  7
+612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,LAB Batch 1-Engg  Physics,Division  7
+612509047,SHRISTI,SINGH,SINGH,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509048,SOUMYASHREE,SIDDHARUDHA,HOLIKATTI,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509050,SRUSHTI,SACHIN,DHAVALE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509053,SWAPNIL,MAHADEO,GADKAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509054,TANMAY,MAHADEO,KARPE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509055,TANMAY,SHRIKANT,JOSHI,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509056,TANUJA,DATTATRAY,KHARSUNDE,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509057,TEJAS,SHRIKANT,TAVADARKAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509058,USMAANMOHAMMAD,FAROOQUE,SHEWAN,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612509059,VAIBHAV,VIKRAM,INAMDAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division  7
+612510156,SHRIHARSH,PRAMOD,CHAVAN,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510157,SHRUTI,YOGESH,PITKAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510158,SHUBHAM,UTTAM,POWAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510159,SHUKLA,VAISHNAV,AKALPIT,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510162,SURABHI,HRISHIKESH,NENE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510163,SWANAND,NITIN,WANI,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510165,SWARUP,BHARAT,PATIL,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510166,TANJILA,MAULALI,TAMBOLI,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510167,UJJWAL,KAMALKANT,JHA,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510168,UNAMTEEPHRANG,TARIANG,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
+612510170,VEDANSH,HRISHIKESH,BARGE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division  7
