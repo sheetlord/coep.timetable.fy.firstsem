@@ -3583,6 +3583,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612507121,SAMARTH,SUNIL,KADAM,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 2
 612507122,SAMBIT,DAS,,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 2
 612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 2
+612507124,SAMYAK,TULJANAND,KHANAPURKAR,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 2
 612507125,SANCHIT,PRASHANT,JOSHI,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 2
 612507126,SANIKA,CHANDRASHEKHAR,JOSHI,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 2
 612507127,SANKET,VIRBHADRA,BAWAGE,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 2
@@ -13340,6 +13341,12 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612572027,DEEP,VINOD,AGRAWAL,Artificial Intelligence and Machine Learning,Tut Batch 1-Linear Algebra,Division 4
 612572028,DHANVI,PARESH,BHUJBAL,Artificial Intelligence and Machine Learning,Tut Batch 1-Linear Algebra,Division 4
 612572029,DHARINI,SUSHILKUMAR,PATIL,Artificial Intelligence and Machine Learning,Tut Batch 1-Linear Algebra,Division 4
+612515202,POOJA,KIRAN,ROKADE,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 4
+612515203,PRABAL,ANILKUMAR,JAISWAL,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 4
+612515204,PRACHI,ASHOK,NIMKAR,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 4
+612515205,PRACHI,RAMESH,PATIL,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 4
+612515206,PRAGNYA,MAKARAND,KULKARNI,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 4
+612515207,PRAJWAL,GANESH,BHISE,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 4
 612572031,DURVESH,ADESH,SHETH,Artificial Intelligence and Machine Learning,Tut Batch 2-Linear Algebra,Division 4
 612572032,GARGI,RAVINDRA,RATHOD,Artificial Intelligence and Machine Learning,Tut Batch 2-Linear Algebra,Division 4
 612572034,HARSHAL,AMIT,JAGIASI,Artificial Intelligence and Machine Learning,Tut Batch 2-Linear Algebra,Division 4
@@ -13383,12 +13390,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505189,VAISHNAVI,BABULAL,PAWAR,Electrical Engineering,Tut Batch 3-Linear Algebra,Division 4
 612505190,VEDANT,RAJENDRA,YEUL,Electrical Engineering,Tut Batch 3-Linear Algebra,Division 4
 612515201,PIYUSH,,PATIL,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 4
-612515202,POOJA,KIRAN,ROKADE,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 4
-612515203,PRABAL,ANILKUMAR,JAISWAL,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 4
-612515204,PRACHI,ASHOK,NIMKAR,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 4
-612515205,PRACHI,RAMESH,PATIL,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 4
-612515206,PRAGNYA,MAKARAND,KULKARNI,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 4
-612515207,PRAJWAL,GANESH,BHISE,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 4
 612515209,PRANAV,NILESH,NEHETE,Computer Science and Engineering,Tut Batch 4-Linear Algebra,Division 4
 612515210,PRANAV,SANTOSH,MARKE,Computer Science and Engineering,Tut Batch 4-Linear Algebra,Division 4
 612515211,PRANAV,SATISH,GOGAWALE,Computer Science and Engineering,Tut Batch 4-Linear Algebra,Division 4
@@ -14583,12 +14584,12 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510188,NACHIKET,VAISHAMPAYAN,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 8
 612510189,VIDHIKA,SANJAY,SHARMA,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 8
 612510190,YASHODHAN,DAYANAND,KAMATH,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 8
-612572045,MRUDULA,VINAY,NISAL,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
-612572046,NAYAN,SURESH,ANDHALE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
-612572047,PARTH,MARTAND,JORI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
+612572045,MRUDULA,VINAY,NISAL,Artificial Intelligence and Machine Learning,LAB Batch 1-Engg  Physics,Division 7
+612572046,NAYAN,SURESH,ANDHALE,Artificial Intelligence and Machine Learning,LAB Batch 4-Engg  Physics,Division 7
+612572047,PARTH,MARTAND,JORI,Artificial Intelligence and Machine Learning,LAB Batch 4-Engg  Physics,Division 7
 612572048,PRASAD,SATISH,KULKARNI,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
-612572049,PRASANNA,UMESH,SAWANT,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
-612572050,PRATHMESH,SHRIKANT,DAROKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
+612572049,PRASANNA,UMESH,SAWANT,Artificial Intelligence and Machine Learning,LAB Batch 4-Engg  Physics,Division 7
+612572050,PRATHMESH,SHRIKANT,DAROKAR,Artificial Intelligence and Machine Learning,LAB Batch 4-Engg  Physics,Division 7
 612572053,ROHIT,DIPAK,ZANWAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
 612572054,RUDRAKSHA,CHANDRAKANT,BABAR,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
 612572055,SAIRAJ,AJIT,TIVALE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 7
@@ -14615,24 +14616,24 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515320,TILAK,SHARAD,THETE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515325,VARSH,GOINDANI,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515326,VEDANT,KAREKAR,,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
-612515327,VEDANT,KIRAN,MOTEWAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
+612515327,VEDANT,KIRAN,MOTEWAR,Computer Science and Engineering,LAB Batch 3-Engg  Physics,Division 7
 612515328,VEDANT,NANASO,SARAK,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
-612515330,VEDANT,VIKAS,PANGARE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
+612515330,VEDANT,VIKAS,PANGARE,Computer Science and Engineering,LAB Batch 3-Engg  Physics,Division 7
 612515331,VEDIKA,NITIN,CHAUDHARI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515332,VIGHNESH,ANIL,THALE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515333,VIJAY,SHAMSUNDAR,KADAM,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515334,VIKHYATH,VINAYAK,PATIL,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515335,VINITA,DATTATRAY,KULKARNI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
-612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
+612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,LAB Batch 3-Engg  Physics,Division 7
 612515337,VISHAL,VENKATESH,BHAT,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515338,VIVEK,SUNIL,LAGAD,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
-612515339,YASH,ALOK,CHOUREY,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
-612515340,YASH,RAHUL,SOMANI,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
+612515339,YASH,ALOK,CHOUREY,Computer Science and Engineering,LAB Batch 3-Engg  Physics,Division 7
+612515340,YASH,RAHUL,SOMANI,Computer Science and Engineering,LAB Batch 3-Engg  Physics,Division 7
 612515341,YASH,RAMPRASAD,AMBHURE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515342,YASH,SAGAR,VARMA,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515343,YASH,SANDEEP,LONDHE,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
 612515344,YASH,SANTOSH,SHINGAVI,Computer Science and Engineering,LAB Batch 2-Engg  Physics,Division 7
-612515345,YASH,SUDHAKAR,WANKHEDE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
+612515345,YASH,SUDHAKAR,WANKHEDE,Computer Science and Engineering,LAB Batch 3-Engg  Physics,Division 7
 612515346,YASHRAJ,VINAYAK,KALE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
 612515347,YASHVARDHAN,VIJAY,WALSE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
 612515348,YESHASHREE,SHAILESH,KARHALE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
@@ -14642,7 +14643,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515352,ABHISHEK,BIJJARGI,,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
 612515355,ADITYA,ASHTUOSH,DESHMUKH,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
 612515356,ADITYA,KEDAR,BAVADEKAR,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
-612515376,JAY,SATISH,SABALE,Computer Science and Engineering,LAB Batch 4-Engg  Physics,Division 7
+612515376,JAY,SATISH,SABALE,Computer Science and Engineering,LAB Batch 3-Engg  Physics,Division 7
 612505157,SWANAND,DHANANJAY,SIRSIKAR,Electrical Engineering,LAB Batch 4-Engg  Physics,Division 7
 612505159,UTKARSH,GIRIDHAR,JHA,Electrical Engineering,LAB Batch 4-Engg  Physics,Division 7
 612505161,VARAD,RAJESH,INGALE,Electrical Engineering,LAB Batch 4-Engg  Physics,Division 7
@@ -14674,7 +14675,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612507120,SAMARTH,KRUSHANA,GADEKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division 7
 612507121,SAMARTH,SUNIL,KADAM,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division 7
 612507122,SAMBIT,DAS,,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division 7
-612507124,SAMYAK,TULJANAND,KHANAPURKAR,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division 7
+612507124,SAMYAK,TULJANAND,KHANAPURKAR,Electronics and Telecommunication Engineering,LAB Batch 2-Engg  Physics,Division 7
 612507128,SARTHAK,VISHWAS,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division 7
 612507129,SARTHAKI,DEVANAND,BUDHWANT,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division 7
 612507130,SARVESH,MAHESH,KULKARNI,Electronics and Telecommunication Engineering,LAB Batch 1-Engg  Physics,Division 7
@@ -14698,15 +14699,15 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612509058,USMAANMOHAMMAD,FAROOQUE,SHEWAN,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division 7
 612509059,VAIBHAV,VIKRAM,INAMDAR,Instrumentation and Control Engineering,LAB Batch 2-Engg  Physics,Division 7
 612510156,SHRIHARSH,PRAMOD,CHAVAN,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
-612510157,SHRUTI,YOGESH,PITKAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
+612510157,SHRUTI,YOGESH,PITKAR,Mechanical Engineering,LAB Batch 4-Engg  Physics,Division 7
 612510158,SHUBHAM,UTTAM,POWAR,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
 612510159,SHUKLA,VAISHNAV,AKALPIT,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
 612510162,SURABHI,HRISHIKESH,NENE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
 612510163,SWANAND,NITIN,WANI,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
 612510165,SWARUP,BHARAT,PATIL,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
 612510166,TANJILA,MAULALI,TAMBOLI,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
-612510167,UJJWAL,KAMALKANT,JHA,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
-612510168,UNAMTEEPHRANG,TARIANG,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
+612510167,UJJWAL,KAMALKANT,JHA,Mechanical Engineering,LAB Batch 4-Engg  Physics,Division 7
+612510168,UNAMTEEPHRANG,TARIANG,,Mechanical Engineering,LAB Batch 4-Engg  Physics,Division 7
 612510170,VEDANSH,HRISHIKESH,BARGE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 7
 612501001,AARYA,PRASHANT,KADAM,Civil Engineering,LAB Batch 1-Engg Chem,Division 1
 612501002,AARYAN,ASHWIN,PATIL,Civil Engineering,LAB Batch 1-Engg Chem,Division 1
@@ -15934,6 +15935,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612507121,SAMARTH,SUNIL,KADAM,Electronics and Telecommunication Engineering,LAB Batch 1-EEE- Elements of Electronics Engg,Division 2
 612507122,SAMBIT,DAS,,Electronics and Telecommunication Engineering,LAB Batch 2-EEE- Elements of Electronics Engg,Division 2
 612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineering,LAB Batch 2-EEE- Elements of Electronics Engg,Division 2
+612507124,SAMYAK,TULJANAND,KHANAPURKAR,Electronics and Telecommunication Engineering,LAB Batch 2-EEE- Elements of Electronics Engg,Division 2
 612507125,SANCHIT,PRASHANT,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 2-EEE- Elements of Electronics Engg,Division 2
 612507126,SANIKA,CHANDRASHEKHAR,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 2-EEE- Elements of Electronics Engg,Division 2
 612507127,SANKET,VIRBHADRA,BAWAGE,Electronics and Telecommunication Engineering,LAB Batch 2-EEE- Elements of Electronics Engg,Division 2
@@ -17548,7 +17550,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612572035,HARSHIT,RAMESH,SHIROL,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 3
 612572036,HEER,HAMIR,JOBANPUTRA,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 3
 612572037,ISHA,MUKUND,MANDKE,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 3
-612515234,RUDRA,ANIL,PAWAR,Computer Science and Engineering,612515334,Division 3
+612515234,RUDRA,ANIL,PAWAR,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 3
 612515252,SANA,SANJAY,SHARMA,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 3
 612515253,SANCHIT,BABURAO,FARAKATE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 3
 612515256,SANGITA,MADHAV,SARKALE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 3
@@ -17831,7 +17833,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612513010,AKSHADA,ANANDA,AUTI,Manufacturing Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612513016,AYUSH,AMOL,POTDAR,Manufacturing Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612513017,AYUSH,ASHISH,DESHMUKH,Manufacturing Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
-612513033,JATIN,HARIDAS,KATKAR,Manufacturing Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
+612513033,JATIN,HARIDAS,KATKAR,Manufacturing Science and Engineering,LAB Batch 2-EG- Engineering Graphics,Division 1
 612513043,OMKAR,RAJUDAS,RATHOD,Manufacturing Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612513044,PARINITA,SAMEER,KHEDIKAR,Manufacturing Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612513054,SAMYAK,ATUL,JAIN,Manufacturing Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
@@ -18215,7 +18217,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505047,ISHA,UDAY,TRIKUTKAR,Electrical Engineering,LAB Batch 3-FCS- Fundamentals of Cyber Security,Division 1
 612505084,SANDESH,SHARAD,HIRAY,Electrical Engineering,LAB Batch 3-FCS- Fundamentals of Cyber Security,Division 1
 612505088,SHAM,LAXMANRAO,AWACHAR,Electrical Engineering,LAB Batch 3-FCS- Fundamentals of Cyber Security,Division 1
-612513019,CHAITANYA,BHUPENDRA,HIRULKAR,Manufacturing Science and Engineering,LAB Batch 3-FCS- Fundamentals of Cyber Security,Division 1
+612513019,CHAITANYA,BHUPENDRA,HIRULKAR,Manufacturing Science and Engineering,LAB Batch 1-FCS- Fundamentals of Cyber Security,Division 1
 612513032,JAHNAVI,SHRIRAM,SINGH,Manufacturing Science and Engineering,LAB Batch 3-FCS- Fundamentals of Cyber Security,Division 1
 612513034,JAYRAJ,SUDHAKAR,CHAVAN,Manufacturing Science and Engineering,LAB Batch 3-FCS- Fundamentals of Cyber Security,Division 1
 612513075,SUJIT,,KUMAR,Manufacturing Science and Engineering,LAB Batch 3-FCS- Fundamentals of Cyber Security,Division 1
