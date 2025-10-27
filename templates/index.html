@@ -5,62 +5,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personalized Timetable</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        /* Simple helper class for the loading spinner */
+        .hidden {
+            display: none;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <h1>My Class Timetable</h1>
-        <form method="POST" action="/get_schedule">
+        
+        <form id="scheduleForm">
             <label for="mis_number">Enter Your MIS Number:</label>
             <input type="text" id="mis_number" name="mis_number" placeholder="e.g., 612515010" required>
             <button type="submit">Show My Schedule</button>
         </form>
 
-        {% if error %}
-            <p class="error">{{ error }}</p>
-        {% endif %}
+        <div id="loading" class="hidden">
+            <p>Loading...</p> </div>
 
-        {% if schedule %}
-        <div class="timetable-container">
-            <h2>{{ student_name }} <span class="branch">— {{ branch }}</span></h2>
-            <table class="timetable">
-                <thead>
-                    <tr>
-                        <th>Time</th>
-                        {% for day in schedule.days %}
-                            <th>{{ day }}</th>
-                        {% endfor %}
-                    </tr>
-                </thead>
-                <tbody>
-                    {% for time in schedule.time_slots %}
-                        <tr>
-                            <th class="time-slot">{{ time }}</th>
-                            {% for day in schedule.days %}
-                                {% set cell = schedule.grid[time][day] %}
-                                <td>
-                                    {% if cell %}
-                                        <div class="class-details">
-                                            <span class="class-subject">{{ cell.subject }}</span>
-                                            Room: {{ cell.room }}<br>
-                                            {{ cell.division }}
-                                        </div>
-                                    {% else %}
-                                        <div class="class-details" style="color: #aaa; font-style: italic;">
-                                            No Class
-                                        </div>
-                                    {% endif %}
-                                </td>
-                            {% endfor %}
-                        </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
-        </div>
-        {% endif %}
+        <div id="result"></div>
+
     </div>
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
     <footer>
-        <p>Created by [Rushikesh EE]</p>
+        <p>Created by [Rushikesh]</p>
     </footer>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+    
+    <script>
+      // This is your config object from Firebase
+      const firebaseConfig = {
+        apiKey: "AIzaSyCMxWS-DOzFn2QmBgvafEk5gkn4kebpsGE",
+        authDomain: "timetable-logs.firebaseapp.com",
+        projectId: "timetable-logs",
+        storageBucket: "timetable-logs.firebasestorage.app",
+        messagingSenderId: "118109027823",
+        appId: "1:118109027823:web:bbf0ec4c59873cc0ca4a1a",
+        measurementId: "G-0L96SEETEE"
+      };
+    
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      // This 'db' variable can now be used by your script.js file
+      const db = firebase.firestore(); 
+    </script>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
 </body>
 </html>

@@ -1,9 +1,60 @@
+// --- 1. SET UP BATCH LOGGING ---
+let logQueue = []; // An array to hold logs
+
+// Function to send the batch (this assumes 'db' exists from index.html)
+async function sendLogBatch() {
+    // Step 1: Check if there's anything to send
+    if (logQueue.length === 0) {
+        console.log("No logs to send.");
+        return; // Do nothing
+    }
+
+    // 'db' is the global variable we defined in index.html
+    const batch = db.batch();
+
+    // Step 2: Copy the current queue and clear the main one *immediately*
+    const logsToSend = [...logQueue];
+    logQueue = [];
+    console.log(`Sending batch of ${logsToSend.length} logs...`);
+
+    // Step 3: Add all logs from our copy to the batch
+    logsToSend.forEach(log => {
+        const logRef = db.collection("logs").doc(); // Create a new empty doc
+        batch.set(logRef, log); // Add the log to the batch
+    });
+
+    // Step 4: Send the batch (this counts as 1 WRITE)
+    try {
+        await batch.commit();
+        console.log("Log batch sent successfully!");
+    } catch (e) {
+        console.error("Error sending log batch: ", e);
+        // If it fails, add the logs back to the main queue to try again next time
+        logQueue = [...logsToSend, ...logQueue];
+    }
+}
+
+// --- 2. YOUR EXISTING FORM LISTENER (NOW WITH LOGGING) ---
+
 document.getElementById('scheduleForm').addEventListener('submit', async function (e) {
     e.preventDefault();
 
     const misNumber = document.getElementById('mis_number').value;
     const resultDiv = document.getElementById('result');
     const loadingDiv = document.getElementById('loading');
+
+    // --- ⬇️ ADDED LOGGING CODE ⬇️ ---
+    // Add the log to our queue. The timer will send it.
+    try {
+        logQueue.push({
+            mis: misNumber,
+            timestamp: new Date() // Use the client's current time
+        });
+        console.log('MIS logged to queue.');
+    } catch (e) {
+        console.error('Error queuing log:', e);
+    }
+    // --- ⬆️ END OF ADDED CODE ⬆️ ---
 
     resultDiv.innerHTML = '';
     loadingDiv.classList.remove('hidden');
@@ -32,6 +83,7 @@ document.getElementById('scheduleForm').addEventListener('submit', async functio
             // Check if schedule is empty
             if (!data.schedule.grid) {
                 resultDiv.innerHTML = headerInfo + "<p>No classes found for your registered subjects.</p>";
+                loadingDiv.classList.add('hidden'); // Also hide loading here
                 return;
             }
 
@@ -89,3 +141,11 @@ document.getElementById('scheduleForm').addEventListener('submit', async functio
         loadingDiv.classList.add('hidden');
     }
 });
+
+// --- 3. START THE TIMERS ---
+
+// Set up the timer to run sendLogBatch() every 60 seconds
+setInterval(sendLogBatch, 60000); // 60,000 milliseconds = 1 minute
+
+// (Recommended) Try to send any remaining logs when the user closes the tab
+window.addEventListener('beforeunload', sendLogBatch);
