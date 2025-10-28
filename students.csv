@@ -84,7 +84,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501024,ANKITA,UMESH,PATIL,Civil Engineering,Engg  Physics,Division 2
 612501033,ARYAN,MOHAN,SANGALE,Civil Engineering,Engg  Physics,Division 2
 612501038,ATHARV,SAGAR,PATIL,Civil Engineering,Engg  Physics,Division 2
-612501043,AVANEESH,SUDHIR,MUTHAL,Civil Engineering,Engg  Physics,Division 2
+612501043,AVANEESH,SUDHIR,MUTHAL,Civil Engineering,Engg Chem,Division 1
 612501049,CHESA,KENT,,Civil Engineering,Engg  Physics,Division 2
 612515049,HARSH,JAISING,YADAV,Computer Science and Engineering,Engg  Physics,Division 2
 612515050,HERAMBA,AMOL,BARDE,Computer Science and Engineering,Engg  Physics,Division 2
@@ -10222,6 +10222,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505188,SHREYASH,NITIN,SIDURKAR,Electrical Engineering,Linear Algebra,Division 4
 612505189,VAISHNAVI,BABULAL,PAWAR,Electrical Engineering,Linear Algebra,Division 4
 612505190,VEDANT,RAJENDRA,YEUL,Electrical Engineering,Linear Algebra,Division 4
+612515201,PIYUSH,,PATIL,Computer Science and Engineering,Linear Algebra,Division 4
 612515202,POOJA,KIRAN,ROKADE,Computer Science and Engineering,Linear Algebra,Division 4
 612515205,PRACHI,RAMESH,PATIL,Computer Science and Engineering,Linear Algebra,Division 4
 612515206,PRAGNYA,MAKARAND,KULKARNI,Computer Science and Engineering,Linear Algebra,Division 4
@@ -13979,7 +13980,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501024,ANKITA,UMESH,PATIL,Civil Engineering,LAB Batch 2-Engg  Physics,Division 2
 612501033,ARYAN,MOHAN,SANGALE,Civil Engineering,LAB Batch 2-Engg  Physics,Division 2
 612501038,ATHARV,SAGAR,PATIL,Civil Engineering,LAB Batch 2-Engg  Physics,Division 2
-612501043,AVANEESH,SUDHIR,MUTHAL,Civil Engineering,LAB Batch 2-Engg  Physics,Division 2
+612501043,AVANEESH,SUDHIR,MUTHAL,Civil Engineering,LAB Batch 2-Engg Chem,Division 1
 612501049,CHESA,KENT,,Civil Engineering,LAB Batch 2-Engg  Physics,Division 2
 612515049,HARSH,JAISING,YADAV,Computer Science and Engineering,LAB Batch 1-Engg  Physics,Division 2
 612515050,HERAMBA,AMOL,BARDE,Computer Science and Engineering,LAB Batch 1-Engg  Physics,Division 2
