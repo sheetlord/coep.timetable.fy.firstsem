@@ -567,7 +567,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510134,RAHUL,DILIP,SHINDE,Mechanical Engineering,Engg  Physics,Division 6
 612510137,RISHABH,AMARISH,KARNIK,Mechanical Engineering,Engg  Physics,Division 6
 612510138,RIYA,SACHIN,PATIL,Mechanical Engineering,Engg  Physics,Division 6
-612510139,ROBIN,XAVIER,,Mechanical Engineering,Engg  Physics,Division 6
+612510139,ROBIN,XAVIER,,Mechanical Engineering,Engg  Chem,Division 7
 612510140,ROHAN,SANTOSH,HARDE,Mechanical Engineering,Engg  Physics,Division 6
 612510143,SAMARTH,SACHIN,KHULE,Mechanical Engineering,Engg  Physics,Division 6
 612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,Engg  Physics,Division 6
@@ -713,7 +713,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612572097,ANTARA,SANTOSH,KOKATE,Artificial Intelligence and Machine Learning,Engg  Physics,Division 8
 612572098,GIRISH,DODEJA,,Artificial Intelligence and Machine Learning,Engg  Physics,Division 8
 612501175,YASH,PARESH,KOYALE,Civil Engineering,Engg  Physics,Division 8
-612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,Engg  Physics,Division 8
+612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,Engg  Chem,Division 8
 612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,Engg  Physics,Division 8
 612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,Engg  Physics,Division 8
 612501186,YUVRAAJ,SUDHIR,YEOLE,Civil Engineering,Engg  Physics,Division 8
@@ -3804,6 +3804,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510086,SPARSH,SANJAY,GAICHARE,Mechanical Engineering,SME- System in Mech Engg,Division 1
 612510087,SWAROOP,SANTOSH,BAGAL,Mechanical Engineering,SME- System in Mech Engg,Division 1
 612510088,TANISHK,AMIT,BADAL,Mechanical Engineering,SME- System in Mech Engg,Division 1
+612510089,TANMAY,RAHUL,BARHANPURE,Mechanical Engineering,SME- System in Mech Engg,Division 1
 612510090,TANMAY,SHRIRAM,GODSE,Mechanical Engineering,SME- System in Mech Engg,Division 1
 612510091,TOSHITH,MAHESH,CHAKOLE,Mechanical Engineering,SME- System in Mech Engg,Division 1
 612510092,VARDHAN,RANJIT,MANE,Mechanical Engineering,SME- System in Mech Engg,Division 1
@@ -6951,10 +6952,8 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515096,TANMAY,BRIJESH,BIHANI,Computer Science and Engineering,DLD- Digital Logic Design,Division 1
 612501017,ADITYA,SURESH,SHINDE,Civil Engineering,DLD- Digital Logic Design,Division 1
 612501018,AJINKYA,RAJESH,KAMDI,Civil Engineering,DLD- Digital Logic Design,Division 1
-612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,DLD- Digital Logic Design,Division 1
 612501031,ARNAV,MAHESH,BOTTUWAR,Civil Engineering,DLD- Digital Logic Design,Division 1
 612501055,DIPALI,SHAHAJI,MOHITE,Civil Engineering,DLD- Digital Logic Design,Division 1
-612501066,JINAY,SAMEER,LODHA,Civil Engineering,DLD- Digital Logic Design,Division 1
 612505002,AARYAN,MAKRAND,JOSHI,Electrical Engineering,DLD- Digital Logic Design,Division 1
 612505004,ABHIJIT,ANIL,KHARE,Electrical Engineering,DLD- Digital Logic Design,Division 1
 612505005,ABHINAV,GAGAN,WADHWA,Electrical Engineering,DLD- Digital Logic Design,Division 1
@@ -7293,7 +7292,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510157,SHRUTI,YOGESH,PITKAR,Mechanical Engineering,DLD- Digital Logic Design,Division 4
 612510167,UJJWAL,KAMALKANT,JHA,Mechanical Engineering,DLD- Digital Logic Design,Division 4
 612510168,UNAMTEEPHRANG,,TARIANG,Mechanical Engineering,DLD- Digital Logic Design,Division 4
-612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,DLD- Digital Logic Design,Division 4
 612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,DLD- Digital Logic Design,Division 4
 612572069,SUJAL,GAJANAN,CHOPADE,Artificial Intelligence and Machine Learning,DLD- Digital Logic Design,Division 5
 612572070,SUMEDH,DHARMARAJ,LOKHANDE,Artificial Intelligence and Machine Learning,DLD- Digital Logic Design,Division 5
@@ -7402,6 +7400,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501023,ANKIT,SURESH,BHALERAO,Civil Engineering,EG- Engineering Graphics,Division 1
 612501025,ANKITA,VIKAS,PATIL,Civil Engineering,EG- Engineering Graphics,Division 1
 612501028,ARHAAN,NITIN,BHALERAO,Civil Engineering,EG- Engineering Graphics,Division 1
+612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,EG- Engineering Graphics,Division 1
 612501033,ARYAN,MOHAN,SANGALE,Civil Engineering,EG- Engineering Graphics,Division 1
 612501035,ARYAN,SURENDRA,RATHI,Civil Engineering,EG- Engineering Graphics,Division 1
 612501036,ARYAN,VIVEK,GAWAI,Civil Engineering,EG- Engineering Graphics,Division 1
@@ -7417,6 +7416,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501062,HIMANSHU,BHUSHAN,CHAUDHARI,Civil Engineering,EG- Engineering Graphics,Division 1
 612501064,JANHAVI,AJAY,SHENDE,Civil Engineering,EG- Engineering Graphics,Division 1
 612501065,JAYWARDHAN,SARDAR,PATIL,Civil Engineering,EG- Engineering Graphics,Division 1
+612501066,JINAY,SAMEER,LODHA,Civil Engineering,EG- Engineering Graphics,Division 1
 612501068,KADAMBARI,,KHAWALE,Civil Engineering,EG- Engineering Graphics,Division 1
 612501071,KARTIK,VILAS,GAIKWAD,Civil Engineering,EG- Engineering Graphics,Division 1
 612501072,KARTIKEY,,SAWANT,Civil Engineering,EG- Engineering Graphics,Division 1
@@ -7543,6 +7543,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501155,TEJVEER,AVINASH,DHAKNE,Civil Engineering,EG- Engineering Graphics,Division 2
 612501157,UNMESH,SHARAD,AMBI,Civil Engineering,EG- Engineering Graphics,Division 2
 612501158,URGEN,,DORJEE,Civil Engineering,EG- Engineering Graphics,Division 2
+612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,EG- Engineering Graphics,Division 2
 612501163,VEDIKA,DNYANESHWAR,AHER,Civil Engineering,EG- Engineering Graphics,Division 2
 612501167,VINIT,MANOJ,JOJARE,Civil Engineering,EG- Engineering Graphics,Division 2
 612501168,VISHAKHA,PAVANLAL,BISEN,Civil Engineering,EG- Engineering Graphics,Division 2
@@ -7658,6 +7659,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612513014,ASHISH,GIRISH,ARWADE,Manufacturing Science and Engineering,GE- Geomatic Engg,Division 1
 612510035,DEVESH,SHANTANU,DESHPANDE,Mechanical Engineering,GE- Geomatic Engg,Division 1
 612510060,PIYUSH,MILIND,AMBIKE,Mechanical Engineering,GE- Geomatic Engg,Division 1
+612510089,TANMAY,RAHUL,BARHANPURE,Mechanical Engineering,GE- Geomatic Engg,Division 1
 612510143,SAMARTH,SACHIN,KHULE,Mechanical Engineering,GE- Geomatic Engg,Division 1
 612510178,BILAL,MOHAMMED TANVER,SHAIKH,Mechanical Engineering,GE- Geomatic Engg,Division 1
 612510187,KSHITIJ,SUNIL,KUMBHAR,Mechanical Engineering,GE- Geomatic Engg,Division 1
@@ -7676,6 +7678,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501018,AJINKYA,RAJESH,KAMDI,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501019,AKASH,PRAKASH,GONDHALI,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501020,AMBARISH,SHIVAJI,KHAMKAR,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
+612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501030,ARJUN,GAURAV,DADA,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501031,ARNAV,MAHESH,BOTTUWAR,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501032,ARNAV,PURUSHOTTAM,DURAGKAR,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
@@ -7715,6 +7718,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501141,SHRISHKUMAR,SANTOSH,SHINDE,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501153,TANISQ,VASUDEV,KORRULKAR,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501157,UNMESH,SHARAD,AMBI,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
+612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501163,VEDIKA,DNYANESHWAR,AHER,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501167,VINIT,MANOJ,JOJARE,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501170,VISHWAJEET,AJAY,KARALE,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
@@ -8056,7 +8060,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612572096,ANTARA,,MUKHERJEE,Artificial Intelligence and Machine Learning,WD- Web Designing,Division 1
 612501021,ANIRUDDHA,VIJAY,BHAKARE,Civil Engineering,WD- Web Designing,Division 1
 612501025,ANKITA,VIKAS,PATIL,Civil Engineering,WD- Web Designing,Division 1
-612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,WD- Web Designing,Division 1
 612501041,ATHARVA,BHUSHAN,JADHAV,Civil Engineering,WD- Web Designing,Division 1
 612501053,DHRUV,DILIP,SHEKHADA,Civil Engineering,WD- Web Designing,Division 1
 612501077,KUBDE,VEDANT,MAHESH,Civil Engineering,WD- Web Designing,Division 1
@@ -8064,7 +8067,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501099,PRANAY,RUPESH,GAIKWAD,Civil Engineering,WD- Web Designing,Division 1
 612501105,PRATHMESH,BALAJI,CHATRE,Civil Engineering,WD- Web Designing,Division 1
 612501106,PREM,UMESH,LONKAR,Civil Engineering,WD- Web Designing,Division 1
-612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,WD- Web Designing,Division 1
 612515009,ADITI,SANJAY,POL,Computer Science and Engineering,WD- Web Designing,Division 1
 612515015,AKSHAJ,,SAXENA,Computer Science and Engineering,WD- Web Designing,Division 1
 612515019,ANUSHREE,NIRANJAN,DUDHBADE,Computer Science and Engineering,WD- Web Designing,Division 1
@@ -9098,7 +9100,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501024,ANKITA,UMESH,PATIL,Civil Engineering,MAC,Division 1
 612515005,AARYA,SUSHANT,KHAPANE,Computer Science and Engineering,MAC,Division 1
 612515019,ANUSHREE,NIRANJAN,DUDHBADE,Computer Science and Engineering,MAC,Division 1
-612515021,ARUSH,ABASAHEB,DESAI,Computer Science and Engineering,Linear Algebra,Division 2
+612515021,ARUSH,ABASAHEB,DESAI,Computer Science and Engineering,Linear Algebra,Division 1
 612515026,ATHARV,SACHIN,DIVATE,Computer Science and Engineering,MAC,Division 1
 612515029,ATHARVA,SANDEEP,GIDDE,Computer Science and Engineering,MAC,Division 1
 612515030,AUTI,PARTH,BHARAT,Computer Science and Engineering,MAC,Division 1
@@ -9794,6 +9796,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501172,VIVOTO,,PUCHO,Civil Engineering,MAC,Division 9
 612501173,YADNESH,MAHENDRA,SURYAWANSHI,Civil Engineering,MAC,Division 9
 612501176,YUVRAJ,DEVRAO,SHINGATE,Civil Engineering,MAC,Division 9
+612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,MAC,Division 9
 612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,MAC,Division 9
 612501181,PRATHAM,VIKRAM,AGRAWAL,Civil Engineering,MAC,Division 9
 612501182,SAMRAT,YOGESHRAO,PATIL,Civil Engineering,MAC,Division 9
@@ -9989,7 +9992,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510066,RAJ,RAHUL,DESAI,Mechanical Engineering,Linear Algebra,Division 2
 612510067,RIYA,RAHUL,GAIKWAD,Mechanical Engineering,Linear Algebra,Division 2
 612510074,SAISH,MARUTI,DIVASE,Mechanical Engineering,Linear Algebra,Division 2
-612510083,SHREYASH,RAGHUNATH,DESAI,Mechanical Engineering,MAC,Division 2
+612510083,SHREYASH,RAGHUNATH,DESAI,Mechanical Engineering,MAC,Division 4
 612510086,SPARSH,SANJAY,GAICHARE,Mechanical Engineering,Linear Algebra,Division 2
 612510087,SWAROOP,SANTOSH,BAGAL,Mechanical Engineering,Linear Algebra,Division 2
 612510094,VEDASHRI,SHAILESH,KARHALE,Mechanical Engineering,Linear Algebra,Division 2
@@ -10351,7 +10354,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501174,YASH,ASHOK,BHOSALE,Civil Engineering,Linear Algebra,Division 5
 612501177,ARJUN,AMIT,DIXIT,Civil Engineering,Linear Algebra,Division 5
 612501178,VANDAN,PRATIK,SHAH,Civil Engineering,Linear Algebra,Division 5
-612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,Linear Algebra,Division 5
 612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,Linear Algebra,Division 5
 612507002,AADITYA,MAHESH,NARKHEDKAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 5
 612507010,ADITYA,,BARANWAL,Electronics and Telecommunication Engineerin,Linear Algebra,Division 5
@@ -12799,7 +12801,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612511024,KHUSHI,PUSHPAM,GUPTA,Metallurgy and Materials Technology,Tut Batch 4-MAC,Division 1
 612511025,KRISH,SHRIKANT,SANKALE,Metallurgy and Materials Technology,Tut Batch 4-MAC,Division 1
 612511027,MOHAMMAD,FAIZ MOHAMMAD,GHAZANFAR,Metallurgy and Materials Technology,Tut Batch 4-MAC,Division 1
-612510083,SHREYASH,RAGHUNATH,DESAI,Mechanical Engineering,Tut Batch 1-MAC,Division 2
 612501026,ANUJ,,,Civil Engineering,Tut Batch 1-MAC,Division 2
 612501028,ARHAAN,NITIN,BHALERAO,Civil Engineering,Tut Batch 1-MAC,Division 2
 612501030,ARJUN,GAURAV,DADA,Civil Engineering,Tut Batch 1-MAC,Division 2
@@ -13232,6 +13233,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510086,SPARSH,SANJAY,GAICHARE,Mechanical Engineering,LAB Batch 4-SME- System in Mech Engg,Division 1
 612510087,SWAROOP,SANTOSH,BAGAL,Mechanical Engineering,LAB Batch 4-SME- System in Mech Engg,Division 1
 612510088,TANISHK,AMIT,BADAL,Mechanical Engineering,LAB Batch 4-SME- System in Mech Engg,Division 1
+612510089,TANMAY,RAHUL,BARHANPURE,Mechanical Engineering,LAB Batch 4-SME- System in Mech Engg,Division 1
 612510090,TANMAY,SHRIRAM,GODSE,Mechanical Engineering,LAB Batch 4-SME- System in Mech Engg,Division 1
 612510091,TOSHITH,MAHESH,CHAKOLE,Mechanical Engineering,LAB Batch 4-SME- System in Mech Engg,Division 1
 612510092,VARDHAN,RANJIT,MANE,Mechanical Engineering,LAB Batch 4-SME- System in Mech Engg,Division 1
@@ -13702,6 +13704,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501172,VIVOTO,,PUCHO,Civil Engineering,Tut Batch 1-MAC,Division 9
 612501173,YADNESH,MAHENDRA,SURYAWANSHI,Civil Engineering,Tut Batch 1-MAC,Division 9
 612501176,YUVRAJ,DEVRAO,SHINGATE,Civil Engineering,Tut Batch 1-MAC,Division 9
+612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,Tut Batch 1-MAC,Division 9
 612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,Tut Batch 1-MAC,Division 9
 612501181,PRATHAM,VIKRAM,AGRAWAL,Civil Engineering,Tut Batch 1-MAC,Division 9
 612501182,SAMRAT,YOGESHRAO,PATIL,Civil Engineering,Tut Batch 1-MAC,Division 9
@@ -13850,6 +13853,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510080,SAWANI,SANJAY,DAWALE,Mechanical Engineering,Tut Batch 3-MAC,Division 4
 612510081,SHANTANU,VIKAS,LAHANE,Mechanical Engineering,Tut Batch 3-MAC,Division 4
 612510082,SHREYAS,ANURAG,CHITALE,Mechanical Engineering,Tut Batch 3-MAC,Division 4
+612510083,SHREYASH,RAGHUNATH,DESAI,Mechanical Engineering,Tut Batch 3-MAC,Division 4
 612510084,SHRUTI,DNYANESHWAR,BHUJBAL,Mechanical Engineering,Tut Batch 3-MAC,Division 4
 612510085,SOHAM,NITIN,KADAM,Mechanical Engineering,Tut Batch 3-MAC,Division 4
 612510088,TANISHK,AMIT,BADAL,Mechanical Engineering,Tut Batch 3-MAC,Division 4
@@ -14468,7 +14472,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510134,RAHUL,DILIP,SHINDE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 6
 612510137,RISHABH,AMARISH,KARNIK,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 6
 612510138,RIYA,SACHIN,PATIL,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 6
-612510139,ROBIN,XAVIER,,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 6
 612510140,ROHAN,SANTOSH,HARDE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 6
 612510143,SAMARTH,SACHIN,KHULE,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 6
 612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,LAB Batch 3-Engg  Physics,Division 6
@@ -14492,7 +14495,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612572097,ANTARA,SANTOSH,KOKATE,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 8
 612572098,GIRISH,DODEJA,,Artificial Intelligence and Machine Learning,LAB Batch 3-Engg  Physics,Division 8
 612501175,YASH,PARESH,KOYALE,Civil Engineering,LAB Batch 3-Engg  Physics,Division 8
-612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,LAB Batch 3-Engg  Physics,Division 8
 612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,LAB Batch 3-Engg  Physics,Division 8
 612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,LAB Batch 3-Engg  Physics,Division 8
 612501186,YUVRAAJ,SUDHIR,YEOLE,Civil Engineering,LAB Batch 3-Engg  Physics,Division 8
@@ -15188,7 +15190,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612511045,RANAJAGJITSING,VIJAYKUMAR,RATHOIM,Metallurgy and Materials Technology,Tut Batch 2-Linear Algebra,Division 2
 612511046,RASIKA,MAHESH,TONDGAONKAR,Metallurgy and Materials Technology,Tut Batch 2-Linear Algebra,Division 2
 612511047,RITESH,MAHADEV,MAKADE,Metallurgy and Materials Technology,Tut Batch 2-Linear Algebra,Division 2
-612515021,ARUSH,ABASAHEB,DESAI,Computer Science and Engineering,Tut Batch 2-Linear Algebra,Division 2
+612515021,ARUSH,ABASAHEB,DESAI,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 1
 612515071,ROSHNI,SANTOSH,GUSINGE,Computer Science and Engineering,Tut Batch 2-Linear Algebra,Division 2
 612515072,RUDRA,DILEEP,BOROLE,Computer Science and Engineering,Tut Batch 2-Linear Algebra,Division 2
 612515073,RUTU,KIRAN,CHAVHAN,Computer Science and Engineering,Tut Batch 2-Linear Algebra,Division 2
@@ -15746,6 +15748,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501176,YUVRAJ,DEVRAO,SHINGATE,Civil Engineering,LAB Batch 3B-Engg Chem(Elec+Civil),Division 8
 612501177,ARJUN,AMIT,DIXIT,Civil Engineering,LAB Batch 3B-Engg Chem(Elec+Civil),Division 8
 612501178,VANDAN,PRATIK,SHAH,Civil Engineering,LAB Batch 3B-Engg Chem(Elec+Civil),Division 8
+612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,LAB Batch 3B-Engg Chem(Elec+Civil),Division 8
 612501181,PRATHAM,VIKRAM,AGRAWAL,Civil Engineering,LAB Batch 3B-Engg Chem(Elec+Civil),Division 8
 612501182,SAMRAT,YOGESHRAO,PATIL,Civil Engineering,LAB Batch 3B-Engg Chem(Elec+Civil),Division 8
 612501184,SMITKUMAR,SANTOSH,DIGHOLE,Civil Engineering,LAB Batch 3B-Engg Chem(Elec+Civil),Division 8
@@ -15820,6 +15823,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612507139,SHREYA,DHANRAJ,DADMAL,Electronics and Telecommunication Engineering,LAB Batch 4B-Engg Chem(Ai+Mech+E&TC),Division 7
 612507140,SHREYASH,SANJAY,PAWAR,Electronics and Telecommunication Engineering,LAB Batch 4B-Engg Chem(Ai+Mech+E&TC),Division 7
 612507143,SIDDHANT,DILIP,NIKHADE,Electronics and Telecommunication Engineering,LAB Batch 4B-Engg Chem(Ai+Mech+E&TC),Division 7
+612510139,ROBIN,XAVIER,,Mechanical Engineering,LAB Batch 4B-Engg Chem(Ai+Mech+E&TC),Division 7
 612510145,SARTH,VINAYAK,SHINDE,Mechanical Engineering,LAB Batch 4B-Engg Chem(Ai+Mech+E&TC),Division 7
 612510146,SARTHAK,ANIL,KADAM,Mechanical Engineering,LAB Batch 4B-Engg Chem(Ai+Mech+E&TC),Division 7
 612510148,SAYYAD,SAHIL,KHAJASAB,Mechanical Engineering,LAB Batch 4B-Engg Chem(Ai+Mech+E&TC),Division 7
@@ -17364,7 +17368,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515085,SHAMBHURAJE,SATISH,GOSAVI,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 1
 612515088,SHRADDHA,RAVINDRA,CHAVHAN,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 1
 612515094,SWARA,RAVINDRA,AMBATKAR,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 1
-612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 1
 612505002,AARYAN,MAKRAND,JOSHI,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 1
 612505004,ABHIJIT,ANIL,KHARE,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 1
 612505005,ABHINAV,GAGAN,WADHWA,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 1
@@ -17420,7 +17423,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515090,SIDDHESH,GAJANAN,CHITKESHIWAR,Computer Science and Engineering,LAB Batch 3-DLD- Digital Logic Design,Division 1
 612515091,SOHAM,SHANKAR,FOBAWAR,Computer Science and Engineering,LAB Batch 3-DLD- Digital Logic Design,Division 1
 612515093,SURAJ,VINOD,GIMHAVANEKAR,Computer Science and Engineering,LAB Batch 3-DLD- Digital Logic Design,Division 1
-612501066,JINAY,SAMEER,LODHA,Civil Engineering,LAB Batch 3-DLD- Digital Logic Design,Division 1
 612505008,ADITYA,DHURVESH,BADOLE,Electrical Engineering,LAB Batch 3-DLD- Digital Logic Design,Division 1
 612505025,ASHIKA,,ANIL,Electrical Engineering,LAB Batch 3-DLD- Digital Logic Design,Division 1
 612505030,BHUVAN,NILESH,GANDHI,Electrical Engineering,LAB Batch 3-DLD- Digital Logic Design,Division 1
@@ -17731,7 +17733,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
 612509051,SUJAL,EKNATH,JADHAO,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
 612509055,TANMAY,SHRIKANT,JOSHI,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
 612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
 612572040,MANAS,,CHAVAN,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
 612572042,MANSI,PRAKASHRAO,SATAMWAR,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
@@ -17866,6 +17867,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501014,ADITYA,KALIDAS,BHOSALE,Civil Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612501025,ANKITA,VIKAS,PATIL,Civil Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612501028,ARHAAN,NITIN,BHALERAO,Civil Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
+612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612501044,AVANTIKA,ANANDRAO,SHINDE,Civil Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612501056,DISHA,SHASHIKANT,BABAR,Civil Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
 612515036,CHINMAY,VIKAS,CHAVAN,Computer Science and Engineering,LAB Batch 1-EG- Engineering Graphics,Division 1
@@ -17926,6 +17928,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501062,HIMANSHU,BHUSHAN,CHAUDHARI,Civil Engineering,LAB Batch 3-EG- Engineering Graphics,Division 1
 612501064,JANHAVI,AJAY,SHENDE,Civil Engineering,LAB Batch 3-EG- Engineering Graphics,Division 1
 612501065,JAYWARDHAN,SARDAR,PATIL,Civil Engineering,LAB Batch 3-EG- Engineering Graphics,Division 1
+612501066,JINAY,SAMEER,LODHA,Civil Engineering,LAB Batch 3-EG- Engineering Graphics,Division 1
 612501068,KADAMBARI,,KHAWALE,Civil Engineering,LAB Batch 3-EG- Engineering Graphics,Division 1
 612501071,KARTIK,VILAS,GAIKWAD,Civil Engineering,LAB Batch 3-EG- Engineering Graphics,Division 1
 612501080,MAHESH,GURUNATH,MULE,Civil Engineering,LAB Batch 3-EG- Engineering Graphics,Division 1
@@ -18009,6 +18012,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501153,TANISQ,VASUDEV,KORRULKAR,Civil Engineering,LAB Batch 2-EG- Engineering Graphics,Division 2
 612501155,TEJVEER,AVINASH,DHAKNE,Civil Engineering,LAB Batch 2-EG- Engineering Graphics,Division 2
 612501157,UNMESH,SHARAD,AMBI,Civil Engineering,LAB Batch 2-EG- Engineering Graphics,Division 2
+612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,LAB Batch 2-EG- Engineering Graphics,Division 2
 612501163,VEDIKA,DNYANESHWAR,AHER,Civil Engineering,LAB Batch 2-EG- Engineering Graphics,Division 2
 612501167,VINIT,MANOJ,JOJARE,Civil Engineering,LAB Batch 2-EG- Engineering Graphics,Division 2
 612501168,VISHAKHA,PAVANLAL,BISEN,Civil Engineering,LAB Batch 2-EG- Engineering Graphics,Division 2
@@ -18171,7 +18175,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612510190,YASHODHAN,DAYANAND,KAMATH,Mechanical Engineering,LAB Batch 4-FCS- Fundamentals of Cyber Security,Division 2
 612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,LAB Batch 5-FCS- Fundamentals of Cyber Security,Division 2
 612501175,YASH,PARESH,KOYALE,Civil Engineering,LAB Batch 5-FCS- Fundamentals of Cyber Security,Division 2
-612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,LAB Batch 5-FCS- Fundamentals of Cyber Security,Division 2
+612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,LAB Batch 2-FCS- Fundamentals of Cyber Security,Division 2
 612505162,VARUN,HEMANT,GODBOLE,Electrical Engineering,LAB Batch 5-FCS- Fundamentals of Cyber Security,Division 2
 612505182,FAROOQUI,MOHAMMAD ANWAAR,SABIR,Electrical Engineering,LAB Batch 5-FCS- Fundamentals of Cyber Security,Division 2
 612505184,MRUNAL,MANDAR,RATNAPARKHI,Electrical Engineering,LAB Batch 5-FCS- Fundamentals of Cyber Security,Division 2
@@ -18897,7 +18901,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612511036,PRANAV,NITIN,JAGTAP,Metallurgy and Materials Technology,LAB Batch 1-WD- Web Designing,Division 1
 612501041,ATHARVA,BHUSHAN,JADHAV,Civil Engineering,LAB Batch 2-WD- Web Designing,Division 1
 612501077,KUBDE,VEDANT,MAHESH,Civil Engineering,LAB Batch 2-WD- Web Designing,Division 1
-612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,LAB Batch 2-WD- Web Designing,Division 1
 612515037,DARSHIL,UMESH,GHOLE,Computer Science and Engineering,LAB Batch 2-WD- Web Designing,Division 1
 612515111,ANIL,BALAJI,PATIL,Computer Science and Engineering,LAB Batch 2-WD- Web Designing,Division 1
 612515128,ATHARVA,RANGNATH,PAWAR,Computer Science and Engineering,LAB Batch 2-WD- Web Designing,Division 1
@@ -18921,7 +18924,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612511058,SARTHAK,SHIVRAM,RATHOD,Metallurgy and Materials Technology,LAB Batch 2-WD- Web Designing,Division 1
 612511077,VANSH,VIJAY,SHRIWASTAVA,Metallurgy and Materials Technology,LAB Batch 2-WD- Web Designing,Division 1
 612572096,ANTARA,,MUKHERJEE,Artificial Intelligence and Machine Learning,LAB Batch 3-WD- Web Designing,Division 1
-612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,LAB Batch 3-WD- Web Designing,Division 1
 612501106,PREM,UMESH,LONKAR,Civil Engineering,LAB Batch 3-WD- Web Designing,Division 1
 612515208,PRAJWAL,SANJAY,STHUL,Computer Science and Engineering,LAB Batch 3-WD- Web Designing,Division 1
 612515222,PURVA,HANUMANT,VHANKALAS,Computer Science and Engineering,LAB Batch 3-WD- Web Designing,Division 1
@@ -19039,6 +19041,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612513014,ASHISH,GIRISH,ARWADE,Manufacturing Science and Engineering,LAB Batch 3-GE- Geomatic Engg,Division 1
 612510035,DEVESH,SHANTANU,DESHPANDE,Mechanical Engineering,LAB Batch 3-GE- Geomatic Engg,Division 1
 612510060,PIYUSH,MILIND,AMBIKE,Mechanical Engineering,LAB Batch 3-GE- Geomatic Engg,Division 1
+612510089,TANMAY,RAHUL,BARHANPURE,Mechanical Engineering,LAB Batch 3-GE- Geomatic Engg,Division 1
 612511059,SHASTRI,RUJUL,RAJVEER,Metallurgy and Materials Technology,LAB Batch 3-GE- Geomatic Engg,Division 1
 612511088,NIHAR,MANGESH,JADHAO,Metallurgy and Materials Technology,LAB Batch 3-GE- Geomatic Engg,Division 1
 612572042,MANSI,PRAKASHRAO,SATAMWAR,Artificial Intelligence and Machine Learning,LAB Batch 1-FCP- Funda. Of Constructive Practices,Division 1
@@ -19073,6 +19076,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501125,SANKET,ISHWAR,THAKARE,Civil Engineering,LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1
 612501134,SHIVRAJ,GANESH,KHALATE,Civil Engineering,LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1
 612501153,TANISQ,VASUDEV,KORRULKAR,Civil Engineering,LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1
+612501161,VARAD,PANDURANG,BANKAR,Civil Engineering,LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1
 612501167,VINIT,MANOJ,JOJARE,Civil Engineering,LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1
 612501178,VANDAN,PRATIK,SHAH,Civil Engineering,LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1
 612515402,SIDDANT,HARSHAL,GIRAD,Computer Science and Engineering,LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1
@@ -19109,6 +19113,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501011,ADITYA,ATMARAM,GAIKWAD,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
 612501018,AJINKYA,RAJESH,KAMDI,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
 612501019,AKASH,PRAKASH,GONDHALI,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
+612501029,ARJUN,ATUL,HIVARKAR,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
 612501032,ARNAV,PURUSHOTTAM,DURAGKAR,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
 612501037,ASHLESHA,ANIL,RAUT,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
 612501040,ATHARV,VINAY,KOLAWALE,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
@@ -19374,7 +19379,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
 612515281,SHIVA,SAI,VAIBHAVK,Computer Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
 612515360,ALISHA,,GADKARI,Computer Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
+612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
 612505122,PRATHAM,NILESH,NIGADE,Electrical Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
 612507032,ATHARVA,SANDIP,GADGE,Electronics and Telecommunication Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
 612507169,VIRAJ,SWAPNIL,PATIL,Electronics and Telecommunication Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
