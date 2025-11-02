@@ -1,33 +1,21 @@
-// --- 👇 NEW HELPER FUNCTIONS ADDED HERE 👇 ---
-
-/**
- * Helper 1: Gets a Date object for tomorrow at 12:00 AM.
- */
+// --- Helper Functions ---
 function getTomorrowMidnight() {
     const tomorrow = new Date();
     tomorrow.setDate(tomorrow.getDate() + 1);
-    tomorrow.setHours(0, 0, 0, 0); // 12:00 AM (midnight) at the start of the day
+    tomorrow.setHours(0, 0, 0, 0); 
     return tomorrow;
 }
-
-/**
- * Helper 2: Formats a Date object into the "YYYY-MM-DDTHH:MM"
- * string that the <input type="datetime-local"> requires.
- */
 function formatDateForInput(date) {
-    // This logic correctly converts a Date object to the local YYYY-MM-DDTHH:MM string
     const localISOString = new Date(date.getTime() - (date.getTimezoneOffset() * 60000)).toISOString().slice(0, 16);
     return localISOString;
 }
-
-// --- 👆 END OF NEW FUNCTIONS 👆 ---
-
+// --- End Helper Functions ---
 
 // Get references to all our HTML elements
 const loginContainer = document.getElementById('login-container');
 const adminPanel = document.getElementById('admin-panel');
 const loginForm = document.getElementById('login-form');
-const loginMisInput = document.getElementById('login-mis'); // Changed from email
+const loginMisInput = document.getElementById('login-mis');
 const loginPassword = document.getElementById('login-password');
 const loginError = document.getElementById('login-error');
 const logoutButton = document.getElementById('logout-button');
@@ -49,13 +37,27 @@ loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
     loginError.textContent = ''; // Clear old errors
     
-    // --- THIS IS OUR "MIS" TRICK ---
     const misNumber = loginMisInput.value;
-    const email = `${misNumber}@admin.local`; // Convert MIS to the email you created
-    // --- END OF TRICK ---
-    
     const password = loginPassword.value;
+
+    // --- Validation Added ---
+    if (misNumber.trim() === "") {
+        loginError.textContent = 'Please enter your MIS number.';
+        return; // Stop the function here
+    }
+    if (password === "") {
+        loginError.textContent = 'Please enter your password.';
+        return; // Stop the function here
+    }
+    // --- End Validation ---
+
+    // --- THIS IS OUR "MIS" TRICK ---
+    const email = `${misNumber}@admin.local`; // Convert MIS to the email you created
     
+    // --- 👇 THIS IS THE NEW DEBUG LINE 👇 ---
+    console.log("Attempting to log in with email:", email);
+    // --- 👆 END OF NEW DEBUG LINE 👆 ---
+
     auth.signInWithEmailAndPassword(email, password)
         .then((userCredential) => {
             // Success! Auth state change will handle showing the panel
@@ -63,10 +65,10 @@ loginForm.addEventListener('submit', (e) => {
         })
         .catch((error) => {
             console.error('Login Error', error);
-            if (error.code === 'auth/wrong-password' || error.code === 'auth/user-not-found') {
+            if (error.code === 'auth/wrong-password' || error.code === 'auth/user-not-found' || error.code === 'auth/invalid-email') {
                 loginError.textContent = 'Invalid MIS number or password.';
             } else {
-                loginError.textContent = error.message;
+                loginError.textContent = 'An unknown error occurred. Please try again.';
             }
         });
 });
@@ -85,7 +87,7 @@ auth.onAuthStateChanged((user) => {
     if (user) {
         // User is logged in!
         loginContainer.classList.add('hidden');
-        adminPanel.classList.remove('hidden');
+        adminPanel.classList.remove('.hidden');
         loadCurrentNotice(); // Load the current notice data into the form
     } else {
         // User is logged out!
@@ -94,18 +96,13 @@ auth.onAuthStateChanged((user) => {
     }
 });
 
-// --- 2. NOTICE MANAGEMENT LOGIC (HEAVILY EDITED) ---
+// --- 2. NOTICE MANAGEMENT LOGIC ---
 
-/**
- * Function to load the current notice from Firestore.
- * Now sets a smart default for the date input.
- */
 function loadCurrentNotice() {
     publishStatus.textContent = ''; // Clear any old status messages
     
     noticeRef.get().then((doc) => {
         const now = new Date();
-        // Get our new default: tomorrow at 12:00 AM
         const defaultExpiryDate = getTomorrowMidnight(); 
         
         if (doc.exists) {
@@ -113,37 +110,25 @@ function loadCurrentNotice() {
             const message = data.message || '';
             const expiry = data.expiry; 
             
-            // Set the form's text area
             noticeMessage.value = message;
             
-            // Check if there is an *active, future* notice
             if (message && expiry && expiry.toDate() > now) {
-                // YES: Show the active notice
-                currentNoticeText.innerHTML = message.replace(/\n/g, '<br>'); // Show line breaks
+                currentNoticeText.innerHTML = message.replace(/\n/g, '<br>');
                 currentNoticeExpiry.textContent = `Expires: ${expiry.toDate().toLocaleString()}`;
-                
-                // Set date input to the *actual* expiry time
                 noticeExpiry.value = formatDateForInput(expiry.toDate()); 
             } else {
-                // NO: Show "no active notice"
                 currentNoticeText.textContent = '(No active notice is set)';
                 currentNoticeExpiry.textContent = '';
-                
-                // Set date input to the *default* (Tomorrow @ 12AM)
                 noticeExpiry.value = formatDateForInput(defaultExpiryDate); 
             }
         } else {
-            // The 'main_notice' document doesn't exist at all
             currentNoticeText.textContent = 'No notice document found. Publish one!';
             currentNoticeExpiry.textContent = '';
-            
-            // Set date input to the *default* (Tomorrow @ 12AM)
             noticeExpiry.value = formatDateForInput(defaultExpiryDate); 
         }
     }).catch(error => {
         console.error("Error loading current notice:", error);
         currentNoticeText.textContent = 'Error loading notice.';
-        // Set to default on error too
         noticeExpiry.value = formatDateForInput(getTomorrowMidnight());
     });
 }
@@ -163,11 +148,9 @@ noticeForm.addEventListener('submit', (e) => {
         return;
     }
     
-    // Convert the local time string back into a JS Date, then to a Firebase Timestamp
     const expiryDate = new Date(expiryString);
     const expiryTimestamp = firebase.firestore.Timestamp.fromDate(expiryDate);
 
-    // Set the document in Firestore
     noticeRef.set({
         message: message,
         expiry: expiryTimestamp
@@ -190,8 +173,6 @@ clearButton.addEventListener('click', () => {
     publishStatus.textContent = 'Clearing...';
     publishStatus.className = 'status';
     
-    // We "clear" a notice by setting the message to empty
-    // and setting the expiry to a time in the past.
     const pastDate = new Date(0); // The year 1970
     const pastTimestamp = firebase.firestore.Timestamp.fromDate(pastDate);
 
