@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify  # <-- 1. IMPORTED jsonify
+from flask import Flask, render_template, request, jsonify
 import sqlite3
 import os
 
@@ -17,11 +17,18 @@ def index():
     # This route is correct, it should send the HTML page
     return render_template('index.html')
 
+# --- 👇 NEW ROUTE ADDED HERE 👇 ---
+@app.route('/admin')
+def admin_panel():
+    """Serves the secure admin login page."""
+    # This just tells Flask to find and send the 'admin.html' file
+    return render_template('admin.html')
+# --- 👆 END OF NEW ROUTE 👆 ---
+
 @app.route('/get_schedule', methods=['POST'])
 def get_schedule():
     mis_number = request.form.get('mis_number')
     if not mis_number:
-        # <-- 2. RETURN JSON ERROR
         return jsonify({"error": "MIS number is required."})
 
     conn = None  # Initialize connection to None
@@ -33,7 +40,6 @@ def get_schedule():
         ).fetchone()
 
         if not student_info:
-            # <-- 3. RETURN JSON ERROR
             return jsonify({"error": f"No student found with MIS number {mis_number}."})
 
         schedule_query = """
@@ -73,7 +79,6 @@ def get_schedule():
                 # Convert the database row to a simple dict for JSON
                 grid[time_key][day_key] = dict(row)
 
-        # <-- 4. RETURN JSON DATA (THE MAIN FIX)
         return jsonify({
             "student_name": student_info['full_name'],
             "branch": student_info['branch'],
