@@ -1,3 +1,28 @@
+// --- 👇 NEW HELPER FUNCTIONS ADDED HERE 👇 ---
+
+/**
+ * Helper 1: Gets a Date object for tomorrow at 12:00 AM.
+ */
+function getTomorrowMidnight() {
+    const tomorrow = new Date();
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    tomorrow.setHours(0, 0, 0, 0); // 12:00 AM (midnight) at the start of the day
+    return tomorrow;
+}
+
+/**
+ * Helper 2: Formats a Date object into the "YYYY-MM-DDTHH:MM"
+ * string that the <input type="datetime-local"> requires.
+ */
+function formatDateForInput(date) {
+    // This logic correctly converts a Date object to the local YYYY-MM-DDTHH:MM string
+    const localISOString = new Date(date.getTime() - (date.getTimezoneOffset() * 60000)).toISOString().slice(0, 16);
+    return localISOString;
+}
+
+// --- 👆 END OF NEW FUNCTIONS 👆 ---
+
+
 // Get references to all our HTML elements
 const loginContainer = document.getElementById('login-container');
 const adminPanel = document.getElementById('admin-panel');
@@ -56,15 +81,12 @@ logoutButton.addEventListener('click', () => {
 });
 
 // Main auth state listener
-// This is the most important auth function.
-// It runs when the page loads and any time the login state changes.
 auth.onAuthStateChanged((user) => {
     if (user) {
         // User is logged in!
         loginContainer.classList.add('hidden');
         adminPanel.classList.remove('hidden');
-        // Load the current notice data into the form
-        loadCurrentNotice();
+        loadCurrentNotice(); // Load the current notice data into the form
     } else {
         // User is logged out!
         loginContainer.classList.remove('hidden');
@@ -72,51 +94,57 @@ auth.onAuthStateChanged((user) => {
     }
 });
 
-// --- 2. NOTICE MANAGEMENT LOGIC ---
+// --- 2. NOTICE MANAGEMENT LOGIC (HEAVILY EDITED) ---
 
-// Function to load the current notice from Firestore
+/**
+ * Function to load the current notice from Firestore.
+ * Now sets a smart default for the date input.
+ */
 function loadCurrentNotice() {
     publishStatus.textContent = ''; // Clear any old status messages
     
     noticeRef.get().then((doc) => {
+        const now = new Date();
+        // Get our new default: tomorrow at 12:00 AM
+        const defaultExpiryDate = getTomorrowMidnight(); 
+        
         if (doc.exists) {
             const data = doc.data();
             const message = data.message || '';
-            const expiry = data.expiry;
+            const expiry = data.expiry; 
             
-            // Set the form fields to match
+            // Set the form's text area
             noticeMessage.value = message;
             
-            // Update the "Current Notice" preview
-            const now = new Date();
+            // Check if there is an *active, future* notice
             if (message && expiry && expiry.toDate() > now) {
+                // YES: Show the active notice
                 currentNoticeText.innerHTML = message.replace(/\n/g, '<br>'); // Show line breaks
                 currentNoticeExpiry.textContent = `Expires: ${expiry.toDate().toLocaleString()}`;
+                
+                // Set date input to the *actual* expiry time
+                noticeExpiry.value = formatDateForInput(expiry.toDate()); 
             } else {
+                // NO: Show "no active notice"
                 currentNoticeText.textContent = '(No active notice is set)';
                 currentNoticeExpiry.textContent = '';
+                
+                // Set date input to the *default* (Tomorrow @ 12AM)
+                noticeExpiry.value = formatDateForInput(defaultExpiryDate); 
             }
-
-            if (expiry) {
-                // Convert Firebase Timestamp to a string for the <input type="datetime-local">
-                const expiryDate = expiry.toDate();
-                // Need to format it as YYYY-MM-DDTHH:MM
-                const localISOString = new Date(expiryDate.getTime() - (expiryDate.getTimezoneOffset() * 60000)).toISOString().slice(0, 16);
-                noticeExpiry.value = localISOString;
-            } else {
-                // Set a default expiry for 24 hours from now
-                const defaultExpiry = new Date(Date.now() + 24 * 60 * 60 * 1000); // 24 hours
-                const localISOString = new Date(defaultExpiry.getTime() - (defaultExpiry.getTimezoneOffset() * 60000)).toISOString().slice(0, 16);
-                noticeExpiry.value = localISOString;
-            }
-            
         } else {
+            // The 'main_notice' document doesn't exist at all
             currentNoticeText.textContent = 'No notice document found. Publish one!';
             currentNoticeExpiry.textContent = '';
+            
+            // Set date input to the *default* (Tomorrow @ 12AM)
+            noticeExpiry.value = formatDateForInput(defaultExpiryDate); 
         }
     }).catch(error => {
         console.error("Error loading current notice:", error);
         currentNoticeText.textContent = 'Error loading notice.';
+        // Set to default on error too
+        noticeExpiry.value = formatDateForInput(getTomorrowMidnight());
     });
 }
 
