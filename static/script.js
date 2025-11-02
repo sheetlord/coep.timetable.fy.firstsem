@@ -1,60 +1,54 @@
+let trackerInterval = null;
+
 // --- 1. SET UP BATCH LOGGING ---
 let logQueue = []; // An array to hold logs
 
-// Function to send the batch (this assumes 'db' exists from index.html)
 async function sendLogBatch() {
-    // Step 1: Check if there's anything to send
     if (logQueue.length === 0) {
-        console.log("No logs to send.");
-        return; // Do nothing
+        return;
     }
-
-    // 'db' is the global variable we defined in index.html
     const batch = db.batch();
-
-    // Step 2: Copy the current queue and clear the main one *immediately*
     const logsToSend = [...logQueue];
     logQueue = [];
     console.log(`Sending batch of ${logsToSend.length} logs...`);
 
-    // Step 3: Add all logs from our copy to the batch
     logsToSend.forEach(log => {
-        const logRef = db.collection("logs").doc(); // Create a new empty doc
-        batch.set(logRef, log); // Add the log to the batch
+        const logRef = db.collection("logs").doc();
+        batch.set(logRef, log);
     });
 
-    // Step 4: Send the batch (this counts as 1 WRITE)
     try {
         await batch.commit();
         console.log("Log batch sent successfully!");
     } catch (e) {
         console.error("Error sending log batch: ", e);
-        // If it fails, add the logs back to the main queue to try again next time
         logQueue = [...logsToSend, ...logQueue];
     }
 }
 
-// --- 2. YOUR EXISTING FORM LISTENER (NOW WITH LOGGING) ---
-
+// --- 2. FORM LISTENER ---
 document.getElementById('scheduleForm').addEventListener('submit', async function (e) {
     e.preventDefault();
+
+    if (trackerInterval) {
+        clearInterval(trackerInterval);
+    }
 
     const misNumber = document.getElementById('mis_number').value;
     const resultDiv = document.getElementById('result');
     const loadingDiv = document.getElementById('loading');
 
-    // --- ⬇️ ADDED LOGGING CODE ⬇️ ---
-    // Add the log to our queue. The timer will send it.
+    // --- Logging Code ---
     try {
         logQueue.push({
             mis: misNumber,
-            timestamp: new Date() // Use the client's current time
+            timestamp: new Date()
         });
         console.log('MIS logged to queue.');
     } catch (e) {
         console.error('Error queuing log:', e);
     }
-    // --- ⬆️ END OF ADDED CODE ⬆️ ---
+    // --- End Logging Code ---
 
     resultDiv.innerHTML = '';
     loadingDiv.classList.remove('hidden');
@@ -72,48 +66,47 @@ document.getElementById('scheduleForm').addEventListener('submit', async functio
         if (data.error) {
             resultDiv.innerHTML = `<p class="error">${data.error}</p>`;
         } else {
-            // --- NEW TABLE BUILDING LOGIC ---
-
-            // Display student name and branch
             let headerInfo = `
                 <h2>${data.student_name}
                     <span class="branch">(${data.branch})</span>
                 </h2>`;
 
-            // Check if schedule is empty
             if (!data.schedule.grid) {
                 resultDiv.innerHTML = headerInfo + "<p>No classes found for your registered subjects.</p>";
-                loadingDiv.classList.add('hidden'); // Also hide loading here
+                loadingDiv.classList.add('hidden');
                 return;
             }
 
             const { days, time_slots, grid } = data.schedule;
 
-            // Start building the table HTML
+            // Added id="timetable-grid"
             let tableHtml = `
                 <div class="timetable-container">
-                    <table class="timetable">
+                    <table id="timetable-grid" class="timetable"> 
                         <thead>
                             <tr>
                                 <th class="time-slot">Time</th>`;
-            // Create day headers
-            days.forEach(day => {
-                tableHtml += `<th>${day}</th>`;
+            
+            // Added data-day and data-col-index
+            days.forEach((day, index) => {
+                tableHtml += `<th data-day="${day}" data-col-index="${index}">${day}</th>`;
             });
+            
             tableHtml += `
                             </tr>
                         </thead>
                         <tbody>`;
 
-            // Create a row for each time slot
             time_slots.forEach(time => {
-                tableHtml += `<tr><th class="time-slot">${time}</th>`;
-                // Create a cell for each day in that time slot
-                days.forEach(day => {
+                // Added data-time-slot
+                tableHtml += `<tr data-time-slot="${time}"><th class="time-slot">${time}</th>`;
+                
+                days.forEach((day, index) => {
                     const classInfo = grid[time][day];
                     if (classInfo) {
+                        // Added data-col-index
                         tableHtml += `
-                            <td>
+                            <td data-col-index="${index}"> 
                                 <div class="class-details">
                                     <span class="class-subject">${classInfo.subject}</span>
                                     <strong>Room:</strong> ${classInfo.room}<br>
@@ -121,7 +114,8 @@ document.getElementById('scheduleForm').addEventListener('submit', async functio
                                 </div>
                             </td>`;
                     } else {
-                        tableHtml += '<td></td>'; // Empty cell if no class
+                        // Added data-col-index
+                        tableHtml += `<td data-col-index="${index}"></td>`; 
                     }
                 });
                 tableHtml += '</tr>';
@@ -133,6 +127,9 @@ document.getElementById('scheduleForm').addEventListener('submit', async functio
                 </div>`;
             
             resultDiv.innerHTML = headerInfo + tableHtml;
+            
+            // Start the tracker
+            startRealTimeTracker(); 
         }
     } catch (error) {
         resultDiv.innerHTML = `<p class="error">An unexpected error occurred. Please try again.</p>`;
@@ -142,10 +139,94 @@ document.getElementById('scheduleForm').addEventListener('submit', async functio
     }
 });
 
-// --- 3. START THE TIMERS ---
-
-// Set up the timer to run sendLogBatch() every 60 seconds
-setInterval(sendLogBatch, 60000); // 60,000 milliseconds = 1 minute
-
-// (Recommended) Try to send any remaining logs when the user closes the tab
+// --- 3. LOG TIMERS ---
+setInterval(sendLogBatch, 60000);
 window.addEventListener('beforeunload', sendLogBatch);
+
+// ----------------------------------------------
+// --- REAL-TIME TRACKER FUNCTIONS ---
+// ----------------------------------------------
+
+function startRealTimeTracker() {
+    updateHighlighter();
+    trackerInterval = setInterval(updateHighlighter, 10000); // 10 seconds
+}
+
+function updateHighlighter() {
+    const now = new Date();
+    const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    const currentDay = dayNames[now.getDay()];
+    const currentTime = now.toTimeString().slice(0, 5);
+
+    document.querySelectorAll('.current-day-header, .current-time-header, .current-time-row, .current-day-col')
+        .forEach(el => {
+            el.classList.remove('current-day-header', 'current-time-header', 'current-time-row', 'current-day-col');
+        });
+        
+    const dayHeader = document.querySelector(`#timetable-grid th[data-day="${currentDay}"]`);
+    if (dayHeader) {
+        dayHeader.classList.add('current-day-header');
+        const colIndex = dayHeader.getAttribute('data-col-index');
+        const dayCells = document.querySelectorAll(`#timetable-grid td[data-col-index="${colIndex}"]`);
+        dayCells.forEach(cell => {
+            cell.classList.add('current-day-col');
+        });
+    }
+
+    const allTimeSlots = document.querySelectorAll('#timetable-grid tr[data-time-slot]');
+    allTimeSlots.forEach(row => {
+        const timeSlot = row.getAttribute('data-time-slot');
+        if (!timeSlot) return;
+
+        const [startTime, endTime] = timeSlot.split('-');
+
+        if (currentTime >= startTime && currentTime < endTime) {
+            row.classList.add('current-time-row');
+            const timeHeader = row.querySelector('th');
+            if (timeHeader) {
+                timeHeader.classList.add('current-time-header');
+            }
+        }
+    });
+}
+
+// ----------------------------------------------
+// --- NOTICE BOARD FETCHER (v2 with Timer) ---
+// ----------------------------------------------
+(function fetchNotice() {
+    console.log("Checking for site notice...");
+    const noticeDiv = document.getElementById('notice-board');
+    const noticeText = document.getElementById('notice-text');
+
+    db.collection("config").doc("main_notice").get()
+        .then((doc) => {
+            if (doc.exists) {
+                const data = doc.data();
+                const message = data.message; 
+                const expiry = data.expiry; 
+
+                const now = new Date(); 
+                
+                if (message && message.trim() !== "" && expiry && expiry.toDate() > now) {
+                    // All checks passed! Show the notice.
+                    console.log("Active notice found:", message);
+                    
+                    // Use innerHTML to allow for line breaks
+                    noticeText.innerHTML = message.replace(/\n/g, '<br>'); 
+                    
+                    noticeDiv.classList.remove('hidden'); // Make the whole div visible
+                } else {
+                    // Notice is either empty or expired
+                    console.log("No active notice.");
+                    noticeDiv.classList.add('hidden'); // Ensure it stays hidden
+                }
+            } else {
+                console.log("No notice document found.");
+                noticeDiv.classList.add('hidden');
+            }
+        })
+        .catch((error) => {
+            console.error("Error fetching notice: ", error);
+            noticeDiv.classList.add('hidden');
+        });
+})();

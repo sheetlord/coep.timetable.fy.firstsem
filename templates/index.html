@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personalized Timetable</title>
+
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <style>
         /* Simple helper class for the loading spinner */
@@ -15,6 +20,11 @@
 <body>
     <div class="container">
         <h1>My Class Timetable</h1>
+
+        <div id="notice-board" class="hidden">
+            <h4>NOTICE</h4>
+            <p id="notice-text"></p>
+        </div>
         
         <form id="scheduleForm">
             <label for="mis_number">Enter Your MIS Number:</label>
