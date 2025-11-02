@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='admin.css') }}">
+    <style>
+        /* Simple helper class to hide things */
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div id="login-container">
+            <h1>Admin Login</h1>
+            <form id="login-form">
+                <label for="mis-number">MIS Number</label>
+                <input type="text" id="login-mis" placeholder="e.g., 612515010" required>
+                
+                <label for="password">Password</label>
+                <input type="password" id="login-password" required>
+                
+                <button type="submit">Login</button>
+                <p id="login-error" class="error"></p>
+            </form>
+        </div>
+
+        <div id="admin-panel" class="hidden">
+            <div class="header">
+                <h1>Notice Manager</h1>
+                <button id="logout-button">Logout</button>
+            </div>
+            
+            <form id="notice-form">
+                <label for="notice-message">Notice Message</label>
+                <textarea id="notice-message" rows="4" placeholder="Type your notice here...&#10;You can use multiple lines."></textarea>
+                
+                <label for="notice-expiry">Expiry Date and Time</label>
+                <input type="datetime-local" id="notice-expiry" required>
+                
+                <button type="submit">Publish Notice</button>
+                <button type="button" id="clear-button" class="danger">Clear & Hide Notice</button>
+                <p id="publish-status" class="status"></p>
+            </form>
+            
+            <div class="current-notice">
+                <h3>Current Active Notice</h3>
+                <p id="current-notice-text">Loading...</p>
+                <small id="current-notice-expiry">...</small>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+    
+    <script>
+      // This is your config object from Firebase (must be here too)
+      const firebaseConfig = {
+        apiKey: "AIzaSyCMxWS-DOzFn2QmBgvafEk5gkn4kebpsGE",
+        authDomain: "timetable-logs.firebaseapp.com",
+        projectId: "timetable-logs",
+        storageBucket: "timetable-logs.firebasestorage.app",
+        messagingSenderId: "118109027823",
+        appId: "1:118109027823:web:bbf0ec4c59873cc0ca4a1a",
+        measurementId: "G-0L96SEETEE"
+      };
+    
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      
+      // Make db and auth globally available to our admin.js
+      const db = firebase.firestore();
+      const auth = firebase.auth();
+    </script>
+    
+    <script src="{{ url_for('static', filename='admin.js') }}"></script>
+
+</body>
+</html>
