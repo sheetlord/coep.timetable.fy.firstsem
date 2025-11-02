@@ -37,31 +37,43 @@ loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
     loginError.textContent = ''; // Clear old errors
     
-    const misNumber = loginMisInput.value;
+    // Get the raw input and trim whitespace
+    const misNumberInput = loginMisInput.value.trim(); 
     const password = loginPassword.value;
 
-    // --- Validation Added ---
-    if (misNumber.trim() === "") {
+    // Validation
+    if (misNumberInput === "") {
         loginError.textContent = 'Please enter your MIS number.';
-        return; // Stop the function here
+        return; 
     }
     if (password === "") {
         loginError.textContent = 'Please enter your password.';
-        return; // Stop the function here
+        return;
     }
-    // --- End Validation ---
 
-    // --- THIS IS OUR "MIS" TRICK ---
-    const email = `${misNumber}@admin.local`; // Convert MIS to the email you created
-    
-    // --- 👇 THIS IS THE NEW DEBUG LINE 👇 ---
+    // --- Smart Email Logic ---
+    let email;
+    if (misNumberInput.includes('@admin.local')) {
+        email = misNumberInput;
+    } else {
+        email = `${misNumberInput}@admin.local`;
+    }
+    // --- End Smart Email Logic ---
+
     console.log("Attempting to log in with email:", email);
-    // --- 👆 END OF NEW DEBUG LINE 👆 ---
 
-    auth.signInWithEmailAndPassword(email, password)
-        .then((userCredential) => {
-            // Success! Auth state change will handle showing the panel
+    // --- 👇 NEW CODE TO SET 'SESSION' PERSISTENCE 👇 ---
+    // This tells Firebase to only remember the login for this tab
+    auth.setPersistence(firebase.auth.Auth.Persistence.SESSION)
+      .then(() => {
+        // Now that persistence is set, sign them in
+        return auth.signInWithEmailAndPassword(email, password);
+      })
+    // --- 👆 END OF NEW CODE 👆 ---
+      .then((userCredential) => {
+            // Success!
             console.log('Login successful', userCredential.user);
+            // The auth.onAuthStateChanged listener will handle showing the panel
         })
         .catch((error) => {
             console.error('Login Error', error);
@@ -87,7 +99,7 @@ auth.onAuthStateChanged((user) => {
     if (user) {
         // User is logged in!
         loginContainer.classList.add('hidden');
-        adminPanel.classList.remove('.hidden');
+        adminPanel.classList.remove('hidden'); 
         loadCurrentNotice(); // Load the current notice data into the form
     } else {
         // User is logged out!
