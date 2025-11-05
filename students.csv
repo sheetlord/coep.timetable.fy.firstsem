@@ -8064,7 +8064,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501053,DHRUV,DILIP,SHEKHADA,Civil Engineering,WD- Web Designing,Division 1
 612501077,KUBDE,VEDANT,MAHESH,Civil Engineering,WD- Web Designing,Division 1
 612501095,PRADNYESH,ANIL,WADEKAR,Civil Engineering,WD- Web Designing,Division 1
-612501099,PRANAY,RUPESH,GAIKWAD,Civil Engineering,WD- Web Designing,Division 1
+612501099,PRANAY,RUPESH,GAIKWAD,Civil Engineering,FCP- Funda. Of Constructive Practices,Division 1
 612501105,PRATHMESH,BALAJI,CHATRE,Civil Engineering,WD- Web Designing,Division 1
 612501106,PREM,UMESH,LONKAR,Civil Engineering,WD- Web Designing,Division 1
 612515009,ADITI,SANJAY,POL,Computer Science and Engineering,WD- Web Designing,Division 1
@@ -8151,103 +8151,103 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612511060,SHIKALGAR,WASIF,FIROZ,Metallurgy and Materials Technology,WD- Web Designing,Division 1
 612511075,TANVI,JEETENDRA,PATIL,Metallurgy and Materials Technology,WD- Web Designing,Division 1
 612511077,VANSH,VIJAY,SHRIWASTAVA,Metallurgy and Materials Technology,WD- Web Designing,Division 1
-612572029,DHARINI,SUSHILKUMAR,PATIL,Artificial Intelligence and Machine Learning,"RDOS- Robotics, Drone",Division 1
-612572039,KRISHNA,NITIN,KHILARE,Artificial Intelligence and Machine Learning,"RDOS- Robotics, Drone",Division 1
-612572051,PRIYANSHU,BABAN,SALVE,Artificial Intelligence and Machine Learning,"RDOS- Robotics, Drone",Division 1
-612572075,TEJASHWI,GANGADHAR,INGALE,Artificial Intelligence and Machine Learning,"RDOS- Robotics, Drone",Division 1
-612572088,ABDEALI,,MUSTANSIR,Artificial Intelligence and Machine Learning,"RDOS- Robotics, Drone",Division 1
-612572090,MUHAMMAD,,SHAIKH,Artificial Intelligence and Machine Learning,"RDOS- Robotics, Drone",Division 1
-612572091,SAI,VENKATA RUDRA,VASIREDDY,Artificial Intelligence and Machine Learning,"RDOS- Robotics, Drone",Division 1
-612501001,AARYA,PRASHANT,KADAM,Civil Engineering,"RDOS- Robotics, Drone",Division 1
-612501119,SACHIN,RAJUPRASAD,SAW,Civil Engineering,"RDOS- Robotics, Drone",Division 1
-612501126,SARDA,RIYA,PAVAN,Civil Engineering,"RDOS- Robotics, Drone",Division 1
-612501136,SHIVTEJ,SADASHIV,JADHAV,Civil Engineering,"RDOS- Robotics, Drone",Division 1
-612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,"RDOS- Robotics, Drone",Division 1
-612515005,AARYA,SUSHANT,KHAPANE,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612515081,SANSKAR,PRABHAKAR,BHOSALE,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612515097,TANMAY,SANJAY,BHARTAL,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612515169,MIHIR,ANAND,SANGHAVI,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612515212,PRANAV,SITARAM,PAWAR,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612515281,SHIVA,SAI,VAIBHAVK,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612515360,ALISHA,,GADKARI,Computer Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612505025,ASHIKA,,ANIL,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612505032,CHARVI,VIJAYKUMAR,MULAY,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612505037,DEVANSH,,DWIVEDI,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612505042,HARSH,PRAVIN,GOSAVI,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612505104,AMRUTA,VISHNUKUMAR,SHRIRAMJWAR,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612505122,PRATHAM,NILESH,NIGADE,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612505174,SOHAM,VIKRAMKUMAR,MAKWANA,Electrical Engineering,"RDOS- Robotics, Drone",Division 1
-612507032,ATHARVA,SANDIP,GADGE,Electronics and Telecommunication Engineering,"RDOS- Robotics, Drone",Division 1
-612507096,PRANJAL,MAHESHKUMAR,PATIL,Electronics and Telecommunication Engineering,"RDOS- Robotics, Drone",Division 1
-612507169,VIRAJ,SWAPNIL,PATIL,Electronics and Telecommunication Engineering,"RDOS- Robotics, Drone",Division 1
-612507186,SWARALI,JAYDEEP,JOSHI,Electronics and Telecommunication Engineering,"RDOS- Robotics, Drone",Division 1
-612509002,AGRAJ,SANJAY,RAUT,Instrumentation and Control Engineering,"RDOS- Robotics, Drone",Division 1
-612509014,CHIRAYU,BABALU,SALUNKE,Instrumentation and Control Engineering,"RDOS- Robotics, Drone",Division 1
-612509026,MEET,AMOL,PATIL,Instrumentation and Control Engineering,"RDOS- Robotics, Drone",Division 1
-612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,"RDOS- Robotics, Drone",Division 1
-612509056,TANUJA,DATTATRAY,KHARSUNDE,Instrumentation and Control Engineering,"RDOS- Robotics, Drone",Division 1
-612509073,OMKAAR,SACHIN,PATWARDHAN,Instrumentation and Control Engineering,"RDOS- Robotics, Drone",Division 1
-612509074,SHREEHARI,,FATING,Instrumentation and Control Engineering,"RDOS- Robotics, Drone",Division 1
-612513002,AADITYA,ASHOK,GHULE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513007,ADITYA,PRASHANT,JADHAV,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513008,ADITYA,RAJU,GAIKWAD,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513024,GOPAL,ULHAS,SADEGAONKAR,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513029,HARSHAL,WAMAN,CHUDHARI,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513038,MAITHILI,UMASHANKAR,KOCHE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513043,OMKAR,RAJUDAS,RATHOD,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513047,PRANITEE,PRASAD,KHEDKAR,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513050,RENUSANJANA,SIVA,BOMMISETTY,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513054,SAMYAK,ATUL,JAIN,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513056,SANKPAL,CHAITANYA,ANAND,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513058,SHANTANU,SANJAY,KANBALE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513061,SHLOK,RAKESHKUMAR,BHANGDIYA,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513071,SIDDESH,PRAMOD,INGOLe,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513073,SPANDAN,VISHAL,JAIN,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513075,SUJIT,,KUMAR,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513076,SUMIT,SAINATH,BORADE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513077,SURAJ,SAKHARAM,BINNAR,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513086,YASHODHAN,ASHISH,APTE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513089,ARNAV,NIRMAL,NEHETE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513091,JYOTIRADITYA,VIJAYKUMAR,PALWE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513096,TANAY,PRASHANT,BHARAMBE,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612513098,VEDANT,DEEPAK,PATIL,Manufacturing Science and Engineering,"RDOS- Robotics, Drone",Division 1
-612510003,ABHINAV,GANPATI,KUMBHAR,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510021,ARPITA,AMIT,MARATHE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510062,PRANALI,SUDHIR,BUVA,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510074,SAISH,MARUTI,DIVASE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510084,SHRUTI,DNYANESHWAR,BHUJBAL,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510086,SPARSH,SANJAY,GAICHARE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510090,TANMAY,SHRIRAM,GODSE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510095,VIHAAN,PRASHANT,CHANDANE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510098,YASH,RAJESH,KUBAL,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510102,ABHAS,DEEPENDRA,SAYARE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510109,DHAWALSHREE,MILIND,NAVANALE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510119,MONAL,PRASHANT,VASAIKAR,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510121,NIDHI,RAMSAGAR,VISHWAKARMA,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510122,NIHAL,NARENDRAKUMAR,PADOLE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510125,OM,SIDDHESHWAR,NARAKE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510152,SHLOK,RUTUPARNA,PEDNEKAR,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510162,SURABHI,HRISHIKESH,NENE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510170,VEDANSH,HRISHIKESH,BARGE,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510176,ATHARVA,SANTOSH,BHUJBAL,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612510189,VIDHIKA,SANJAY,SHARMA,Mechanical Engineering,"RDOS- Robotics, Drone",Division 1
-612511003,AMOGH,PRASAD,WALEKAR,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511029,NIRAJ,,RAHATE,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511040,PUSHKAR,SANJAY,UDAWANT,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511042,RAHUL,PRALHAD,SHINDE,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511045,RANAJAGJITSING,VIJAYKUMAR,RATHOD,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511047,RITESH,MAHADEV,MAKADE,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511067,SUCHIR,SHRIRANG,DIVEKAR,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511069,SUSHIL,VINOD,BHOSALE,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511070,SWAPNIL,NARESH,SIDAM,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511072,TAKSHEEL,,BUDDHADEO,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511074,TANISHA,AMOL,KHISTE,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511092,TANISHQ,SAARANG,DESHMUKH,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511093,VARAD,RAJENDRA,KALEL,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
-612511094,ARIHANT,,KAUL,Metallurgy and Materials Technology,"RDOS- Robotics, Drone",Division 1
+612572029,DHARINI,SUSHILKUMAR,PATIL,Artificial Intelligence and Machine Learning,RDOS- Robotics Drone,Division 1
+612572039,KRISHNA,NITIN,KHILARE,Artificial Intelligence and Machine Learning,RDOS- Robotics Drone,Division 1
+612572051,PRIYANSHU,BABAN,SALVE,Artificial Intelligence and Machine Learning,RDOS- Robotics Drone,Division 1
+612572075,TEJASHWI,GANGADHAR,INGALE,Artificial Intelligence and Machine Learning,RDOS- Robotics Drone,Division 1
+612572088,ABDEALI,,MUSTANSIR,Artificial Intelligence and Machine Learning,RDOS- Robotics Drone,Division 1
+612572090,MUHAMMAD,,SHAIKH,Artificial Intelligence and Machine Learning,RDOS- Robotics Drone,Division 1
+612572091,SAI,VENKATA RUDRA,VASIREDDY,Artificial Intelligence and Machine Learning,RDOS- Robotics Drone,Division 1
+612501001,AARYA,PRASHANT,KADAM,Civil Engineering,RDOS- Robotics Drone,Division 1
+612501119,SACHIN,RAJUPRASAD,SAW,Civil Engineering,RDOS- Robotics Drone,Division 1
+612501126,SARDA,RIYA,PAVAN,Civil Engineering,RDOS- Robotics Drone,Division 1
+612501136,SHIVTEJ,SADASHIV,JADHAV,Civil Engineering,RDOS- Robotics Drone,Division 1
+612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,RDOS- Robotics Drone,Division 1
+612515005,AARYA,SUSHANT,KHAPANE,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612515081,SANSKAR,PRABHAKAR,BHOSALE,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612515097,TANMAY,SANJAY,BHARTAL,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612515169,MIHIR,ANAND,SANGHAVI,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612515212,PRANAV,SITARAM,PAWAR,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612515281,SHIVA,SAI,VAIBHAVK,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612515360,ALISHA,,GADKARI,Computer Science and Engineering,RDOS- Robotics Drone,Division 1
+612505025,ASHIKA,,ANIL,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612505032,CHARVI,VIJAYKUMAR,MULAY,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612505037,DEVANSH,,DWIVEDI,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612505042,HARSH,PRAVIN,GOSAVI,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612505104,AMRUTA,VISHNUKUMAR,SHRIRAMJWAR,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612505122,PRATHAM,NILESH,NIGADE,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612505174,SOHAM,VIKRAMKUMAR,MAKWANA,Electrical Engineering,RDOS- Robotics Drone,Division 1
+612507032,ATHARVA,SANDIP,GADGE,Electronics and Telecommunication Engineering,RDOS- Robotics Drone,Division 1
+612507096,PRANJAL,MAHESHKUMAR,PATIL,Electronics and Telecommunication Engineering,RDOS- Robotics Drone,Division 1
+612507169,VIRAJ,SWAPNIL,PATIL,Electronics and Telecommunication Engineering,RDOS- Robotics Drone,Division 1
+612507186,SWARALI,JAYDEEP,JOSHI,Electronics and Telecommunication Engineering,RDOS- Robotics Drone,Division 1
+612509002,AGRAJ,SANJAY,RAUT,Instrumentation and Control Engineering,RDOS- Robotics Drone,Division 1
+612509014,CHIRAYU,BABALU,SALUNKE,Instrumentation and Control Engineering,RDOS- Robotics Drone,Division 1
+612509026,MEET,AMOL,PATIL,Instrumentation and Control Engineering,RDOS- Robotics Drone,Division 1
+612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,RDOS- Robotics Drone,Division 1
+612509056,TANUJA,DATTATRAY,KHARSUNDE,Instrumentation and Control Engineering,RDOS- Robotics Drone,Division 1
+612509073,OMKAAR,SACHIN,PATWARDHAN,Instrumentation and Control Engineering,RDOS- Robotics Drone,Division 1
+612509074,SHREEHARI,,FATING,Instrumentation and Control Engineering,RDOS- Robotics Drone,Division 1
+612513002,AADITYA,ASHOK,GHULE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513007,ADITYA,PRASHANT,JADHAV,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513008,ADITYA,RAJU,GAIKWAD,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513024,GOPAL,ULHAS,SADEGAONKAR,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513029,HARSHAL,WAMAN,CHUDHARI,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513038,MAITHILI,UMASHANKAR,KOCHE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513043,OMKAR,RAJUDAS,RATHOD,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513047,PRANITEE,PRASAD,KHEDKAR,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513050,RENUSANJANA,SIVA,BOMMISETTY,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513054,SAMYAK,ATUL,JAIN,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513056,SANKPAL,CHAITANYA,ANAND,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513058,SHANTANU,SANJAY,KANBALE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513061,SHLOK,RAKESHKUMAR,BHANGDIYA,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513071,SIDDESH,PRAMOD,INGOLe,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513073,SPANDAN,VISHAL,JAIN,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513075,SUJIT,,KUMAR,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513076,SUMIT,SAINATH,BORADE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513077,SURAJ,SAKHARAM,BINNAR,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513086,YASHODHAN,ASHISH,APTE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513089,ARNAV,NIRMAL,NEHETE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513091,JYOTIRADITYA,VIJAYKUMAR,PALWE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513096,TANAY,PRASHANT,BHARAMBE,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612513098,VEDANT,DEEPAK,PATIL,Manufacturing Science and Engineering,RDOS- Robotics Drone,Division 1
+612510003,ABHINAV,GANPATI,KUMBHAR,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510021,ARPITA,AMIT,MARATHE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510062,PRANALI,SUDHIR,BUVA,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510074,SAISH,MARUTI,DIVASE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510084,SHRUTI,DNYANESHWAR,BHUJBAL,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510086,SPARSH,SANJAY,GAICHARE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510090,TANMAY,SHRIRAM,GODSE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510095,VIHAAN,PRASHANT,CHANDANE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510098,YASH,RAJESH,KUBAL,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510102,ABHAS,DEEPENDRA,SAYARE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510109,DHAWALSHREE,MILIND,NAVANALE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510119,MONAL,PRASHANT,VASAIKAR,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510121,NIDHI,RAMSAGAR,VISHWAKARMA,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510122,NIHAL,NARENDRAKUMAR,PADOLE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510125,OM,SIDDHESHWAR,NARAKE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510152,SHLOK,RUTUPARNA,PEDNEKAR,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510162,SURABHI,HRISHIKESH,NENE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510170,VEDANSH,HRISHIKESH,BARGE,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510176,ATHARVA,SANTOSH,BHUJBAL,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612510189,VIDHIKA,SANJAY,SHARMA,Mechanical Engineering,RDOS- Robotics Drone,Division 1
+612511003,AMOGH,PRASAD,WALEKAR,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511029,NIRAJ,,RAHATE,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511040,PUSHKAR,SANJAY,UDAWANT,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511042,RAHUL,PRALHAD,SHINDE,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511045,RANAJAGJITSING,VIJAYKUMAR,RATHOD,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511047,RITESH,MAHADEV,MAKADE,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511067,SUCHIR,SHRIRANG,DIVEKAR,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511069,SUSHIL,VINOD,BHOSALE,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511070,SWAPNIL,NARESH,SIDAM,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511072,TAKSHEEL,,BUDDHADEO,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511074,TANISHA,AMOL,KHISTE,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511092,TANISHQ,SAARANG,DESHMUKH,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511093,VARAD,RAJENDRA,KALEL,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
+612511094,ARIHANT,,KAUL,Metallurgy and Materials Technology,RDOS- Robotics Drone,Division 1
 612572001,AADITYA,RANJEET,SHAH,Artificial Intelligence and Machine Learning,PP- Python Programming,Division 1
 612572003,AARUSH,RAVINDRA,VARKUTE,Artificial Intelligence and Machine Learning,PP- Python Programming,Division 1
 612572004,AAYUSH,RAJESH,KERKAR,Artificial Intelligence and Machine Learning,PP- Python Programming,Division 1
@@ -10355,52 +10355,52 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501177,ARJUN,AMIT,DIXIT,Civil Engineering,Linear Algebra,Division 5
 612501178,VANDAN,PRATIK,SHAH,Civil Engineering,Linear Algebra,Division 5
 612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,Linear Algebra,Division 5
-612507002,AADITYA,MAHESH,NARKHEDKAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 5
-612507010,ADITYA,,BARANWAL,Electronics and Telecommunication Engineerin,Linear Algebra,Division 5
-612507011,ADITYA,DNYANOBA,BORKAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507020,ANURADHA,BHAGWAN,AWALE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507022,ARCHIT,MANOJ,DESHPANDE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507031,ATHARVA,SACHIN,GOVINDWAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507033,AVADHUT,SANJAY,YADAV,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507034,BHAVANESH,MILIND,JAGTAP,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507035,BHUSHAN,MAHENDRA,BESARKAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507040,DHANANJAY,SUNIL,KASULE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507043,ESHITA,HITENDRA,PATIL,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507051,ISHANT,DEVENDRA,NAHAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507055,JOEL,,TIKOO,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507068,MANDAR,PRASHANT,DESAI,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507074,NEEL,RAHUL,BHARAMBE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507075,NEERAJ,TRILOKCHAND,KUMARE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507076,NEHA,NYAHALSING,JARWAL,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507087,PARTH,GAJANAN,PANDE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507093,PRABHA,,SHARMA,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507097,PRATHAMESH,PRAVIN,BUTTE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507105,RAWANE,DHRUV,HARSHVARDHAN,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507108,RISHIK,RAJESH,RAJURKAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507109,RISHIKA,SHRIHARSH,SHARMA,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507112,RIYA,ABHINANDAN,SOUNDATTE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507114,RONNIT,YOGESH,KASAT,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507115,RUCHA,GANESH,DASNAM,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507117,SAHIL,SANTOSH,KHARAT,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507119,SAKSHAM,MANOJKUMAR,INANI,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507120,SAMARTH,KRUSHANA,GADEKAR,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507122,SAMBIT,,DAS,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507125,SANCHIT,PRASHANT,JOSHI,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507140,SHREYASH,SANJAY,PAWAR,Electronics and Telecommunication Engineerin,MAC,Division 8
-612507142,SHUBHAM,YASHAWANT,NEMADE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507143,SIDDHANT,DILIP,NIKHADE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507149,SOURABH,SUNIL,SONTAKKE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507150,SUJAL,SHASHIKANT,CHANDANE,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507151,SUPRIYA,MAHENDRA,BORDEPATIL,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507156,SWARA,SACHIN,KADAM,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507160,TANISHQ,KAMLESH,BHANDARI,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507165,VEDANG,PANKAJ,VORA,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507166,VEDANT,GOVINDRAO,KULKARNI,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507175,APARNA,RAJALAKSHMI,ACHATH,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507176,DHRUVA,,SHIRNIVAS,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507179,PURVI,SHESHACHAL,KULKARNI,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
-612507188,AKSHITA,,SHARMA,Electronics and Telecommunication Engineerin,Linear Algebra,Division 6
+612507002,AADITYA,MAHESH,NARKHEDKAR,Electronics and Telecommunication Engineering,Linear Algebra,Division 5
+612507010,ADITYA,,BARANWAL,Electronics and Telecommunication Engineering,Linear Algebra,Division 5
+612507011,ADITYA,DNYANOBA,BORKAR,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507020,ANURADHA,BHAGWAN,AWALE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507022,ARCHIT,MANOJ,DESHPANDE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507031,ATHARVA,SACHIN,GOVINDWAR,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507033,AVADHUT,SANJAY,YADAV,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507034,BHAVANESH,MILIND,JAGTAP,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507035,BHUSHAN,MAHENDRA,BESARKAR,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507040,DHANANJAY,SUNIL,KASULE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507043,ESHITA,HITENDRA,PATIL,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507051,ISHANT,DEVENDRA,NAHAR,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507055,JOEL,,TIKOO,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507068,MANDAR,PRASHANT,DESAI,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507074,NEEL,RAHUL,BHARAMBE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507075,NEERAJ,TRILOKCHAND,KUMARE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507076,NEHA,NYAHALSING,JARWAL,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507087,PARTH,GAJANAN,PANDE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507093,PRABHA,,SHARMA,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507097,PRATHAMESH,PRAVIN,BUTTE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507105,RAWANE,DHRUV,HARSHVARDHAN,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507108,RISHIK,RAJESH,RAJURKAR,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507109,RISHIKA,SHRIHARSH,SHARMA,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507112,RIYA,ABHINANDAN,SOUNDATTE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507114,RONNIT,YOGESH,KASAT,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507115,RUCHA,GANESH,DASNAM,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507117,SAHIL,SANTOSH,KHARAT,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507119,SAKSHAM,MANOJKUMAR,INANI,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507120,SAMARTH,KRUSHANA,GADEKAR,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507122,SAMBIT,,DAS,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507125,SANCHIT,PRASHANT,JOSHI,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507140,SHREYASH,SANJAY,PAWAR,Electronics and Telecommunication Engineering,MAC,Division 8
+612507142,SHUBHAM,YASHAWANT,NEMADE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507143,SIDDHANT,DILIP,NIKHADE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507149,SOURABH,SUNIL,SONTAKKE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507150,SUJAL,SHASHIKANT,CHANDANE,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507151,SUPRIYA,MAHENDRA,BORDEPATIL,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507156,SWARA,SACHIN,KADAM,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507160,TANISHQ,KAMLESH,BHANDARI,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507165,VEDANG,PANKAJ,VORA,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507166,VEDANT,GOVINDRAO,KULKARNI,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507175,APARNA,RAJALAKSHMI,ACHATH,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507176,DHRUVA,,SHIRNIVAS,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507179,PURVI,SHESHACHAL,KULKARNI,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507188,AKSHITA,,SHARMA,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
 612515267,SARVESH,MANGESH,MULMULE,Computer Science and Engineering,Linear Algebra,Division 6
 612515268,SARVESH,RAJENDRA,KALE,Computer Science and Engineering,Linear Algebra,Division 6
 612515269,SATYAJEET,SANJAY,PATIL,Computer Science and Engineering,Linear Algebra,Division 6
@@ -12414,7 +12414,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505066,MEET,KISHOR,GANGREDDIWAR,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
 612505067,MOHAMMADREHAN,IQBAL,HUSAIN,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
 612505068,MUKESH,HARISHCHANDRA,MAHAJAN,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
-612505069,NAVNEET ,SINGH,,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
 612505070,NEHAL,DEEPAK,CHAUDHARI,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
 612505071,NITTIKA,RAJESH,KHANDWANI,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
 612505072,OM,ANIL,BANGALE,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
@@ -13433,50 +13432,50 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515238,RUTKAR,,BAKSHI,Computer Science and Engineering,Tut Batch 4-Linear Algebra,Division 4
 612515239,SAHIL,RAMDAS,TAWHARE,Computer Science and Engineering,Tut Batch 4-Linear Algebra,Division 4
 612515314,TANMAY,BHARAT,KHANDARE,Computer Science and Engineering,Tut Batch 4-Linear Algebra,Division 6
-612507011,ADITYA,DNYANOBA,BORKAR,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507020,ANURADHA,BHAGWAN,AWALE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507022,ARCHIT,MANOJ,DESHPANDE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507031,ATHARVA,SACHIN,GOVINDWAR,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507033,AVADHUT,SANJAY,YADAV,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507034,BHAVANESH,MILIND,JAGTAP,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507035,BHUSHAN,MAHENDRA,BESARKAR,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507040,DHANANJAY,SUNIL,KASULE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507043,ESHITA,HITENDRA,PATIL,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507051,ISHANT,DEVENDRA,NAHAR,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507055,JOEL,,TIKOO,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507068,MANDAR,PRASHANT,DESAI,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507074,NEEL,RAHUL,BHARAMBE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507075,NEERAJ,TRILOKCHAND,KUMARE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507076,NEHA,NYAHALSING,JARWAL,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507087,PARTH,GAJANAN,PANDE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507093,PRABHA,,SHARMA,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507097,PRATHAMESH,PRAVIN,BUTTE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507105,RAWANE,DHRUV,HARSHVARDHAN,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507108,RISHIK,RAJESH,RAJURKAR,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507109,RISHIKA,SHRIHARSH,SHARMA,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507112,RIYA,ABHINANDAN,SOUNDATTE,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507114,RONNIT,YOGESH,KASAT,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507115,RUCHA,GANESH,DASNAM,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507117,SAHIL,SANTOSH,KHARAT,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507119,SAKSHAM,MANOJKUMAR,INANI,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 6
-612507120,SAMARTH,KRUSHANA,GADEKAR,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507122,SAMBIT,,DAS,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507125,SANCHIT,PRASHANT,JOSHI,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507140,SHREYASH,SANJAY,PAWAR,Electronics and Telecommunication Engineerin,Tut Batch 3-MAC,Division 8
-612507142,SHUBHAM,YASHAWANT,NEMADE,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507143,SIDDHANT,DILIP,NIKHADE,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507149,SOURABH,SUNIL,SONTAKKE,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507150,SUJAL,SHASHIKANT,CHANDANE,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507151,SUPRIYA,MAHENDRA,BORDEPATIL,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507156,SWARA,SACHIN,KADAM,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507160,TANISHQ,KAMLESH,BHANDARI,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507165,VEDANG,PANKAJ,VORA,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507166,VEDANT,GOVINDRAO,KULKARNI,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507175,APARNA,RAJALAKSHMI,ACHATH,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507176,DHRUVA,,SHIRNIVAS,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507179,PURVI,SHESHACHAL,KULKARNI,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
-612507188,AKSHITA,,SHARMA,Electronics and Telecommunication Engineerin,Tut Batch 3-Linear Algebra,Division 6
+612507011,ADITYA,DNYANOBA,BORKAR,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507020,ANURADHA,BHAGWAN,AWALE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507022,ARCHIT,MANOJ,DESHPANDE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507031,ATHARVA,SACHIN,GOVINDWAR,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507033,AVADHUT,SANJAY,YADAV,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507034,BHAVANESH,MILIND,JAGTAP,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507035,BHUSHAN,MAHENDRA,BESARKAR,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507040,DHANANJAY,SUNIL,KASULE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507043,ESHITA,HITENDRA,PATIL,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507051,ISHANT,DEVENDRA,NAHAR,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507055,JOEL,,TIKOO,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507068,MANDAR,PRASHANT,DESAI,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507074,NEEL,RAHUL,BHARAMBE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507075,NEERAJ,TRILOKCHAND,KUMARE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507076,NEHA,NYAHALSING,JARWAL,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507087,PARTH,GAJANAN,PANDE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507093,PRABHA,,SHARMA,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507097,PRATHAMESH,PRAVIN,BUTTE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507105,RAWANE,DHRUV,HARSHVARDHAN,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507108,RISHIK,RAJESH,RAJURKAR,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507109,RISHIKA,SHRIHARSH,SHARMA,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507112,RIYA,ABHINANDAN,SOUNDATTE,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507114,RONNIT,YOGESH,KASAT,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507115,RUCHA,GANESH,DASNAM,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507117,SAHIL,SANTOSH,KHARAT,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507119,SAKSHAM,MANOJKUMAR,INANI,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 6
+612507120,SAMARTH,KRUSHANA,GADEKAR,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507122,SAMBIT,,DAS,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507125,SANCHIT,PRASHANT,JOSHI,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507140,SHREYASH,SANJAY,PAWAR,Electronics and Telecommunication Engineering,Tut Batch 3-MAC,Division 8
+612507142,SHUBHAM,YASHAWANT,NEMADE,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507143,SIDDHANT,DILIP,NIKHADE,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507149,SOURABH,SUNIL,SONTAKKE,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507150,SUJAL,SHASHIKANT,CHANDANE,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507151,SUPRIYA,MAHENDRA,BORDEPATIL,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507156,SWARA,SACHIN,KADAM,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507160,TANISHQ,KAMLESH,BHANDARI,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507165,VEDANG,PANKAJ,VORA,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507166,VEDANT,GOVINDRAO,KULKARNI,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507175,APARNA,RAJALAKSHMI,ACHATH,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507176,DHRUVA,,SHIRNIVAS,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507179,PURVI,SHESHACHAL,KULKARNI,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507188,AKSHITA,,SHARMA,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
 612515267,SARVESH,MANGESH,MULMULE,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 6
 612515268,SARVESH,RAJENDRA,KALE,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 6
 612515269,SATYAJEET,SANJAY,PATIL,Computer Science and Engineering,Tut Batch 3-Linear Algebra,Division 6
@@ -15431,8 +15430,8 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501178,VANDAN,PRATIK,SHAH,Civil Engineering,Tut Batch 4-Linear Algebra,Division 5
 612501179,AMAR,DATTARAO,KHUPSE,Civil Engineering,Tut Batch 4-Linear Algebra,Division 5
 612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,Tut Batch 4-Linear Algebra,Division 5
-612507002,AADITYA,MAHESH,NARKHEDKAR,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 5
-612507010,ADITYA,,BARANWAL,Electronics and Telecommunication Engineerin,Tut Batch 4-Linear Algebra,Division 5
+612507002,AADITYA,MAHESH,NARKHEDKAR,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 5
+612507010,ADITYA,,BARANWAL,Electronics and Telecommunication Engineering,Tut Batch 4-Linear Algebra,Division 5
 612515335,VINITA,DATTATRAY,KULKARNI,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 7
 612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,Tut Batch 2-Linear Algebra,Division 7
 612515338,VIVEK,SUNIL,LAGAD,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 7
@@ -16788,172 +16787,172 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612572096,ANTARA,MUKHERJEE,,Artificial Intelligence and Machine Learning,LAB Batch 7-FAI- Fundamentals of Ai,Division 4
 612572097,ANTARA,SANTOSH,KOKATE,Artificial Intelligence and Machine Learning,LAB Batch 7-FAI- Fundamentals of Ai,Division 4
 612572098,GIRISH,DODEJA,,Artificial Intelligence and Machine Learning,LAB Batch 7-FAI- Fundamentals of Ai,Division 4
-612515002,AARAV,,OSWAL,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515045,GAURANG,RAJESH,GOHIL,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515063,PRANAV,DHARMENDRA,DONGARWAR,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515067,RITESH,EKNATH,BODAKHE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515077,SAMARTH,RAJENDRA,DEVKAR,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515084,SARTHAK,VITTHAL,DESHMUKH,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515125,ATHARV,VIJAY,JAGADALE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515127,ATHARVA,PRAKASH,KAMBLE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515148,JAYANT,TATYASO,PATIL,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515166,MANSI,ABHIJEET,RATHI,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515198,PATHAN,ASAD SHABNAM,KAUSAR,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612515199,PAVAN,DILIP,YEDE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612505051,JASRAJ,JEEVAN,KALAGE,Electrical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612505057,KRISHNA,PITAMBAR,DANGAL,Electrical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612505075,PARITOSH,RAVI,FULE,Electrical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612505080,SAHIL,ASIFKHA,PATHAN,Electrical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612505096,TANISHQ,RAJESH,BANSELE,Electrical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612505098,UDDESH,RITESH,JOSHI,Electrical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
-612510027,ATHARVA,KISHOR,MANKAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510028,ATMAJA,,DEY,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510029,AYUSH,ADESH,KAMBLE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510031,AYUSH,SHAILESH,KATE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510047,JAY,DHANYAKUMAR,SAWALWADE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510048,KARAN,MAHADEV,KADAM,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510060,PIYUSH,MILIND,AMBIKE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510064,PRATISH,PUNDLIK,CHAVAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510066,RAJ,RAHUL,DESAI,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510067,RIYA,RAHUL,GAIKWAD,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510072,SAHIL,KEDAR,JOSHI,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510075,SAMAKSH,MANISH,MANDLIK,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510080,SAWANI,SANJAY,DAWALE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510081,SHANTANU,VIKAS,LAHAne,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510082,SHREYAS,ANURAG,CHITALE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510085,SOHAM,NITIN,KADAM,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510087,SWAROOP,SANTOSH,BAGAL,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510092,VARDHAN,RANJIT,MANE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510093,VEDANT,SACHIN,MAHAJAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612510099,YASH,SADANAND,DIWAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 1
-612505003,AASHISH,,KHARADE,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612505014,AMAN,VINAYAK,NIRMAL,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612505020,ARIHANT,LALIT,LODHA,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612505040,FAROOQUIMOHAMMAD,UBAID,JUBAIR,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612505043,HARSHVARDHAN,VIKRAM,PAWAR,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612505046,HIMANSHU,RUSHIRAJ,CHOUHAN,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612505050,JANVI,CHITTESHWAR,DHOLE,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612513060,SHASHWAT,MAHESH,MAHAJAN,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612513063,SHRAVANI,RAMCHANDRA,KHOT,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612513067,SHREYASH,JAMBU,GAIKWAD,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612513090,HARSHIT,JEETENDRA,BORA,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612513094,PAYAL,SAHADEV,DHAYBAR,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510001,AADARSH,ARUN,MANE,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510002,AADYA,ARVIND,NAIR,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510004,ACHYUT,NISHIKANT,KAMBLE,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510006,ADITYA,DILIP,KHARAT,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510009,AGASTYA,PRABHANJAN,WANDREKAR,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510013,AMOGH,DEVENDRA,BHADIKAR,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510014,ANIKET,VIJAY,PATIL,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510022,ARYA,SANTOSH,HIROLLI,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612510023,ARYAN,GANESH,BANDAL,Mechanical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 1
-612513009,AKANKSHA,GORAKHNATH,HANGE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513018,BHAGWAN,LAXMAN,PATIL,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513023,GANVITA,ANKUSH,DHURVE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513026,HANMANT,NAGNATH,HEMBADE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513030,HIMANSHU,BHAGAWAT,PATIL,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513040,MAYURI,DNYANESHWAR,PAWAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513046,PRANAV,SHIVAJI,CHOUGULE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513047,PRANITEE,PRASAD,KHEDKAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513050,RENUSANJANA,SIVA,BOMMISETTY,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513051,ROHAN,BABAN,WAGH,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513053,RUSHABH,SUBHASH,CHOUGULE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513055,SANIKA,RAGHUNATH,LAWHALE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513058,SHANTANU,SANJAY,KANBALE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513070,SHRIRAM,SUHAS,DHAMNE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513077,SURAJ,SAKHARAM,BINNAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513078,SUSHANT,SUBHASH,SONAWANE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513080,TEJAS,RAJARAM,SHELKE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513093,MADHUR,CHANDRASHEKHAR,BARAPATRE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612513095,ROHIT,MANISH,JAIN,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
-612511010,AYUSH,SUNIL,CHOUGULE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511013,CHANDANSHIV,ADITYA,CHAKRADHAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511015,HARSHAD,SURYAKANT,PATIL,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511023,KAVISH,BRAJESH,BANG,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511029,NIRAJ,,RAHATE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511040,PUSHKAR,SANJAY,UDAWANT,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511042,RAHUL,PRALHAD,SHINDE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511043,RAJVEERSINGH,JAGROOPSINGH,KALSI,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511044,RAJWARDHAN,RANJIT,MOHITE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511050,ROHAN,VYANKATI,MULE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511054,SAGAL,SITARAM,SONAWALE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511060,SHIKALGAR,WASIF,FIROZ,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511063,SHRISH,MAHESH,YEOLEKAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511067,SUCHIR,SHRIRANG,DIVEKAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511071,SWARALI,NITESH,RAJPURKAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511072,TAKSHEEL,,BUDDHADEO,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511073,TANAYA,BALAJI,MORE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511076,TIYAN,SUHAS,DHAWALE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511082,YASHIKA,GANESH,DAIMIWAL,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511086,DEVESH,KUMAR KRISHNA KUMAR,SINGH,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511088,NIHAR,MANGESH,JADHAO,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612511092,TANISHQ,SAARANG,DESHMUKH,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mechanics ,Division 1
-612572014,ANUSHKA,VIJAYKUMAR,KAMMAR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612572023,AYUSH,NANDKUMAR,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612572038,KETAN,HEMANT,ROPLEKAR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612572041,MANAS,MUKESH,BADGUJAR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612572088,ABDEALI,,MUSTANSIR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612572098,GIRISH,,DODEJA,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510104,ADITYA,JAYSING,SHINDE,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510105,ARYAN,,RAUT,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510106,ARYEN,SACHIN,SANTOSHWAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510107,ATHARVA,AMOL,OTAWANEKAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510109,DHAWALSHREE,MILIND,NAVANALE,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510114,JAY,SUNIL,VARHADE,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510119,MONAL,PRASHANT,VASAIKAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510120,NEELAKSH,UMESH,PANDYA,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510121,NIDHI,RAMSAGAR,VISHWAKARMA,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510123,OM,HARISH,NAHIDE,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510130,PRANAV,HARISH,PATEL,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510136,RAJ,SURESH,LOHAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 2
-612510137,RISHABH,AMARISH,KARNIK,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510138,RIYA,SACHIN,PATIL,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510141,ROHAN,SANTOSH,SALUNKHE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510142,S,LEELA VEDANT,REDDY,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510144,SAMIP,SUMEDH,SHIRSAT,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510145,SARTH,VINAYAK,SHINDE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510166,TANJILA,MAULALI,TAMBOLI,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510171,VINISHA,SAMPATH,MUDALIAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510174,ANIRUDH,,CHANDRA,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510175,ARINJAY,RUDRA,PARASHER,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510179,GORANE,BHARGAV,DINESH,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510180,MALHAR,SACHIN,SHEDBALKAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510182,PARTH,S,JAGADE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510184,SIDDHARTH,NISHIT,RAVALIA,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510187,KSHITIJ,SUNIL,KUMBHAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510188,NACHIKET,,VAISHAMPAYAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612510191,PRANAV,,DAVE,Mechanical Engineering,LAB Batch 2-AM-Applied Mechanics ,Division 2
-612505105,ARYAN,RAGHUNANDAN,ZANWAR,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612505111,KHYATI,VIVEKANAND,WAGHMARE,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612505154,SRUSHTI,GAJANAN,HINGMIRE,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612505160,VAISHNVI,SANJAY,SONKATALE,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612505164,VEDANT,,MAHAJAN,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612505167,VIKRAM,,SINGH,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612505177,AMOGH,ABHAY,KULKARNI,Electrical Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612507003,AARYAN,CHETAN,THAKRE,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612507047,HARSHWARDHAN,ADHIK,JAGTAP,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612507054,JITYA,NITIN,HASANI,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612507069,MANSI,VIJAYKUMAR,JADHAV,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612507168,VEDANT,VENKAT,HURCHNALE,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612507180,SAHIL,,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612509033,PRANAY,MANIK,RATHOD,Instrumentation and Control Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612509053,SWAPNIL,MAHADEO,GADKAR,Instrumentation and Control Engineering,LAB Batch 3-AM-Applied Mechanics ,Division 2
-612515206,PRAGNYA,MAKARAND,KULKARNI,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515233,ROHAN,RAMDAS,DOME,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515258,SANKET,BABASAHEB,NABAGE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515314,TANMAY,BHARAT,KHANDARE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515330,VEDANT,VIKAS,PANGARE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515358,ADVAY,,KIRDAT,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515395,SAUDAGAR,MUSHEER MOHAMMAD,IQBAL,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515404,SOHAM,,TIWARI,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515409,TIRTH,DHANJAI,MUSALE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612515416,YASH,,GOEL,Computer Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612505106,ATHARVA,MAROTI,RANDAI,Electrical Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612505128,RAM,SURESH,TIKAR,Electrical Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
-612507085,PANKAJ,ATMARAM,GAIKWAD,Electronics and Telecommunication Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 2
+612515002,AARAV,,OSWAL,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515045,GAURANG,RAJESH,GOHIL,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515063,PRANAV,DHARMENDRA,DONGARWAR,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515067,RITESH,EKNATH,BODAKHE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515077,SAMARTH,RAJENDRA,DEVKAR,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515084,SARTHAK,VITTHAL,DESHMUKH,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515125,ATHARV,VIJAY,JAGADALE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515127,ATHARVA,PRAKASH,KAMBLE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515148,JAYANT,TATYASO,PATIL,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515166,MANSI,ABHIJEET,RATHI,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515198,PATHAN,ASAD SHABNAM,KAUSAR,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612515199,PAVAN,DILIP,YEDE,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612505051,JASRAJ,JEEVAN,KALAGE,Electrical Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612505057,KRISHNA,PITAMBAR,DANGAL,Electrical Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612505075,PARITOSH,RAVI,FULE,Electrical Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612505080,SAHIL,ASIFKHA,PATHAN,Electrical Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612505096,TANISHQ,RAJESH,BANSELE,Electrical Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612505098,UDDESH,RITESH,JOSHI,Electrical Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
+612510027,ATHARVA,KISHOR,MANKAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510028,ATMAJA,,DEY,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510029,AYUSH,ADESH,KAMBLE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510031,AYUSH,SHAILESH,KATE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510047,JAY,DHANYAKUMAR,SAWALWADE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510048,KARAN,MAHADEV,KADAM,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510060,PIYUSH,MILIND,AMBIKE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510064,PRATISH,PUNDLIK,CHAVAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510066,RAJ,RAHUL,DESAI,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510067,RIYA,RAHUL,GAIKWAD,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510072,SAHIL,KEDAR,JOSHI,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510075,SAMAKSH,MANISH,MANDLIK,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510080,SAWANI,SANJAY,DAWALE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510081,SHANTANU,VIKAS,LAHAne,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510082,SHREYAS,ANURAG,CHITALE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510085,SOHAM,NITIN,KADAM,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510087,SWAROOP,SANTOSH,BAGAL,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510092,VARDHAN,RANJIT,MANE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510093,VEDANT,SACHIN,MAHAJAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612510099,YASH,SADANAND,DIWAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 1
+612505003,AASHISH,,KHARADE,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612505014,AMAN,VINAYAK,NIRMAL,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612505020,ARIHANT,LALIT,LODHA,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612505040,FAROOQUIMOHAMMAD,UBAID,JUBAIR,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612505043,HARSHVARDHAN,VIKRAM,PAWAR,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612505046,HIMANSHU,RUSHIRAJ,CHOUHAN,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612505050,JANVI,CHITTESHWAR,DHOLE,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612513060,SHASHWAT,MAHESH,MAHAJAN,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612513063,SHRAVANI,RAMCHANDRA,KHOT,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612513067,SHREYASH,JAMBU,GAIKWAD,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612513090,HARSHIT,JEETENDRA,BORA,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612513094,PAYAL,SAHADEV,DHAYBAR,Manufacturing Science and Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510001,AADARSH,ARUN,MANE,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510002,AADYA,ARVIND,NAIR,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510004,ACHYUT,NISHIKANT,KAMBLE,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510006,ADITYA,DILIP,KHARAT,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510009,AGASTYA,PRABHANJAN,WANDREKAR,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510013,AMOGH,DEVENDRA,BHADIKAR,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510014,ANIKET,VIJAY,PATIL,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510022,ARYA,SANTOSH,HIROLLI,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612510023,ARYAN,GANESH,BANDAL,Mechanical Engineering,LAB Batch 3-AM-Applied Mech ,Division 1
+612513009,AKANKSHA,GORAKHNATH,HANGE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513018,BHAGWAN,LAXMAN,PATIL,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513023,GANVITA,ANKUSH,DHURVE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513026,HANMANT,NAGNATH,HEMBADE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513030,HIMANSHU,BHAGAWAT,PATIL,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513040,MAYURI,DNYANESHWAR,PAWAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513046,PRANAV,SHIVAJI,CHOUGULE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513047,PRANITEE,PRASAD,KHEDKAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513050,RENUSANJANA,SIVA,BOMMISETTY,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513051,ROHAN,BABAN,WAGH,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513053,RUSHABH,SUBHASH,CHOUGULE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513055,SANIKA,RAGHUNATH,LAWHALE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513058,SHANTANU,SANJAY,KANBALE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513070,SHRIRAM,SUHAS,DHAMNE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513077,SURAJ,SAKHARAM,BINNAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513078,SUSHANT,SUBHASH,SONAWANE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513080,TEJAS,RAJARAM,SHELKE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513093,MADHUR,CHANDRASHEKHAR,BARAPATRE,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612513095,ROHIT,MANISH,JAIN,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
+612511010,AYUSH,SUNIL,CHOUGULE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511013,CHANDANSHIV,ADITYA,CHAKRADHAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511015,HARSHAD,SURYAKANT,PATIL,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511023,KAVISH,BRAJESH,BANG,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511029,NIRAJ,,RAHATE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511040,PUSHKAR,SANJAY,UDAWANT,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511042,RAHUL,PRALHAD,SHINDE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511043,RAJVEERSINGH,JAGROOPSINGH,KALSI,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511044,RAJWARDHAN,RANJIT,MOHITE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511050,ROHAN,VYANKATI,MULE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511054,SAGAL,SITARAM,SONAWALE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511060,SHIKALGAR,WASIF,FIROZ,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511063,SHRISH,MAHESH,YEOLEKAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511067,SUCHIR,SHRIRANG,DIVEKAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511071,SWARALI,NITESH,RAJPURKAR,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511072,TAKSHEEL,,BUDDHADEO,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511073,TANAYA,BALAJI,MORE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511076,TIYAN,SUHAS,DHAWALE,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511082,YASHIKA,GANESH,DAIMIWAL,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511086,DEVESH,KUMAR KRISHNA KUMAR,SINGH,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511088,NIHAR,MANGESH,JADHAO,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612511092,TANISHQ,SAARANG,DESHMUKH,Metallurgy and Materials Technology,LAB Batch 5-AM-Applied Mech ,Division 1
+612572014,ANUSHKA,VIJAYKUMAR,KAMMAR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mech ,Division 2
+612572023,AYUSH,NANDKUMAR,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mech ,Division 2
+612572038,KETAN,HEMANT,ROPLEKAR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mech ,Division 2
+612572041,MANAS,MUKESH,BADGUJAR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mech ,Division 2
+612572088,ABDEALI,,MUSTANSIR,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mech ,Division 2
+612572098,GIRISH,,DODEJA,Artificial Intelligence and Machine Learning,LAB Batch 1-AM-Applied Mech ,Division 2
+612510104,ADITYA,JAYSING,SHINDE,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510105,ARYAN,,RAUT,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510106,ARYEN,SACHIN,SANTOSHWAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510107,ATHARVA,AMOL,OTAWANEKAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510109,DHAWALSHREE,MILIND,NAVANALE,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510114,JAY,SUNIL,VARHADE,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510119,MONAL,PRASHANT,VASAIKAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510120,NEELAKSH,UMESH,PANDYA,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510121,NIDHI,RAMSAGAR,VISHWAKARMA,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510123,OM,HARISH,NAHIDE,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510130,PRANAV,HARISH,PATEL,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510136,RAJ,SURESH,LOHAR,Mechanical Engineering,LAB Batch 1-AM-Applied Mech ,Division 2
+612510137,RISHABH,AMARISH,KARNIK,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510138,RIYA,SACHIN,PATIL,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510141,ROHAN,SANTOSH,SALUNKHE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510142,S,LEELA VEDANT,REDDY,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510144,SAMIP,SUMEDH,SHIRSAT,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510145,SARTH,VINAYAK,SHINDE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510166,TANJILA,MAULALI,TAMBOLI,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510171,VINISHA,SAMPATH,MUDALIAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510174,ANIRUDH,,CHANDRA,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510175,ARINJAY,RUDRA,PARASHER,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510179,GORANE,BHARGAV,DINESH,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510180,MALHAR,SACHIN,SHEDBALKAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510182,PARTH,S,JAGADE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510184,SIDDHARTH,NISHIT,RAVALIA,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510187,KSHITIJ,SUNIL,KUMBHAR,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510188,NACHIKET,,VAISHAMPAYAN,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612510191,PRANAV,,DAVE,Mechanical Engineering,LAB Batch 2-AM-Applied Mech ,Division 2
+612505105,ARYAN,RAGHUNANDAN,ZANWAR,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612505111,KHYATI,VIVEKANAND,WAGHMARE,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612505154,SRUSHTI,GAJANAN,HINGMIRE,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612505160,VAISHNVI,SANJAY,SONKATALE,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612505164,VEDANT,,MAHAJAN,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612505167,VIKRAM,,SINGH,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612505177,AMOGH,ABHAY,KULKARNI,Electrical Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612507003,AARYAN,CHETAN,THAKRE,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612507047,HARSHWARDHAN,ADHIK,JAGTAP,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612507054,JITYA,NITIN,HASANI,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612507069,MANSI,VIJAYKUMAR,JADHAV,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612507123,SAMYAK,GAUTAM,GAJBHIYE,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612507168,VEDANT,VENKAT,HURCHNALE,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612507180,SAHIL,,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612509033,PRANAY,MANIK,RATHOD,Instrumentation and Control Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612509053,SWAPNIL,MAHADEO,GADKAR,Instrumentation and Control Engineering,LAB Batch 3-AM-Applied Mech ,Division 2
+612515206,PRAGNYA,MAKARAND,KULKARNI,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515233,ROHAN,RAMDAS,DOME,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515258,SANKET,BABASAHEB,NABAGE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515314,TANMAY,BHARAT,KHANDARE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515330,VEDANT,VIKAS,PANGARE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515358,ADVAY,,KIRDAT,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515395,SAUDAGAR,MUSHEER MOHAMMAD,IQBAL,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515404,SOHAM,,TIWARI,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515409,TIRTH,DHANJAI,MUSALE,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612515416,YASH,,GOEL,Computer Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612505106,ATHARVA,MAROTI,RANDAI,Electrical Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612505128,RAM,SURESH,TIKAR,Electrical Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
+612507085,PANKAJ,ATMARAM,GAIKWAD,Electronics and Telecommunication Engineering,LAB Batch 4-AM-Applied Mech ,Division 2
 612501051,DATTA,DEVIDAS,KULKARNI,Civil Engineering,LAB Batch 1-FCE- Funda. Of Corrosion Engg,Division  1
 612501078,MADAVI,KHUSHI,GIRIDAS,Civil Engineering,LAB Batch 1-FCE- Funda. Of Corrosion Engg,Division  1
 612501079,MADHUR,ATUL,TAORI,Civil Engineering,LAB Batch 1-FCE- Funda. Of Corrosion Engg,Division  1
@@ -17671,101 +17670,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612509002,AGRAJ,SANJAY,RAUT,Instrumentation and Control Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 3
 612509006,ANANNYA,TUSHAR,MIRKUTE,Instrumentation and Control Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 3
 612509017,DHRUV,ISHWAR,PATIL,Instrumentation and Control Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 3
-612572068,SRUSHTI,SAGAR,TELI,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515280,SHITAL,MALLINATH,PUJARI,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515284,SHOURY,,RAI,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515287,SHREYA,,KADAM,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515289,SHREYA,YUVARAJ,POWAR,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515291,SHREYASH,SANTOSH,KADAM,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515296,SIDDHESH,DIPAK,RAJPUT,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515299,SNEHAL,RUPRAJ,RANDAYE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515303,SUHANI,PRATAPSINH,MORE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515304,SUKHWINDER,,SINGH,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515305,SUMEDH,PRAVIN,WANKHADE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515306,SUMEDH,SANTOSH,SHELGAONKAR,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515307,SUMIT,SUNIL,LAJURKAR,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515309,SUYASH,SUDHAKAR,CHAVAN,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515310,SWARA,SANJAY,KURHADE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515311,TANISHKA,RAJKUMAR,JADHAV,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515312,TANISHQ,,BHARUD,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515313,TANISHQ,DAYANAND,KASHID,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515315,TANMAY,NARENDRAKUMAR,PATIL,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515316,TANVI,MANOJ,LOYA,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515318,TEJAS,NANDKISHOR,PALVE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515319,TEJAS,SUDEEP,APHALE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515322,TUSHAR,SUBHASH,HADAS,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515325,VARSH,,GOINDANI,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515326,VEDANT,,KAREKAR,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515328,VEDANT,NANASO,SARAK,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612515350,AADYA,,SHAH,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612505157,SWANAND,DHANANJAY,SIRSIKAR,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612505159,UTKARSH,GIRIDHAR,JHA,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612505161,VARAD,RAJESH,INGALE,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612509046,SHRADDHA,JAYWANT,SHINDE,Instrumentation and Control Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612509054,TANMAY,MAHADEO,KARPE,Instrumentation and Control Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
-612572052,RAJ,,ARYAN,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572055,SAIRAJ,AJIT,TIVALE,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572056,SAMRUDDHI,YASHWANT,MALI,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572057,SANCHIT,PRAKASH,NIKAM,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572058,SANSKRUTI,SATYAWAN,JAGTAP,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572059,SHAHIL,SINGH,SHEKHAWAT,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572062,SHREYA,SUDHAKAR,KUTAL,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572063,SHREYAS,SATISHKUMAR,SAVADE,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572064,SHUBHRA,JITENDRA,AHIRRAO,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572065,SNEHAL,AMOL,CHITNIS,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572066,SNEHAL,MAHADEV,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515290,SHREYASH,DATTA,TEMBHARE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515335,VINITA,DATTATRAY,KULKARNI,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515338,VIVEK,SUNIL,LAGAD,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515341,YASH,RAMPRASAD,AMBHURE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515345,YASH,SUDHAKAR,WANKHEDE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515346,YASHRAJ,VINAYAK,KALE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612515351,AARUSH,CHIRAG,SHAH,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612505144,SHARAYU,GANESH,SONAWANE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612505146,SHON,CHANDRASHEKHAR,LOKHANDE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612505150,SHRINIVAS,KESHAO,KINAKE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612505158,TANVI,DIGAMBAR,INGALE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612505166,VIDHIKA,SHITAL,MATEY,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612509030,OMKAR,BHAGINATH,KORADE,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612509031,PARTH,SACHIN,AGRAWAL,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612509040,RUTVA,KAUSHAL,PAREKH,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612509051,SUJAL,EKNATH,JADHAO,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612509055,TANMAY,SHRIKANT,JOSHI,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
-612572040,MANAS,,CHAVAN,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572042,MANSI,PRAKASHRAO,SATAMWAR,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572043,MAYANK,NITIN,CHANDOLE,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572044,MIHIRA,PRASAD,PANDE,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572045,MRUDULA,VINAY,NISAL,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572046,NAYAN,SURESH,ANDHALE,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572047,PARTH,MARTAND,JORI,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572049,PRASANNA,UMESH,SAWANT,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572050,PRATHMESH,SHRIKANT,DAROKAR,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612572067,SOHAM,AJAY,SARATKAR,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515281,SHIVA,SAI,VAIBHAVK,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515282,SHIVAM,BHARATSING,PARDESHI,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515285,SHRADDHA,CHANDRASHEKHAR,KHADE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515292,SHRIRAJ,RAMCHANDRA,JADHAV,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515293,SHRISH,NILESH,PATTEWAR,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515294,SIDDHANT,SUHAS,WAYKOS,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515295,SIDDHARTH,,KHOLA,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515297,SIDDHI,SANDIP,NIKAM,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515301,SOHAM,SHANKAR,SHINGADE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515302,SOURABH,VISHNU,AMANE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515332,VIGHNESH,ANIL,THALE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515334,VIKHYATH,VINAYAK,PATIL,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515343,YASH,SANDEEP,LONDHE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612515349,AADITYA,AMIT,PATEL,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612505153,SOHAN,SATISH,KURKURE,Electrical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612505163,VEDANSHU,ANILKUMAR,PANDEY,Electrical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612505168,VISHNU,VINAYAK,WAGHMARE,Electrical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612509056,TANUJA,DATTATRAY,KHARSUNDE,Instrumentation and Control Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612510152,SHLOK,RUTUPARNA,PEDNEKAR,Mechanical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612510157,SHRUTI,YOGESH,PITKAR,Mechanical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612510167,UJJWAL,KAMALKANT,JHA,Mechanical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
-612510168,UNAMTEEPHRANG,,TARIANG,Mechanical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
 612572074,TANSI,ABHANG,PANCHBHAI,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 5
 612572076,VED,TUSHAR,BHATTAD,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 5
 612572079,VEDANT,MAKARAND,RANMALE,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 5
@@ -18371,13 +18275,13 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612505001,AARTI,SHIVAJI,KAUTKAR,Electrical Engineering,LAB Batch 4-PPS- Programming For Problem Solving,Division 1
 612505020,ARIHANT,LALIT,LODHA,Electrical Engineering,LAB Batch 4-PPS- Programming For Problem Solving,Division 1
 612511013,CHANDANSHIV,ADITYA,CHAKRADHAR,Metallurgy and Materials Technology,LAB Batch 4-PPS- Programming For Problem Solving,Division 1
-612513017,AYUSH,ASHISH,DESHMUKH,Manufacturing Science and Engineering,LAB Batch 3-PPS- Programming For Problem Solving,Division 2 BUT assigned in Division 1
-612505163,VEDANSHU,ANILKUMAR,PANDEY,Electrical Engineering,LAB Batch 1-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1
-612501084,MOHIT,BAIJU,HATKAR,Civil Engineering,LAB Batch 3-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1
-612505147,SHRADDHEY,CHARANDAS,DORLE,Electrical Engineering,LAB Batch 2-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1
-612505149,SHRINATH,RAHUL,TARE,Electrical Engineering,LAB Batch 2-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1
-612505185,PARTH,MANOJ,PAWAR,Electrical Engineering,LAB Batch 2-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1
-612511087,KARTIKEY,VINOD,BORNARE,Metallurgy and Materials Technology,LAB Batch 2-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1
+612513017,AYUSH,ASHISH,DESHMUKH,Manufacturing Science and Engineering,LAB Batch 3-PPS- Programming For Problem Solving(Assigned in Div 1),Division 2
+612505163,VEDANSHU,ANILKUMAR,PANDEY,Electrical Engineering,LAB Batch 1-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3
+612501084,MOHIT,BAIJU,HATKAR,Civil Engineering,LAB Batch 3-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3
+612505147,SHRADDHEY,CHARANDAS,DORLE,Electrical Engineering,LAB Batch 2-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3
+612505149,SHRINATH,RAHUL,TARE,Electrical Engineering,LAB Batch 2-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3
+612505185,PARTH,MANOJ,PAWAR,Electrical Engineering,LAB Batch 2-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3
+612511087,KARTIKEY,VINOD,BORNARE,Metallurgy and Materials Technology,LAB Batch 2-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3
 612572038,KETAN,HEMANT,ROPLEKAR,Artificial Intelligence and Machine Learning,LAB Batch 1-PPS- Programming For Problem Solving,Division 2
 612572047,PARTH,MARTAND,JORI,Artificial Intelligence and Machine Learning,LAB Batch 1-PPS- Programming For Problem Solving,Division 2
 612572057,SANCHIT,PRAKASH,NIKAM,Artificial Intelligence and Machine Learning,LAB Batch 1-PPS- Programming For Problem Solving,Division 2
@@ -18673,207 +18577,6 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612509057,TEJAS,SHRIKANT,TAVADARKAR,Instrumentation and Control Engineering,LAB Batch 4-PP- Python Programming,Division 3
 612513019,CHAITANYA,BHUPENDRA,HIRULKAR,Manufacturing Science and Engineering,LAB Batch 4-PP- Python Programming,Division 3
 612510111,GAURAV,AMBRISH,TIWARI,Mechanical Engineering,LAB Batch 4-PP- Python Programming,Division 3
-612572001,AADITYA,RANJEET,SHAH,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572003,AARUSH,RAVINDRA,VARKUTE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572007,ADITYA,UTTAM,AHER,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572009,AJINKYA,SHARAD,PATIL,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572010,AJNISH,,RAJ,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572021,AYUSH,ANIL,SONAWANE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572044,MIHIRA,PRASAD,PANDE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572052,RAJ,,ARYAN,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572066,SNEHAL,MAHADEV,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572082,VEER,CHIRAG,SHAH,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612572097,ANTARA,SANTOSH,KOKATE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1&2
-612501048,CHAITANYA,KISHOR,GARAD,Civil Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515038,DATTA,ANKUSH,RABIN,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515042,DISHAN,,OSWAL,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515048,HARSH,DHIRENDRA,MISHRA,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515082,SARTHAK,SANJAY,GHADAGE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515215,PRASAD,BHARTESH,WADKAR,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515217,PRATHMESH,,NALKUL,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515237,RUSHIKESH,,SANTOSHMARMAT,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515284,SHOURY,,RAI,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515319,TEJAS,SUDEEP,APHALE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515351,AARUSH,CHIRAG,SHAH,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515382,MITALI,,MANJURE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515383,MITALI,ROHAN,BHINDWALE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612515399,SHREYAK,GIRISH,KADAM,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1&2
-612572004,AAYUSH,RAJESH,KERKAR,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1&2
-612572015,ARCHIT,SUSHIL,KOTWALA,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1&2
-612572022,AYUSH,HEMANT,PAREEK,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1&2
-612572035,HARSHIT,RAMESH,SHIROL,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1&2
-612572046,NAYAN,SURESH,ANDHALE,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1&2
-612572069,SUJAL,GAJANAN,CHOPADE,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1&2
-612572077,VEDANG,VIRAMSHRI,BIDWAI,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1&2
-612515024,ASHUTOSH,AMIT,SAXENA,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515052,ISHAAN,,JAIN,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515177,MUKUL,MANOHAR,BHOSALE,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515219,PRERANA,AJIT,ZANJURNE,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515236,RUSHIKESH,GANESH,JADHAO,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515246,SAMARTH,SANJAY,KULKARNI,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515270,SATYAM,,MISHRA,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515396,SHAH,MOHAMMAD,SAAD,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612515401,SHRIHAN,KEDAR,KULKARNI,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505016,ANJALI,KIRAN,APARADH,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505022,ARYAN,ATUL,GADO,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505045,HEMAMBIKA,RAY,CHAUDHURI,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505053,JYOTIRADITYA,AMOL,DESHPANDE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505076,PRAJWAL,GAJANAN,KARDE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505120,PRANAV,ANANDA,SHINDE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505148,SHRAVANI,BHUSHAN,DHOREY,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505153,SOHAN,SATISH,KURKURE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 1&2
-612572006,ABHEDYA,,SRIVASTAVA,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1&2
-612572013,ANJALI,BHIVAJI,SHINDE,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1&2
-612572016,ARNAV,AVINASH,PARBAT,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1&2
-612572020,AVISHKAR,HANAMANT,KARANDE,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1&2
-612572061,SHREEPAD,JANARDAN,JAGTAP,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1&2
-612572067,SOHAM,AJAY,SARATKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1&2
-612572073,TANMAY,NITIN,KOLHE,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1&2
-612515216,PRATHAMESH,SANTOSH,MORE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515220,PRNAV,SUDHIR,SHINDE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515225,RANAPRITHVIRAJ,GAJANAN,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515231,RITESH,TUSHAR,PATKARI,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515239,SAHIL,RAMDAS,TAWHARE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515241,SAIPRASAD,MADHAVRAO,PAINAPALLE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515244,SAKSHAM,NILESH,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515308,SUSHANT,HANSRAJ,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515309,SUYASH,SUDHAKAR,CHAVAN,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515312,TANISHQ,,BHARUD,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515315,TANMAY,NARENDRAKUMAR,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515325,VARSH,,GOINDANI,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515326,VEDANT,,KAREKAR,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515385,OM,UDAY,BARGE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612515419,AKSHIT,,RAJESH,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612505137,SAHIL,VASANT,LONKAR,Electrical Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612505138,SAISH,VIJAY,SARGAR,Electrical Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612505155,SURYANSHU,,PATIL,Electrical Engineering,LAB Batch 3-PP- Python Programming,Division 1&2
-612572019,ATHARVA,HEMANT,DESAI,Artificial Intelligence and Machine Learning,LAB Batch 4-PP- Python Programming,Division 1&2
-612572059,SHAHIL,SINGH,SHEKHAWAT,Artificial Intelligence and Machine Learning,LAB Batch 4-PP- Python Programming,Division 1&2
-612515025,ATHARV,NAMDEV,GORSHETWAR,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515033,AYUSH,NIVARUTTI,GARMODE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515209,PRANAV,NILESH,NEHETE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515242,SAIRAJ,SANTOSH,KAVITAKE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515259,SANSKAR,ANIL,SOBALE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515273,SHAIKHMOHAMMAD,RAED,AQUEEL,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515279,SHASHANK,SAINATH,MORE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515292,SHRIRAJ,RAMCHANDRA,JADHAV,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515294,SIDDHANT,SUHAS,WAYKOS,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515297,SIDDHI,SANDIP,NIKAM,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515301,SOHAM,SHANKAR,SHINGADE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515306,SUMEDH,SANTOSH,SHELGAONKAR,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515311,TANISHKA,RAJKUMAR,JADHAV,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515313,TANISHQ,DAYANAND,KASHID,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515329,VEDANT,VIJAY,GURAV,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515332,VIGHNESH,ANIL,THALE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515333,VIJAY,SHAMSUNDAR,KADAM,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515347,YASHVARDHAN,VIJAY,WALSE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515348,YESHASHREE,SHAILESH,KARHALE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515375,ISHAAN,MAKARAND,SONAWANE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515381,MIHIR,KEDAR,DEOGAONKAR,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515386,PARTH,MANOJKUMAR,PATIL,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612515406,SURYANSH,,PANDEY,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1&2
-612572036,HEER,HAMIR,JOBANPUTRA,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1&2
-612572041,MANAS,MUKESH,BADGUJAR,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1&2
-612572053,ROHIT,DIPAK,ZANWAR,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1&2
-612572080,VEDANT,UTTAM,NANGARE,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1&2
-612501173,YADNESH,MAHENDRA,SURYAWANSHI,Civil Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515011,ADITYA,RAMCHANDRA,DESHPANDE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515250,SAMRUDDHI,TANAJI,KAMBLE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515264,SARTHAK,NEERAJ,BHASKAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515278,SHASHANK,RAJENDRA,SANGLE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515295,SIDDHARTH,,KHOLA,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515296,SIDDHESH,DIPAK,RAJPUT,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515299,SNEHAL,RUPRAJ,RANDAYE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515320,TILAK,SHARAD,THETE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515327,VEDANT,KIRAN,MOTEWAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515328,VEDANT,NANASO,SARAK,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515338,VIVEK,SUNIL,LAGAD,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515341,YASH,RAMPRASAD,AMBHURE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515342,YASH,SAGAR,VARMA,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515344,YASH,SANTOSH,SHINGAVI,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515350,AADYA,,SHAH,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515365,ARYA,PRADEEP,SUBHEDAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515377,KALASH,MUKUND,VANKAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515393,RUSHI,AMIT,RANADE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515395,SAUDAGAR,MUSHEER MOHAMMAD,IQBAL,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515403,SIDDHANT,,GHOSH,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1&2
-612515022,ARYAN,RAJENDRA,GAVALI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515023,ARYAN,SANJAY,KHAIRKHAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515026,ATHARV,SACHIN,DIVATE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515035,CHANCHAL,SANTOSH,BHAYANI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515036,CHINMAY,VIKAS,CHAVAN,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515089,SHRAVANI,RAMKRISHNA,BORSE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515090,SIDDHESH,GAJANAN,CHITKESHIWAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515093,SURAJ,VINOD,GIMHAVANEKAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515109,ALOK,MADHAV,KADAM,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515118,ARYAN,ABHIJEET,SONAWANE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515124,ATHARV,SANTOSH,JADHAV,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515142,HARSHA,RAKESH,SOANS,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515153,KESHAV,GANESH,MINIYAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515167,MANYA,,YADAV,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515175,MRUNMAYEE,MANOJ,JOSHI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515181,NANDINI,KARTIKAY,PATEL,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515182,NARAYANI,,TOKE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515191,OM,MANGALSING,JARWAL,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515193,PARAG,NAVNIT,PATIL,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515200,PIRJADE,ARSHAD,MOSUMALI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612505013,AKSHADA,SANDEEP,PARALKAR,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612505024,ARYAN,VIVEK,JATHAR,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612505038,DIYA,,METHA,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612505055,KASHINATH,VIJAYKUMAR,HATTURE,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612505089,SHRAVANI,AJIT,PISAL,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 1&2
-612515003,AAROHI,MAHENDRA,RUNWAL,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515004,AARYA,PRASHANT,BANSOD,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515010,ADITYA,MUKESH,TOTANI,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515012,ADITYA,,SINHA,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515014,AISHWARYA,,PRAKASH,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515016,AKSHAY,,JHA,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515028,ATHARVA,PANKAJ,JAGTAP,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515051,HIMANSHI,,SINGH,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515064,PRANJAL,SUDHAKAR,INGLE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515074,SAHIL,PRAKASH,DHEKALE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515078,SAMRUDDHI,DADA,DHAGE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515086,SHERWIN,DINESH,ADVANT,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515092,SONAL,RAVINDRA,GANJARE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515122,ARYAN,VAIBHAV,NIKAM,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515127,ATHARVA,PRAKASH,KAMBLE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515166,MANSI,ABHIJEET,RATHI,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515172,MOHAMMADNAWAZ,AKRAM,PATHAN,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515174,MOHIT,RAJENDRA,SAINDANE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515180,NANDINI,GULAB,SABLE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515196,PARTH,PANDURANG,GAWADE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515197,PARTH,PRASHANT,BARIDE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612505027,ATHARVA,YOURAJ,GORLE,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612505039,DNYANESHWARI,SURESH,NARDE,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612505052,JAY,SACHIN,GIRDHAR,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612505077,PRANAV,AJABRAO,BAVISKAR,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 1&2
-612515013,ADITYA,VIKRAM,FARATE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515021,ARUSH,ABASAHEB,DESAI,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515027,ATHARVA,ARVIND,PATIL,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515029,ATHARVA,SANDEEP,GIDDE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515030,AUTI,PARTH,BHARAT,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515039,DEVANSH,MAHESH,AGRAWAL,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515046,GAURAV,PRAKASH,CHOPRA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515056,MAHESH,HASANRAO,CHAVAN,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515069,ROHAN,SUBHASH,HARPUDE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515079,SANIKA,DADASAHEB,INGALE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515106,ADWAIT,PRASAD,ZANJURNE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515114,ARPIT,PRAMOD,GUPTA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515123,ATHARV,SANDEEP,VYAS,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515144,HARSHIT,PRAVIN,JAKHOTIYA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515147,ISHWARI,VIJAY,PATIL,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515149,JAYESH,DHANAJI,KHADE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515164,MANASI,ARJUN,FALAKE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515173,MOHAMMED,MUFADDAL,ZAKIR,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515188,NIKHIL,,GUPTA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612515190,NIRBHAY,DILIP,LAHODE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612505021,ARJUN,HEMANT,KORLEKAR,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612505031,CHAITANYA,RAJESH,SHAH,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612505058,KRISHNA,,RATHOD,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612505094,SRUSHTI,MAHESH,AFRE,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
-612505097,TANMAY,MUKTESHWAR,JOSHI,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 1&2
 612572012,AMOL,MAHESH,BHOYE,Artificial Intelligence and Machine Learning,LAB Batch 1-WD- Web Designing,Division 1
 612572025,BURHANUDDIN,YUSUF,DALAL,Artificial Intelligence and Machine Learning,LAB Batch 1-WD- Web Designing,Division 1
 612572048,PRASAD,SATISH,KULKARNI,Artificial Intelligence and Machine Learning,LAB Batch 1-WD- Web Designing,Division 1
@@ -18951,7 +18654,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612501025,ANKITA,VIKAS,PATIL,Civil Engineering,LAB Batch 4-WD- Web Designing,Division 1
 612501053,DHRUV,DILIP,SHEKHADA,Civil Engineering,LAB Batch 4-WD- Web Designing,Division 1
 612501095,PRADNYESH,ANIL,WADEKAR,Civil Engineering,LAB Batch 4-WD- Web Designing,Division 1
-612501099,PRANAY,RUPESH,GAIKWAD,Civil Engineering,LAB Batch 4-WD- Web Designing,Division 1
+612501099,PRANAY,RUPESH,GAIKWAD,Civil Engineering,LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1
 612515009,ADITI,SANJAY,POL,Computer Science and Engineering,LAB Batch 4-WD- Web Designing,Division 1
 612515091,SOHAM,SHANKAR,FOBAWAR,Computer Science and Engineering,LAB Batch 4-WD- Web Designing,Division 1
 612515095,TANISHKA,KRISHNAT,GHOLAPE,Computer Science and Engineering,LAB Batch 4-WD- Web Designing,Division 1
@@ -19323,103 +19026,103 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612511082,YASHIKA,GANESH,DAIMIWAL,Metallurgy and Materials Technology,LAB Batch 5-MPFL- Manufacturing Practices and Fab Lab,Division 1
 612511089,PRANSH,GOVIND,CHANDAK,Metallurgy and Materials Technology,LAB Batch 5-MPFL- Manufacturing Practices and Fab Lab,Division 1
 612511095,DEVANG,KIRAN,BHAVSAR,Metallurgy and Materials Technology,LAB Batch 5-MPFL- Manufacturing Practices and Fab Lab,Division 1
-612572029,DHARINI,SUSHILKUMAR,PATIL,Artificial Intelligence and Machine Learning,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612572051,PRIYANSHU,BABAN,SALVE,Artificial Intelligence and Machine Learning,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612572088,ABDEALI,,MUSTANSIR,Artificial Intelligence and Machine Learning,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612572091,SAI,VENKATA RUDRA,VASIREDDY,Artificial Intelligence and Machine Learning,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612501001,AARYA,PRASHANT,KADAM,Civil Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612501126,SARDA,RIYA,PAVAN,Civil Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612515097,TANMAY,SANJAY,BHARTAL,Computer Science and Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612505037,DEVANSH,,DWIVEDI,Electrical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612505104,AMRUTA,VISHNUKUMAR,SHRIRAMJWAR,Electrical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612507096,PRANJAL,MAHESHKUMAR,PATIL,Electronics and Telecommunication Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612509002,AGRAJ,SANJAY,RAUT,Instrumentation and Control Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612513008,ADITYA,RAJU,GAIKWAD,Manufacturing Science and Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612513054,SAMYAK,ATUL,JAIN,Manufacturing Science and Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612510003,ABHINAV,GANPATI,KUMBHAR,Mechanical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612510021,ARPITA,AMIT,MARATHE,Mechanical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612510062,PRANALI,SUDHIR,BUVA,Mechanical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612510086,SPARSH,SANJAY,GAICHARE,Mechanical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612510095,VIHAAN,PRASHANT,CHANDANE,Mechanical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612510122,NIHAL,NARENDRAKUMAR,PADOLE,Mechanical Engineering,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612511029,NIRAJ,,RAHATE,Metallurgy and Materials Technology,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612511040,PUSHKAR,SANJAY,UDAWANT,Metallurgy and Materials Technology,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612511042,RAHUL,PRALHAD,SHINDE,Metallurgy and Materials Technology,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612511047,RITESH,MAHADEV,MAKADE,Metallurgy and Materials Technology,"LAB Batch 1-RDOS- Robotics, Drone",Division 1
-612572039,KRISHNA,NITIN,KHILARE,Artificial Intelligence and Machine Learning,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612572090,MUHAMMAD,,SHAIKH,Artificial Intelligence and Machine Learning,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612505032,CHARVI,VIJAYKUMAR,MULAY,Electrical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612505174,SOHAM,VIKRAMKUMAR,MAKWANA,Electrical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612509026,MEET,AMOL,PATIL,Instrumentation and Control Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513050,RENUSANJANA,SIVA,BOMMISETTY,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513058,SHANTANU,SANJAY,KANBALE,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513071,SIDDESH,PRAMOD,INGOLe,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513073,SPANDAN,VISHAL,JAIN,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513075,SUJIT,,KUMAR,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513086,YASHODHAN,ASHISH,APTE,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513089,ARNAV,NIRMAL,NEHETE,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513091,JYOTIRADITYA,VIJAYKUMAR,PALWE,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612513096,TANAY,PRASHANT,BHARAMBE,Manufacturing Science and Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510074,SAISH,MARUTI,DIVASE,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510084,SHRUTI,DNYANESHWAR,BHUJBAL,Mechanical Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612510090,TANMAY,SHRIRAM,GODSE,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510098,YASH,RAJESH,KUBAL,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510102,ABHAS,DEEPENDRA,SAYARE,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510121,NIDHI,RAMSAGAR,VISHWAKARMA,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510125,OM,SIDDHESHWAR,NARAKE,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510152,SHLOK,RUTUPARNA,PEDNEKAR,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510162,SURABHI,HRISHIKESH,NENE,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612510176,ATHARVA,SANTOSH,BHUJBAL,Mechanical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612572075,TEJASHWI,GANGADHAR,INGALE,Artificial Intelligence and Machine Learning,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612501119,SACHIN,RAJUPRASAD,SAW,Civil Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612501136,SHIVTEJ,SADASHIV,JADHAV,Civil Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612515212,PRANAV,SITARAM,PAWAR,Computer Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612515281,SHIVA,SAI,VAIBHAVK,Computer Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612515360,ALISHA,,GADKARI,Computer Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,"LAB Batch 2-RDOS- Robotics, Drone",Division 1
-612505122,PRATHAM,NILESH,NIGADE,Electrical Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612507032,ATHARVA,SANDIP,GADGE,Electronics and Telecommunication Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612507169,VIRAJ,SWAPNIL,PATIL,Electronics and Telecommunication Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612507186,SWARALI,JAYDEEP,JOSHI,Electronics and Telecommunication Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612509014,CHIRAYU,BABALU,SALUNKE,Instrumentation and Control Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612509056,TANUJA,DATTATRAY,KHARSUNDE,Instrumentation and Control Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612509073,OMKAAR,SACHIN,PATWARDHAN,Instrumentation and Control Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612509074,SHREEHARI,,FATING,Instrumentation and Control Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612513043,OMKAR,RAJUDAS,RATHOD,Manufacturing Science and Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612510109,DHAWALSHREE,MILIND,NAVANALE,Mechanical Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612510119,MONAL,PRASHANT,VASAIKAR,Mechanical Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612510170,VEDANSH,HRISHIKESH,BARGE,Mechanical Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612510189,VIDHIKA,SANJAY,SHARMA,Mechanical Engineering,"LAB Batch 3-RDOS- Robotics, Drone",Division 1
-612515005,AARYA,SUSHANT,KHAPANE,Computer Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612515081,SANSKAR,PRABHAKAR,BHOSALE,Computer Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612515169,MIHIR,ANAND,SANGHAVI,Computer Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612505025,ASHIKA,,ANIL,Electrical Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612505042,HARSH,PRAVIN,GOSAVI,Electrical Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513002,AADITYA,ASHOK,GHULE,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513007,ADITYA,PRASHANT,JADHAV,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513024,GOPAL,ULHAS,SADEGAONKAR,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513029,HARSHAL,WAMAN,CHUDHARI,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513038,MAITHILI,UMASHANKAR,KOCHE,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513047,PRANITEE,PRASAD,KHEDKAR,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513056,SANKPAL,CHAITANYA,ANAND,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513061,SHLOK,RAKESHKUMAR,BHANGDIYA,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513076,SUMIT,SAINATH,BORADE,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513077,SURAJ,SAKHARAM,BINNAR,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612513098,VEDANT,DEEPAK,PATIL,Manufacturing Science and Engineering,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511003,AMOGH,PRASAD,WALEKAR,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511045,RANAJAGJITSING,VIJAYKUMAR,RATHOD,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511067,SUCHIR,SHRIRANG,DIVEKAR,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511069,SUSHIL,VINOD,BHOSALE,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511070,SWAPNIL,NARESH,SIDAM,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511072,TAKSHEEL,,BUDDHADEO,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511074,TANISHA,AMOL,KHISTE,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511092,TANISHQ,SAARANG,DESHMUKH,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511093,VARAD,RAJENDRA,KALEL,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
-612511094,ARIHANT,,KAUL,Metallurgy and Materials Technology,"LAB Batch 4-RDOS- Robotics, Drone",Division 1
+612572029,DHARINI,SUSHILKUMAR,PATIL,Artificial Intelligence and Machine Learning,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612572051,PRIYANSHU,BABAN,SALVE,Artificial Intelligence and Machine Learning,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612572088,ABDEALI,,MUSTANSIR,Artificial Intelligence and Machine Learning,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612572091,SAI,VENKATA RUDRA,VASIREDDY,Artificial Intelligence and Machine Learning,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612501001,AARYA,PRASHANT,KADAM,Civil Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612501126,SARDA,RIYA,PAVAN,Civil Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612515097,TANMAY,SANJAY,BHARTAL,Computer Science and Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612505037,DEVANSH,,DWIVEDI,Electrical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612505104,AMRUTA,VISHNUKUMAR,SHRIRAMJWAR,Electrical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612507096,PRANJAL,MAHESHKUMAR,PATIL,Electronics and Telecommunication Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612509002,AGRAJ,SANJAY,RAUT,Instrumentation and Control Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612513008,ADITYA,RAJU,GAIKWAD,Manufacturing Science and Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612513054,SAMYAK,ATUL,JAIN,Manufacturing Science and Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612510003,ABHINAV,GANPATI,KUMBHAR,Mechanical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612510021,ARPITA,AMIT,MARATHE,Mechanical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612510062,PRANALI,SUDHIR,BUVA,Mechanical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612510086,SPARSH,SANJAY,GAICHARE,Mechanical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612510095,VIHAAN,PRASHANT,CHANDANE,Mechanical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612510122,NIHAL,NARENDRAKUMAR,PADOLE,Mechanical Engineering,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612511029,NIRAJ,,RAHATE,Metallurgy and Materials Technology,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612511040,PUSHKAR,SANJAY,UDAWANT,Metallurgy and Materials Technology,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612511042,RAHUL,PRALHAD,SHINDE,Metallurgy and Materials Technology,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612511047,RITESH,MAHADEV,MAKADE,Metallurgy and Materials Technology,LAB Batch 1-RDOS- Robotics Drone,Division 1
+612572039,KRISHNA,NITIN,KHILARE,Artificial Intelligence and Machine Learning,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612572090,MUHAMMAD,,SHAIKH,Artificial Intelligence and Machine Learning,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612505032,CHARVI,VIJAYKUMAR,MULAY,Electrical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612505174,SOHAM,VIKRAMKUMAR,MAKWANA,Electrical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612509026,MEET,AMOL,PATIL,Instrumentation and Control Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513050,RENUSANJANA,SIVA,BOMMISETTY,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513058,SHANTANU,SANJAY,KANBALE,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513071,SIDDESH,PRAMOD,INGOLe,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513073,SPANDAN,VISHAL,JAIN,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513075,SUJIT,,KUMAR,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513086,YASHODHAN,ASHISH,APTE,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513089,ARNAV,NIRMAL,NEHETE,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513091,JYOTIRADITYA,VIJAYKUMAR,PALWE,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612513096,TANAY,PRASHANT,BHARAMBE,Manufacturing Science and Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510074,SAISH,MARUTI,DIVASE,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510084,SHRUTI,DNYANESHWAR,BHUJBAL,Mechanical Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612510090,TANMAY,SHRIRAM,GODSE,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510098,YASH,RAJESH,KUBAL,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510102,ABHAS,DEEPENDRA,SAYARE,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510121,NIDHI,RAMSAGAR,VISHWAKARMA,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510125,OM,SIDDHESHWAR,NARAKE,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510147,SAURABH,PRAVIN,PATIL,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510152,SHLOK,RUTUPARNA,PEDNEKAR,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510162,SURABHI,HRISHIKESH,NENE,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612510176,ATHARVA,SANTOSH,BHUJBAL,Mechanical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612572075,TEJASHWI,GANGADHAR,INGALE,Artificial Intelligence and Machine Learning,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612501119,SACHIN,RAJUPRASAD,SAW,Civil Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612501136,SHIVTEJ,SADASHIV,JADHAV,Civil Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612501183,SHAMBHAVI,SACHIN,JAGTAP,Civil Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612515212,PRANAV,SITARAM,PAWAR,Computer Science and Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612515214,PRANJAL,SACHIN,AHIRE,Computer Science and Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612515281,SHIVA,SAI,VAIBHAVK,Computer Science and Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612515360,ALISHA,,GADKARI,Computer Science and Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612505108,HARSH,ANSHUMAN,THAKAR,Electrical Engineering,LAB Batch 2-RDOS- Robotics Drone,Division 1
+612505122,PRATHAM,NILESH,NIGADE,Electrical Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612507032,ATHARVA,SANDIP,GADGE,Electronics and Telecommunication Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612507169,VIRAJ,SWAPNIL,PATIL,Electronics and Telecommunication Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612507186,SWARALI,JAYDEEP,JOSHI,Electronics and Telecommunication Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612509014,CHIRAYU,BABALU,SALUNKE,Instrumentation and Control Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612509056,TANUJA,DATTATRAY,KHARSUNDE,Instrumentation and Control Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612509073,OMKAAR,SACHIN,PATWARDHAN,Instrumentation and Control Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612509074,SHREEHARI,,FATING,Instrumentation and Control Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612513043,OMKAR,RAJUDAS,RATHOD,Manufacturing Science and Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612510109,DHAWALSHREE,MILIND,NAVANALE,Mechanical Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612510119,MONAL,PRASHANT,VASAIKAR,Mechanical Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612510170,VEDANSH,HRISHIKESH,BARGE,Mechanical Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612510189,VIDHIKA,SANJAY,SHARMA,Mechanical Engineering,LAB Batch 3-RDOS- Robotics Drone,Division 1
+612515005,AARYA,SUSHANT,KHAPANE,Computer Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612515081,SANSKAR,PRABHAKAR,BHOSALE,Computer Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612515169,MIHIR,ANAND,SANGHAVI,Computer Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612505025,ASHIKA,,ANIL,Electrical Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612505042,HARSH,PRAVIN,GOSAVI,Electrical Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513002,AADITYA,ASHOK,GHULE,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513007,ADITYA,PRASHANT,JADHAV,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513024,GOPAL,ULHAS,SADEGAONKAR,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513029,HARSHAL,WAMAN,CHUDHARI,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513038,MAITHILI,UMASHANKAR,KOCHE,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513047,PRANITEE,PRASAD,KHEDKAR,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513056,SANKPAL,CHAITANYA,ANAND,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513061,SHLOK,RAKESHKUMAR,BHANGDIYA,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513076,SUMIT,SAINATH,BORADE,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513077,SURAJ,SAKHARAM,BINNAR,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612513098,VEDANT,DEEPAK,PATIL,Manufacturing Science and Engineering,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511003,AMOGH,PRASAD,WALEKAR,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511045,RANAJAGJITSING,VIJAYKUMAR,RATHOD,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511067,SUCHIR,SHRIRANG,DIVEKAR,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511069,SUSHIL,VINOD,BHOSALE,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511070,SWAPNIL,NARESH,SIDAM,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511072,TAKSHEEL,,BUDDHADEO,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511074,TANISHA,AMOL,KHISTE,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511092,TANISHQ,SAARANG,DESHMUKH,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511093,VARAD,RAJENDRA,KALEL,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
+612511094,ARIHANT,,KAUL,Metallurgy and Materials Technology,LAB Batch 4-RDOS- Robotics Drone,Division 1
 612501115,RIYA,BHIMRAO,KANINDE,Civil Engineering,LAB Batch 1-CAD- Computer Aided Drafting,Division 1
 612501117,RUTHIK,RAHUL,BORA,Civil Engineering,LAB Batch 1-CAD- Computer Aided Drafting,Division 1
 612501138,SHRADDHA,SHARAD,VARADE,Civil Engineering,LAB Batch 1-CAD- Computer Aided Drafting,Division 1
@@ -19764,7 +19467,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612513097,VANSH,MANOJ,BOMANWAR,Manufacturing Science and Engineering,Tut Batch 1-Linear Algebra,Division 2
 612513097,VANSH,MANOJ,BOMANWAR,Manufacturing Science and Engineering,LAB Batch 2-Engg Chem,Division 4
 612513097,VANSH,MANOJ,BOMANWAR,Manufacturing Science and Engineering,LAB Batch 4-DTIL- Design Thunking and Idea Lab,Division 1
-612513097,VANSH,MANOJ,BOMANWAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mechanics ,Division 1
+612513097,VANSH,MANOJ,BOMANWAR,Manufacturing Science and Engineering,LAB Batch 4-AM-Applied Mech ,Division 1
 612513097,VANSH,MANOJ,BOMANWAR,Manufacturing Science and Engineering,LAB Batch 3-FPLC- Funda. Of PLC,Division 1
 612515007,Abhishek,,Garje,Computer Science and Engineering,Linear Algebra,Division 1
 612515007,Abhishek,,Garje,Computer Science and Engineering,Engg Chem,Division 1
@@ -19776,7 +19479,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515007,Abhishek,,Garje,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 1
 612515007,Abhishek,,Garje,Computer Science and Engineering,LAB Batch 3-Engg Chem,Division 1
 612515007,Abhishek,,Garje,Computer Science and Engineering,LAB Batch 1-FAI- Fundamentals of Ai,Division 1
-612515007,Abhishek,,Garje,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
+612515007,Abhishek,,Garje,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
 612515007,Abhishek,,Garje,Computer Science and Engineering,LAB Batch 3-FPLC- Funda. Of PLC,Division 1
 612515031,Avinash,,Garje,Computer Science and Engineering,Linear Algebra,Division 1
 612515031,Avinash,,Garje,Computer Science and Engineering,Engg Chem,Division 1
@@ -19788,7 +19491,7 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612515031,Avinash,,Garje,Computer Science and Engineering,Tut Batch 1-Linear Algebra,Division 1
 612515031,Avinash,,Garje,Computer Science and Engineering,LAB Batch 3-Engg Chem,Division 1
 612515031,Avinash,,Garje,Computer Science and Engineering,LAB Batch 1-FAI- Fundamentals of Ai,Division 1
-612515031,Avinash,,Garje,Computer Science and Engineering,LAB Batch 1-AM-Applied Mechanics ,Division 1
+612515031,Avinash,,Garje,Computer Science and Engineering,LAB Batch 1-AM-Applied Mech ,Division 1
 612515031,Avinash,,Garje,Computer Science and Engineering,LAB Batch 3-FPLC- Funda. Of PLC,Division 1
 612511065,SMIT,AVINASH,NAWALE,Metallurgy and Materials Technology,Linear Algebra,Division 3
 612511065,SMIT,AVINASH,NAWALE,Metallurgy and Materials Technology,Tut Batch 4-Linear Algebra,Division 3
@@ -19808,10 +19511,333 @@ MIS,FirstName,MiddleName,LastName,Branch,Subject,Division
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,Nanomaterials,Division 2
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,FME- Foundations in Mech Engg,Division 2
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,AM- Applied Mech,Division 2
-612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,LAB Batch 4-AM-Applied Mechanics ,Division 2
+612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,LAB Batch 4-AM-Applied Mech ,Division 2
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,GE- Geomatic Engg,Division 1
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,LAB Batch 2-GE- Geomatic Engg,Division 1
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,1st and 3rd Sat-PD- Personality Development,Division 1
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,2nd & 4th Sat-PD- Personality Development (Till 10:30),Division 1
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,FAI- Fundamentals of Ai,Division 4
 612572017,ARNAV,,KUMAR,Artificial Intelligence and Machine Learning,LAB Batch 6-FAI- Fundamentals of Ai,Division 4
+612572001,AADITYA,RANJEET,SHAH,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572003,AARUSH,RAVINDRA,VARKUTE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572007,ADITYA,UTTAM,AHER,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572009,AJINKYA,SHARAD,PATIL,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572010,AJNISH,,RAJ,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572021,AYUSH,ANIL,SONAWANE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572044,MIHIRA,PRASAD,PANDE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572052,RAJ,,ARYAN,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572066,SNEHAL,MAHADEV,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572082,VEER,CHIRAG,SHAH,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612572097,ANTARA,SANTOSH,KOKATE,Artificial Intelligence and Machine Learning,LAB Batch 1-PP- Python Programming,Division 1
+612501048,CHAITANYA,KISHOR,GARAD,Civil Engineering,LAB Batch 1-PP- Python Programming,Division 1
+612515038,DATTA,ANKUSH,RABIN,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1
+612515042,DISHAN,,OSWAL,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1
+612515048,HARSH,DHIRENDRA,MISHRA,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1
+612515082,SARTHAK,SANJAY,GHADAGE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 1
+612515215,PRASAD,BHARTESH,WADKAR,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515217,PRATHMESH,,NALKUL,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515237,RUSHIKESH,,SANTOSHMARMAT,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515284,SHOURY,,RAI,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515319,TEJAS,SUDEEP,APHALE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515351,AARUSH,CHIRAG,SHAH,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515382,MITALI,,MANJURE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515383,MITALI,ROHAN,BHINDWALE,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612515399,SHREYAK,GIRISH,KADAM,Computer Science and Engineering,LAB Batch 1-PP- Python Programming,Division 2
+612572004,AAYUSH,RAJESH,KERKAR,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1
+612572015,ARCHIT,SUSHIL,KOTWALA,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1
+612572022,AYUSH,HEMANT,PAREEK,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1
+612572035,HARSHIT,RAMESH,SHIROL,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1
+612572046,NAYAN,SURESH,ANDHALE,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1
+612572069,SUJAL,GAJANAN,CHOPADE,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1
+612572077,VEDANG,VIRAMSHRI,BIDWAI,Artificial Intelligence and Machine Learning,LAB Batch 2-PP- Python Programming,Division 1
+612515024,ASHUTOSH,AMIT,SAXENA,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1
+612515052,ISHAAN,,JAIN,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1
+612515177,MUKUL,MANOHAR,BHOSALE,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 1
+612515219,PRERANA,AJIT,ZANJURNE,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612515236,RUSHIKESH,GANESH,JADHAO,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612515246,SAMARTH,SANJAY,KULKARNI,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612515270,SATYAM,,MISHRA,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612515396,SHAH,MOHAMMAD,SAAD,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612515401,SHRIHAN,KEDAR,KULKARNI,Computer Science and Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505016,ANJALI,KIRAN,APARADH,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505022,ARYAN,ATUL,GADO,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505045,HEMAMBIKA,RAY,CHAUDHURI,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505053,JYOTIRADITYA,AMOL,DESHPANDE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505076,PRAJWAL,GAJANAN,KARDE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505120,PRANAV,ANANDA,SHINDE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505148,SHRAVANI,BHUSHAN,DHOREY,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505153,SOHAN,SATISH,KURKURE,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612505132,RUSHIKESH,SANJAY,GAIKWAD,Electrical Engineering,LAB Batch 2-PP- Python Programming,Division 2
+612572006,ABHEDYA,,SRIVASTAVA,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1
+612572013,ANJALI,BHIVAJI,SHINDE,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1
+612572016,ARNAV,AVINASH,PARBAT,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1
+612572020,AVISHKAR,HANAMANT,KARANDE,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1
+612572061,SHREEPAD,JANARDAN,JAGTAP,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1
+612572067,SOHAM,AJAY,SARATKAR,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1
+612572073,TANMAY,NITIN,KOLHE,Artificial Intelligence and Machine Learning,LAB Batch 3-PP- Python Programming,Division 1
+612515216,PRATHAMESH,SANTOSH,MORE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515220,PRNAV,SUDHIR,SHINDE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515225,RANAPRITHVIRAJ,GAJANAN,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515231,RITESH,TUSHAR,PATKARI,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515239,SAHIL,RAMDAS,TAWHARE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515241,SAIPRASAD,MADHAVRAO,PAINAPALLE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515244,SAKSHAM,NILESH,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515308,SUSHANT,HANSRAJ,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515309,SUYASH,SUDHAKAR,CHAVAN,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515312,TANISHQ,,BHARUD,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515315,TANMAY,NARENDRAKUMAR,PATIL,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515325,VARSH,,GOINDANI,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515326,VEDANT,,KAREKAR,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515385,OM,UDAY,BARGE,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612515419,AKSHIT,,RAJESH,Computer Science and Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612505137,SAHIL,VASANT,LONKAR,Electrical Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612505138,SAISH,VIJAY,SARGAR,Electrical Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612505155,SURYANSHU,,PATIL,Electrical Engineering,LAB Batch 3-PP- Python Programming,Division 2
+612572019,ATHARVA,HEMANT,DESAI,Artificial Intelligence and Machine Learning,LAB Batch 4-PP- Python Programming,Division 1
+612572059,SHAHIL,SINGH,SHEKHAWAT,Artificial Intelligence and Machine Learning,LAB Batch 4-PP- Python Programming,Division 1
+612515025,ATHARV,NAMDEV,GORSHETWAR,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1
+612515033,AYUSH,NIVARUTTI,GARMODE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 1
+612515209,PRANAV,NILESH,NEHETE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515242,SAIRAJ,SANTOSH,KAVITAKE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515259,SANSKAR,ANIL,SOBALE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515273,SHAIKHMOHAMMAD,RAED,AQUEEL,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515279,SHASHANK,SAINATH,MORE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515292,SHRIRAJ,RAMCHANDRA,JADHAV,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515294,SIDDHANT,SUHAS,WAYKOS,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515297,SIDDHI,SANDIP,NIKAM,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515301,SOHAM,SHANKAR,SHINGADE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515306,SUMEDH,SANTOSH,SHELGAONKAR,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515311,TANISHKA,RAJKUMAR,JADHAV,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515313,TANISHQ,DAYANAND,KASHID,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515329,VEDANT,VIJAY,GURAV,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515332,VIGHNESH,ANIL,THALE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515333,VIJAY,SHAMSUNDAR,KADAM,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515347,YASHVARDHAN,VIJAY,WALSE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515348,YESHASHREE,SHAILESH,KARHALE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515375,ISHAAN,MAKARAND,SONAWANE,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515381,MIHIR,KEDAR,DEOGAONKAR,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515386,PARTH,MANOJKUMAR,PATIL,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612515406,SURYANSH,,PANDEY,Computer Science and Engineering,LAB Batch 4-PP- Python Programming,Division 2
+612572036,HEER,HAMIR,JOBANPUTRA,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1
+612572041,MANAS,MUKESH,BADGUJAR,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1
+612572053,ROHIT,DIPAK,ZANWAR,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1
+612572080,VEDANT,UTTAM,NANGARE,Artificial Intelligence and Machine Learning,LAB Batch 5-PP- Python Programming,Division 1
+612501173,YADNESH,MAHENDRA,SURYAWANSHI,Civil Engineering,LAB Batch 5-PP- Python Programming,Division 1
+612515011,ADITYA,RAMCHANDRA,DESHPANDE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 1
+612515250,SAMRUDDHI,TANAJI,KAMBLE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515264,SARTHAK,NEERAJ,BHASKAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515278,SHASHANK,RAJENDRA,SANGLE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515295,SIDDHARTH,,KHOLA,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515296,SIDDHESH,DIPAK,RAJPUT,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515299,SNEHAL,RUPRAJ,RANDAYE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515320,TILAK,SHARAD,THETE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515327,VEDANT,KIRAN,MOTEWAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515328,VEDANT,NANASO,SARAK,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515338,VIVEK,SUNIL,LAGAD,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515341,YASH,RAMPRASAD,AMBHURE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515342,YASH,SAGAR,VARMA,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515344,YASH,SANTOSH,SHINGAVI,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515350,AADYA,,SHAH,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515365,ARYA,PRADEEP,SUBHEDAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515377,KALASH,MUKUND,VANKAR,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515393,RUSHI,AMIT,RANADE,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515395,SAUDAGAR,MUSHEER MOHAMMAD,IQBAL,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515403,SIDDHANT,,GHOSH,Computer Science and Engineering,LAB Batch 5-PP- Python Programming,Division 2
+612515022,ARYAN,RAJENDRA,GAVALI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515023,ARYAN,SANJAY,KHAIRKHAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515026,ATHARV,SACHIN,DIVATE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515035,CHANCHAL,SANTOSH,BHAYANI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515036,CHINMAY,VIKAS,CHAVAN,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515089,SHRAVANI,RAMKRISHNA,BORSE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515090,SIDDHESH,GAJANAN,CHITKESHIWAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515093,SURAJ,VINOD,GIMHAVANEKAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515109,ALOK,MADHAV,KADAM,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515118,ARYAN,ABHIJEET,SONAWANE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515124,ATHARV,SANTOSH,JADHAV,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515142,HARSHA,RAKESH,SOANS,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515153,KESHAV,GANESH,MINIYAR,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515167,MANYA,,YADAV,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515175,MRUNMAYEE,MANOJ,JOSHI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515181,NANDINI,KARTIKAY,PATEL,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515182,NARAYANI,,TOKE,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515191,OM,MANGALSING,JARWAL,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 1
+612515193,PARAG,NAVNIT,PATIL,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 2
+612515200,PIRJADE,ARSHAD,MOSUMALI,Computer Science and Engineering,LAB Batch 6-PP- Python Programming,Division 2
+612505013,AKSHADA,SANDEEP,PARALKAR,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 2
+612505024,ARYAN,VIVEK,JATHAR,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 2
+612505038,DIYA,,METHA,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 2
+612505055,KASHINATH,VIJAYKUMAR,HATTURE,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 2
+612505089,SHRAVANI,AJIT,PISAL,Electrical Engineering,LAB Batch 6-PP- Python Programming,Division 2
+612515003,AAROHI,MAHENDRA,RUNWAL,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515004,AARYA,PRASHANT,BANSOD,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515010,ADITYA,MUKESH,TOTANI,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515012,ADITYA,,SINHA,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515014,AISHWARYA,,PRAKASH,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515016,AKSHAY,,JHA,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515028,ATHARVA,PANKAJ,JAGTAP,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515051,HIMANSHI,,SINGH,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515064,PRANJAL,SUDHAKAR,INGLE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515074,SAHIL,PRAKASH,DHEKALE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515078,SAMRUDDHI,DADA,DHAGE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515086,SHERWIN,DINESH,ADVANT,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515092,SONAL,RAVINDRA,GANJARE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515122,ARYAN,VAIBHAV,NIKAM,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515127,ATHARVA,PRAKASH,KAMBLE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515166,MANSI,ABHIJEET,RATHI,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515172,MOHAMMADNAWAZ,AKRAM,PATHAN,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515174,MOHIT,RAJENDRA,SAINDANE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515180,NANDINI,GULAB,SABLE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 1
+612515196,PARTH,PANDURANG,GAWADE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 2
+612515197,PARTH,PRASHANT,BARIDE,Computer Science and Engineering,LAB Batch 7-PP- Python Programming,Division 2
+612505027,ATHARVA,YOURAJ,GORLE,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 2
+612505039,DNYANESHWARI,SURESH,NARDE,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 2
+612505052,JAY,SACHIN,GIRDHAR,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 2
+612505077,PRANAV,AJABRAO,BAVISKAR,Electrical Engineering,LAB Batch 7-PP- Python Programming,Division 2
+612515013,ADITYA,VIKRAM,FARATE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515021,ARUSH,ABASAHEB,DESAI,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515027,ATHARVA,ARVIND,PATIL,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515029,ATHARVA,SANDEEP,GIDDE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515030,AUTI,PARTH,BHARAT,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515039,DEVANSH,MAHESH,AGRAWAL,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515046,GAURAV,PRAKASH,CHOPRA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515056,MAHESH,HASANRAO,CHAVAN,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515069,ROHAN,SUBHASH,HARPUDE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515079,SANIKA,DADASAHEB,INGALE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515106,ADWAIT,PRASAD,ZANJURNE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515114,ARPIT,PRAMOD,GUPTA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515123,ATHARV,SANDEEP,VYAS,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515144,HARSHIT,PRAVIN,JAKHOTIYA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515147,ISHWARI,VIJAY,PATIL,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515149,JAYESH,DHANAJI,KHADE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515164,MANASI,ARJUN,FALAKE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515173,MOHAMMED,MUFADDAL,ZAKIR,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515188,NIKHIL,,GUPTA,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612515190,NIRBHAY,DILIP,LAHODE,Computer Science and Engineering,LAB Batch 8-PP- Python Programming,Division 1
+612505021,ARJUN,HEMANT,KORLEKAR,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 2
+612505031,CHAITANYA,RAJESH,SHAH,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 2
+612505058,KRISHNA,,RATHOD,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 2
+612505094,SRUSHTI,MAHESH,AFRE,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 2
+612505097,TANMAY,MUKTESHWAR,JOSHI,Electrical Engineering,LAB Batch 8-PP- Python Programming,Division 2
+612515289,SHREYA,YUVARAJ,POWAR,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515296,SIDDHESH,DIPAK,RAJPUT,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515299,SNEHAL,RUPRAJ,RANDAYE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612505159,UTKARSH,GIRIDHAR,JHA,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572058,SANSKRUTI,SATYAWAN,JAGTAP,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572059,SHAHIL,SINGH,SHEKHAWAT,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572062,SHREYA,SUDHAKAR,KUTAL,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515335,VINITA,DATTATRAY,KULKARNI,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515346,YASHRAJ,VINAYAK,KALE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612509051,SUJAL,EKNATH,JADHAO,Instrumentation and Control Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572040,MANAS,,CHAVAN,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572042,MANSI,PRAKASHRAO,SATAMWAR,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572043,MAYANK,NITIN,CHANDOLE,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572045,MRUDULA,VINAY,NISAL,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572046,NAYAN,SURESH,ANDHALE,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572047,PARTH,MARTAND,JORI,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572049,PRASANNA,UMESH,SAWANT,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572050,PRATHMESH,SHRIKANT,DAROKAR,Artificial Intelligence and Machine Learning,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515281,SHIVA,SAI,VAIBHAVK,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515282,SHIVAM,BHARATSING,PARDESHI,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515285,SHRADDHA,CHANDRASHEKHAR,KHADE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515292,SHRIRAJ,RAMCHANDRA,JADHAV,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515293,SHRISH,NILESH,PATTEWAR,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515294,SIDDHANT,SUHAS,WAYKOS,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515295,SIDDHARTH,,KHOLA,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515297,SIDDHI,SANDIP,NIKAM,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515301,SOHAM,SHANKAR,SHINGADE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515302,SOURABH,VISHNU,AMANE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612515332,VIGHNESH,ANIL,THALE,Computer Science and Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612505163,VEDANSHU,ANILKUMAR,PANDEY,Electrical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612510152,SHLOK,RUTUPARNA,PEDNEKAR,Mechanical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612510167,UJJWAL,KAMALKANT,JHA,Mechanical Engineering,LAB Batch 1-DLD- Digital Logic Design,Division 4
+612572068,SRUSHTI,SAGAR,TELI,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515350,AADYA,,SHAH,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612505161,VARAD,RAJESH,INGALE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612509046,SHRADDHA,JAYWANT,SHINDE,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572052,RAJ,,ARYAN,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572055,SAIRAJ,AJIT,TIVALE,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572056,SAMRUDDHI,YASHWANT,MALI,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572057,SANCHIT,PRAKASH,NIKAM,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572063,SHREYAS,SATISHKUMAR,SAVADE,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572064,SHUBHRA,JITENDRA,AHIRRAO,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572065,SNEHAL,AMOL,CHITNIS,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572066,SNEHAL,MAHADEV,GAIKWAD,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515290,SHREYASH,DATTA,TEMBHARE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515336,VIRAJ,DNYANESHWAR,RANE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515338,VIVEK,SUNIL,LAGAD,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515341,YASH,RAMPRASAD,AMBHURE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515345,YASH,SUDHAKAR,WANKHEDE,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515351,AARUSH,CHIRAG,SHAH,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612505144,SHARAYU,GANESH,SONAWANE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612505146,SHON,CHANDRASHEKHAR,LOKHANDE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612505150,SHRINIVAS,KESHAO,KINAKE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612505158,TANVI,DIGAMBAR,INGALE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612505166,VIDHIKA,SHITAL,MATEY,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612509030,OMKAR,BHAGINATH,KORADE,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612509031,PARTH,SACHIN,AGRAWAL,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612509040,RUTVA,KAUSHAL,PAREKH,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612509043,SARANG,PRANAV,JAIRAM,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612509055,TANMAY,SHRIKANT,JOSHI,Instrumentation and Control Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612501180,ANIRUDDHA,ANIL,DEOBHANKAR,Civil Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612572067,SOHAM,AJAY,SARATKAR,Artificial Intelligence and Machine Learning,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515349,AADITYA,AMIT,PATEL,Computer Science and Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612505153,SOHAN,SATISH,KURKURE,Electrical Engineering,LAB Batch 2-DLD- Digital Logic Design,Division 4
+612515280,SHITAL,MALLINATH,PUJARI,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515284,SHOURY,,RAI,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515287,SHREYA,,KADAM,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515291,SHREYASH,SANTOSH,KADAM,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515303,SUHANI,PRATAPSINH,MORE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515304,SUKHWINDER,,SINGH,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515305,SUMEDH,PRAVIN,WANKHADE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515306,SUMEDH,SANTOSH,SHELGAONKAR,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515307,SUMIT,SUNIL,LAJURKAR,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515309,SUYASH,SUDHAKAR,CHAVAN,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515310,SWARA,SANJAY,KURHADE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515311,TANISHKA,RAJKUMAR,JADHAV,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515312,TANISHQ,,BHARUD,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515313,TANISHQ,DAYANAND,KASHID,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515315,TANMAY,NARENDRAKUMAR,PATIL,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515316,TANVI,MANOJ,LOYA,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515318,TEJAS,NANDKISHOR,PALVE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515319,TEJAS,SUDEEP,APHALE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515322,TUSHAR,SUBHASH,HADAS,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515325,VARSH,,GOINDANI,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515326,VEDANT,,KAREKAR,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515328,VEDANT,NANASO,SARAK,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612505157,SWANAND,DHANANJAY,SIRSIKAR,Electrical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612509054,TANMAY,MAHADEO,KARPE,Instrumentation and Control Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612572044,MIHIRA,PRASAD,PANDE,Artificial Intelligence and Machine Learning,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515334,VIKHYATH,VINAYAK,PATIL,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612515343,YASH,SANDEEP,LONDHE,Computer Science and Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612505168,VISHNU,VINAYAK,WAGHMARE,Electrical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612509056,TANUJA,DATTATRAY,KHARSUNDE,Instrumentation and Control Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612510157,SHRUTI,YOGESH,PITKAR,Mechanical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612510168,UNAMTEEPHRANG,,TARIANG,Mechanical Engineering,LAB Batch 4-DLD- Digital Logic Design,Division 4
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,Linear Algebra,Division 6
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,Engg Chem,Division 7
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,Bio For Engineers,Division 2
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,EEE- Elements of Electronics Engg,Division 1
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,BCE- Basics Of Civil Engineering,Division 1
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,AM- Applied Mech,Division 2
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,FPLC- Funda. Of PLC,Division 1
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,Tut Batch 3-Linear Algebra,Division 6
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,LAB Batch 2-Engg Chem(ENTC),Division 7
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,LAB Batch 3-EEE- Elements of Electronics Engg,Division 1
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,LAB Batch 3-AM-Applied Mech,Division 2
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,LAB Batch 1-FPLC- Funda. Of PLC,Division 1
+612507064,Leena,,Salunke,Electronics and Telecommunication Engineering,PD- Personality Development(1st&3rd Sat- 11am/ 2nd&4th Sat- 10:45am),Division 7
+612505069,Navneet,,Singh,Electrical Engineering,Linear Algebra,Division 3
+612505069,Navneet,,Singh,Electrical Engineering,Engg Chem,Division 4
+612505069,Navneet,,Singh,Electrical Engineering,Bio For Engineers,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,FEE- fundamentals OF Electrical Engineering,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,FME- Foundations in Mech Engg,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,AM- Applied Mech,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,FPLC- Funda. Of PLC,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,Tut Batch 4-Linear Algebra,Division 3
+612505069,Navneet,,Singh,Electrical Engineering,LAB Batch 4-Engg Chem,Division 4
+612505069,Navneet,,Singh,Electrical Engineering,LAB Batch 3-FEE- fundamentals OF Electrical Engineering,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,LAB Batch 3-AM-Applied Mech,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,LAB Batch 3-FPLC- Funda. Of PLC,Division 1
+612505069,Navneet,,Singh,Electrical Engineering,1st and 3rd Sat-PD- Personality Development,Division 4
+612505069,Navneet,,Singh,Electrical Engineering,2nd & 4th Sat-PD- Personality Development (Till 10:30),Division 4

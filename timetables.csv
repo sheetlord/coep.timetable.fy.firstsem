@@ -220,15 +220,15 @@ FPLC- Funda. Of PLC,Division 1,Thursday,05:30-06:30,NC12
 CAD- Computer Aided Drafting,Division 1,Thursday,05:30-06:30,NC13
 EVA- EV Archi.,Division 1,Thursday,05:30-06:30,NC07
 MPFL- Manufacturing Practices and Fab Lab,Division 1,Thursday,05:30-06:30,NC14
-"RDOS- Robotics, Drone",Division 1,Thursday,05:30-06:30,NC06
+RDOS- Robotics Drone,Division 1,Thursday,05:30-06:30,NC06
 LAB Batch 1-ECE-Essentials of Civil Engineering,Division 1,Friday,10:30-11:30,Civil Drawing Hall 1 (CDH 1)
 LAB Batch 1-ECE-Essentials of Civil Engineering,Division 1,Friday,11:30-12:30,Civil Drawing Hall 1 (CDH 1)
-LAB Batch 2-ECE-Essentials of Civil Engineering,Division 1,Friday,10:30-11:30,NT01 (Fluid Mechanics Lab Classroom)
-LAB Batch 2-ECE-Essentials of Civil Engineering,Division 1,Friday,11:30-12:30,NT01 (Fluid Mechanics Lab Classroom)
+LAB Batch 2-ECE-Essentials of Civil Engineering,Division 1,Friday,10:30-11:30,NT01 (Fluid Mech Lab Classroom)
+LAB Batch 2-ECE-Essentials of Civil Engineering,Division 1,Friday,11:30-12:30,NT01 (Fluid Mech Lab Classroom)
 LAB Batch 3-ECE-Essentials of Civil Engineering,Division 1,Tuesday,04:30-05:30,Civil Drawing Hall 1 (CDH 1)
 LAB Batch 3-ECE-Essentials of Civil Engineering,Division 1,Tuesday,05:30-06:30,Civil Drawing Hall 1 (CDH 1)
-LAB Batch 4-ECE-Essentials of Civil Engineering,Division 1,Tuesday,04:30-05:30,NT01 (Fluid Mechanics Lab Classroom)
-LAB Batch 4-ECE-Essentials of Civil Engineering,Division 1,Tuesday,05:30-06:30,NT01 (Fluid Mechanics Lab Classroom)
+LAB Batch 4-ECE-Essentials of Civil Engineering,Division 1,Tuesday,04:30-05:30,NT01 (Fluid Mech Lab Classroom)
+LAB Batch 4-ECE-Essentials of Civil Engineering,Division 1,Tuesday,05:30-06:30,NT01 (Fluid Mech Lab Classroom)
 LAB Batch 1-ECE-Essentials of Civil Engineering,Division 2,Tuesday,08:30-09:30,ST01 ( M Tech-Construction Management Classroom)
 LAB Batch 1-ECE-Essentials of Civil Engineering,Division 2,Tuesday,09:30-10:30,ST01 ( M Tech-Construction Management Classroom)
 LAB Batch 2-ECE-Essentials of Civil Engineering,Division 2,Tuesday,08:30-09:30,NT 03 ( M Tech Transportation Engineering Classroom)
@@ -635,24 +635,24 @@ LAB Batch 6-FAI- Fundamentals of Ai,Division 4,Monday,01:30-02:30,CLManufacturin
 LAB Batch 6-FAI- Fundamentals of Ai,Division 4,Monday,02:30-03:30,CLManufacturing
 LAB Batch 7-FAI- Fundamentals of Ai,Division 4,Monday,01:30-02:30,CCF-2 Cognizant LAB AC
 LAB Batch 7-FAI- Fundamentals of Ai,Division 4,Monday,02:30-03:30,CCF-2 Cognizant LAB AC
-LAB Batch 1-AM-Applied Mechanics ,Division 1,Wednesday,04:30-05:30,EM Lab 
-LAB Batch 1-AM-Applied Mechanics ,Division 1,Wednesday,05:30-06:30,EM Lab 
-LAB Batch 2-AM-Applied Mechanics ,Division 1,Monday,10:30-11:30,EM Lab 
-LAB Batch 2-AM-Applied Mechanics ,Division 1,Monday,11:30-12:30,EM Lab 
-LAB Batch 3-AM-Applied Mechanics ,Division 1,Monday,10:30-11:30,NT 05-SOM Classsroom
-LAB Batch 3-AM-Applied Mechanics ,Division 1,Monday,11:30-12:30,NT 05-SOM Classsroom
-LAB Batch 4-AM-Applied Mechanics ,Division 1,Tuesday,04:30-05:30,EM Lab 
-LAB Batch 4-AM-Applied Mechanics ,Division 1,Tuesday,05:30-06:30,EM Lab 
-LAB Batch 5-AM-Applied Mechanics ,Division 1,Tuesday,04:30-05:30,NT 05-SOM Classsroom
-LAB Batch 5-AM-Applied Mechanics ,Division 1,Tuesday,05:30-06:30,NT 05-SOM Classsroom
-LAB Batch 1-AM-Applied Mechanics ,Division 2,Thursday,08:30-09:30,EM Lab 
-LAB Batch 1-AM-Applied Mechanics ,Division 2,Thursday,09:30-10:30,EM Lab 
-LAB Batch 2-AM-Applied Mechanics ,Division 2,Thursday,08:30-09:30,NT 05-SOM Classsroom
-LAB Batch 2-AM-Applied Mechanics ,Division 2,Thursday,09:30-10:30,NT 05-SOM Classsroom
-LAB Batch 3-AM-Applied Mechanics ,Division 2,Monday,08:30-09:30,EM Lab 
-LAB Batch 3-AM-Applied Mechanics ,Division 2,Monday,09:30-10:30,EM Lab 
-LAB Batch 4-AM-Applied Mechanics ,Division 2,Friday,08:30-09:30,EM Lab 
-LAB Batch 4-AM-Applied Mechanics ,Division 2,Friday,09:30-10:30,EM Lab 
+LAB Batch 1-AM-Applied Mech ,Division 1,Wednesday,04:30-05:30,EM Lab 
+LAB Batch 1-AM-Applied Mech ,Division 1,Wednesday,05:30-06:30,EM Lab 
+LAB Batch 2-AM-Applied Mech ,Division 1,Monday,10:30-11:30,EM Lab 
+LAB Batch 2-AM-Applied Mech ,Division 1,Monday,11:30-12:30,EM Lab 
+LAB Batch 3-AM-Applied Mech ,Division 1,Monday,10:30-11:30,NT 05-SOM Classsroom
+LAB Batch 3-AM-Applied Mech ,Division 1,Monday,11:30-12:30,NT 05-SOM Classsroom
+LAB Batch 4-AM-Applied Mech ,Division 1,Tuesday,04:30-05:30,EM Lab 
+LAB Batch 4-AM-Applied Mech ,Division 1,Tuesday,05:30-06:30,EM Lab 
+LAB Batch 5-AM-Applied Mech ,Division 1,Tuesday,04:30-05:30,NT 05-SOM Classsroom
+LAB Batch 5-AM-Applied Mech ,Division 1,Tuesday,05:30-06:30,NT 05-SOM Classsroom
+LAB Batch 1-AM-Applied Mech ,Division 2,Thursday,08:30-09:30,EM Lab 
+LAB Batch 1-AM-Applied Mech ,Division 2,Thursday,09:30-10:30,EM Lab 
+LAB Batch 2-AM-Applied Mech ,Division 2,Thursday,08:30-09:30,NT 05-SOM Classsroom
+LAB Batch 2-AM-Applied Mech ,Division 2,Thursday,09:30-10:30,NT 05-SOM Classsroom
+LAB Batch 3-AM-Applied Mech ,Division 2,Monday,08:30-09:30,EM Lab 
+LAB Batch 3-AM-Applied Mech ,Division 2,Monday,09:30-10:30,EM Lab 
+LAB Batch 4-AM-Applied Mech ,Division 2,Friday,08:30-09:30,EM Lab 
+LAB Batch 4-AM-Applied Mech ,Division 2,Friday,09:30-10:30,EM Lab 
 LAB Batch 1-BEE- Basic Electrical Engg,Division 1,Friday,10:30-11:30,BEE Lab Electrical Department South Campus
 LAB Batch 1-BEE- Basic Electrical Engg,Division 1,Friday,11:30-12:30,BEE Lab Electrical Department South Campus
 LAB Batch 2-BEE- Basic Electrical Engg,Division 1,Monday,10:30-11:30,BEE Lab Electrical Department South Campus
@@ -723,8 +723,8 @@ LAB Batch 2-DLD- Digital Logic Design,Division 3,Monday,01:30-02:30,Communicatio
 LAB Batch 2-DLD- Digital Logic Design,Division 3,Monday,02:30-03:30,Communication LAB
 LAB Batch 4-DLD- Digital Logic Design,Division 3,Friday,08:30-09:30,Communication LAB
 LAB Batch 4-DLD- Digital Logic Design,Division 3,Friday,09:30-10:30,Communication LAB
-LAB Batch 1-DLD- Digital Logic Design,Division 4,Thursday,01:30-02:30,ECW LAB
-LAB Batch 1-DLD- Digital Logic Design,Division 4,Thursday,02:30-03:30,ECW LAB
+LAB Batch 1-DLD- Digital Logic Design,Division 4,Thursday,08:30-09:30,ECW LAB
+LAB Batch 1-DLD- Digital Logic Design,Division 4,Thursday,09:30-10:30,ECW LAB
 LAB Batch 2-DLD- Digital Logic Design,Division 4,Wednesday,08:30-09:30,Microwave LAB
 LAB Batch 2-DLD- Digital Logic Design,Division 4,Wednesday,09:30-10:30,Microwave LAB
 LAB Batch 4-DLD- Digital Logic Design,Division 4,Thursday,01:30-02:30,Communication LAB
@@ -775,14 +775,14 @@ LAB Batch 3-PPS- Programming For Problem Solving,Division 1,Wednesday,01:30-02:3
 LAB Batch 3-PPS- Programming For Problem Solving,Division 1,Wednesday,02:30-03:30,Graphics LAB CSE Ground Floor
 LAB Batch 4-PPS- Programming For Problem Solving,Division 1,Wednesday,10:30-11:30,Internet Labs
 LAB Batch 4-PPS- Programming For Problem Solving,Division 1,Wednesday,11:30-12:30,Internet Labs
-LAB Batch 3-PPS- Programming For Problem Solving,Division 2 BUT assigned in Division 1,Wednesday,01:30-02:30,Graphics LAB CSE Ground Floor
-LAB Batch 3-PPS- Programming For Problem Solving,Division 2 BUT assigned in Division 1,Wednesday,02:30-03:30,Graphics LAB CSE Ground Floor
-LAB Batch 1-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1,Monday,03:30-04:30,CCF-1 Cognizant LAB AC
-LAB Batch 1-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1,Monday,04:30-05:30,CCF-1 Cognizant LAB AC
-LAB Batch 2-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1,Thursday,10:30-11:30,CCF-4 Cognizant LAB AC
-LAB Batch 2-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1,Thursday,11:30-12:30,CCF-4 Cognizant LAB AC
-LAB Batch 3-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1,Wednesday,01:30-02:30,Graphics LAB CSE Ground Floor
-LAB Batch 3-PPS- Programming For Problem Solving,Division 3 BUT assigned in Division 1,Wednesday,02:30-03:30,Graphics LAB CSE Ground Floor
+LAB Batch 3-PPS- Programming For Problem Solving(Assigned in Div 1),Division 2,Wednesday,01:30-02:30,Graphics LAB CSE Ground Floor
+LAB Batch 3-PPS- Programming For Problem Solving(Assigned in Div 1),Division 2,Wednesday,02:30-03:30,Graphics LAB CSE Ground Floor
+LAB Batch 1-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3,Monday,03:30-04:30,CCF-1 Cognizant LAB AC
+LAB Batch 1-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3,Monday,04:30-05:30,CCF-1 Cognizant LAB AC
+LAB Batch 2-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3,Thursday,10:30-11:30,CCF-4 Cognizant LAB AC
+LAB Batch 2-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3,Thursday,11:30-12:30,CCF-4 Cognizant LAB AC
+LAB Batch 3-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3,Wednesday,01:30-02:30,Graphics LAB CSE Ground Floor
+LAB Batch 3-PPS- Programming For Problem Solving(Assigned in Div 1),Division 3,Wednesday,02:30-03:30,Graphics LAB CSE Ground Floor
 LAB Batch 1-PPS- Programming For Problem Solving,Division 2,Monday,03:30-04:30,CCF-2 Cognizant LAB AC
 LAB Batch 1-PPS- Programming For Problem Solving,Division 2,Monday,04:30-05:30,CCF-2 Cognizant LAB AC
 LAB Batch 2-PPS- Programming For Problem Solving,Division 2,Thursday,03:30-04:30,Advance Software LAB First Floor CSE
@@ -801,22 +801,38 @@ LAB Batch 4-PPS- Programming For Problem Solving,Division 3,Wednesday,03:30-04:3
 LAB Batch 4-PPS- Programming For Problem Solving,Division 3,Wednesday,04:30-05:30,CCF-2 Cognizant LAB AC
 LAB Batch 5-PPS- Programming For Problem Solving,Division 3,Wednesday,03:30-04:30,CCF-3 Cognizant LAB AC
 LAB Batch 5-PPS- Programming For Problem Solving,Division 3,Wednesday,04:30-05:30,CCF-3 Cognizant LAB AC
-LAB Batch 1-PP- Python Programming,Division 1&2,Monday,03:30-04:30,CCF-1 Cognizant LAB AC
-LAB Batch 1-PP- Python Programming,Division 1&2,Monday,04:30-05:30,CCF-1 Cognizant LAB AC
-LAB Batch 2-PP- Python Programming,Division 1&2,Monday,03:30-04:30,FOSS-2 Free&Open Source Software LAB E&TC Extansion 3rd Floor
-LAB Batch 2-PP- Python Programming,Division 1&2,Monday,04:30-05:30,FOSS-2 Free&Open Source Software LAB E&TC Extansion 3rd Floor
-LAB Batch 3-PP- Python Programming,Division 1&2,Thursday,03:30-04:30,Programming LAB CSE Ground Floor
-LAB Batch 3-PP- Python Programming,Division 1&2,Thursday,04:30-05:30,Programming LAB CSE Ground Floor
-LAB Batch 4-PP- Python Programming,Division 1&2,Tuesday,03:30-04:30,Advance Software LAB First Floor CSE
-LAB Batch 4-PP- Python Programming,Division 1&2,Tuesday,04:30-05:30,Advance Software LAB First Floor CSE
-LAB Batch 5-PP- Python Programming,Division 1&2,Tuesday,03:30-04:30,Database Management System LABFirst Floor CSE
-LAB Batch 5-PP- Python Programming,Division 1&2,Tuesday,04:30-05:30,Database Management System LABFirst Floor CSE
-LAB Batch 6-PP- Python Programming,Division 1&2,Tuesday,10:30-11:30,Advance Software LAB First Floor CSE
-LAB Batch 6-PP- Python Programming,Division 1&2,Tuesday,11:30-12:30,Advance Software LAB First Floor CSE
-LAB Batch 7-PP- Python Programming,Division 1&2,Tuesday,10:30-11:30,Graphics LAB CSE Ground Floor
-LAB Batch 7-PP- Python Programming,Division 1&2,Tuesday,11:30-12:30,Graphics LAB CSE Ground Floor
-LAB Batch 8-PP- Python Programming,Division 1&2,Tuesday,10:30-11:30,SP LAB Instru
-LAB Batch 8-PP- Python Programming,Division 1&2,Tuesday,11:30-12:30,SP LAB Instru
+LAB Batch 1-PP- Python Programming,Division 1,Monday,03:30-04:30,CCF-1 Cognizant LAB AC
+LAB Batch 1-PP- Python Programming,Division 1,Monday,04:30-05:30,CCF-1 Cognizant LAB AC
+LAB Batch 2-PP- Python Programming,Division 1,Monday,03:30-04:30,FOSS-2 Free&Open Source Software LAB E&TC Extansion 3rd Floor
+LAB Batch 2-PP- Python Programming,Division 1,Monday,04:30-05:30,FOSS-2 Free&Open Source Software LAB E&TC Extansion 3rd Floor
+LAB Batch 3-PP- Python Programming,Division 1,Thursday,03:30-04:30,Programming LAB CSE Ground Floor
+LAB Batch 3-PP- Python Programming,Division 1,Thursday,04:30-05:30,Programming LAB CSE Ground Floor
+LAB Batch 4-PP- Python Programming,Division 1,Tuesday,03:30-04:30,Advance Software LAB First Floor CSE
+LAB Batch 4-PP- Python Programming,Division 1,Tuesday,04:30-05:30,Advance Software LAB First Floor CSE
+LAB Batch 5-PP- Python Programming,Division 1,Tuesday,03:30-04:30,Database Management System LABFirst Floor CSE
+LAB Batch 5-PP- Python Programming,Division 1,Tuesday,04:30-05:30,Database Management System LABFirst Floor CSE
+LAB Batch 6-PP- Python Programming,Division 1,Tuesday,10:30-11:30,Advance Software LAB First Floor CSE
+LAB Batch 6-PP- Python Programming,Division 1,Tuesday,11:30-12:30,Advance Software LAB First Floor CSE
+LAB Batch 7-PP- Python Programming,Division 1,Tuesday,10:30-11:30,Graphics LAB CSE Ground Floor
+LAB Batch 7-PP- Python Programming,Division 1,Tuesday,11:30-12:30,Graphics LAB CSE Ground Floor
+LAB Batch 8-PP- Python Programming,Division 1,Tuesday,10:30-11:30,SP LAB Instru
+LAB Batch 8-PP- Python Programming,Division 1,Tuesday,11:30-12:30,SP LAB Instru
+LAB Batch 1-PP- Python Programming,Division 2,Monday,03:30-04:30,CCF-1 Cognizant LAB AC
+LAB Batch 1-PP- Python Programming,Division 2,Monday,04:30-05:30,CCF-1 Cognizant LAB AC
+LAB Batch 2-PP- Python Programming,Division 2,Monday,03:30-04:30,CCF-3 Cognizant LAB AC
+LAB Batch 2-PP- Python Programming,Division 2,Monday,04:30-05:30,CCF-3 Cognizant LAB AC
+LAB Batch 3-PP- Python Programming,Division 2,Thursday,03:30-04:30,Programming LAB CSE Ground Floor
+LAB Batch 3-PP- Python Programming,Division 2,Thursday,04:30-05:30,Programming LAB CSE Ground Floor
+LAB Batch 4-PP- Python Programming,Division 2,Tuesday,03:30-04:30,Advance Software LAB First Floor CSE
+LAB Batch 4-PP- Python Programming,Division 2,Tuesday,04:30-05:30,Advance Software LAB First Floor CSE
+LAB Batch 5-PP- Python Programming,Division 2,Tuesday,03:30-04:30,Database Management System LABFirst Floor CSE
+LAB Batch 5-PP- Python Programming,Division 2,Tuesday,04:30-05:30,Database Management System LABFirst Floor CSE
+LAB Batch 6-PP- Python Programming,Division 2,Tuesday,10:30-11:30,Advance Software LAB First Floor CSE
+LAB Batch 6-PP- Python Programming,Division 2,Tuesday,11:30-12:30,Advance Software LAB First Floor CSE
+LAB Batch 7-PP- Python Programming,Division 2,Tuesday,10:30-11:30,Graphics LAB CSE Ground Floor
+LAB Batch 7-PP- Python Programming,Division 2,Tuesday,11:30-12:30,Graphics LAB CSE Ground Floor
+LAB Batch 8-PP- Python Programming,Division 2,Tuesday,10:30-11:30,SP LAB Instru
+LAB Batch 8-PP- Python Programming,Division 2,Tuesday,11:30-12:30,SP LAB Instru
 LAB Batch 1-PP- Python Programming,Division 3,Monday,03:30-04:30,FOSS-1 Free&Open Source Software LAB E&TC Extansion 3rd Floor
 LAB Batch 1-PP- Python Programming,Division 3,Monday,04:30-05:30,FOSS-1 Free&Open Source Software LAB E&TC Extansion 3rd Floor
 LAB Batch 2-PP- Python Programming,Division 3,Thursday,10:30-11:30,Graphics LAB CSE Ground Floor
@@ -841,12 +857,12 @@ LAB Batch 3-GE- Geomatic Engg,Division 1,Wednesday,01:30-02:30,Surveying Lab Civ
 LAB Batch 3-GE- Geomatic Engg,Division 1,Wednesday,02:30-03:30,Surveying Lab Civil Dept 
 LAB Batch 1-FCP- Funda. Of Constructive Practices,Division 1,Thursday,03:30-04:30,Civil Drawing Hall 1 CDH 1
 LAB Batch 1-FCP- Funda. Of Constructive Practices,Division 1,Thursday,04:30-05:30,Civil Drawing Hall 1 CDH 1
-LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1,Thursday,10:30-11:30,NT01 Fluid Mechanics Lab Classroom
-LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1,Thursday,11:30-12:30,NT01 Fluid Mechanics Lab Classroom
+LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1,Thursday,10:30-11:30,NT01 Fluid Mech Lab Classroom
+LAB Batch 2-FCP- Funda. Of Constructive Practices,Division 1,Thursday,11:30-12:30,NT01 Fluid Mech Lab Classroom
 LAB Batch 3-FCP- Funda. Of Constructive Practices,Division 1,Wednesday,03:30-04:30,Civil Drawing Hall 1 CDH 1
 LAB Batch 3-FCP- Funda. Of Constructive Practices,Division 1,Wednesday,04:30-05:30,Civil Drawing Hall 1 CDH 1
-LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1,Wednesday,10:30-11:30,NT01 Fluid Mechanics Lab Classroom
-LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1,Wednesday,11:30-12:30,NT01 Fluid Mechanics Lab Classroom
+LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1,Wednesday,10:30-11:30,NT01 Fluid Mech Lab Classroom
+LAB Batch 4-FCP- Funda. Of Constructive Practices,Division 1,Wednesday,11:30-12:30,NT01 Fluid Mech Lab Classroom
 LAB Batch 1-EMS- Electrical Maintainance and Safety,Division 1,Thursday,03:30-04:30,Power System LAB
 LAB Batch 1-EMS- Electrical Maintainance and Safety,Division 1,Thursday,04:30-05:30,Power System LAB
 LAB Batch 2-EMS- Electrical Maintainance and Safety,Division 1,Tuesday,03:30-04:30,Power System LAB
@@ -875,14 +891,14 @@ LAB Batch 4-MPFL- Manufacturing Practices and Fab Lab,Division 1,Tuesday,10:30-1
 LAB Batch 4-MPFL- Manufacturing Practices and Fab Lab,Division 1,Tuesday,11:30-12:30,WORKSHOP
 LAB Batch 5-MPFL- Manufacturing Practices and Fab Lab,Division 1,Wednesday,10:30-11:30,WORKSHOP
 LAB Batch 5-MPFL- Manufacturing Practices and Fab Lab,Division 1,Wednesday,11:30-12:30,WORKSHOP
-"LAB Batch 1-RDOS- Robotics, Drone",Division 1,Monday,03:30-04:30,RDOS LAB
-"LAB Batch 1-RDOS- Robotics, Drone",Division 1,Monday,04:30-05:30,RDOS LAB
-"LAB Batch 2-RDOS- Robotics, Drone",Division 1,Thursday,10:30-11:30,RDOS LAB
-"LAB Batch 2-RDOS- Robotics, Drone",Division 1,Thursday,11:30-12:30,RDOS LAB
-"LAB Batch 3-RDOS- Robotics, Drone",Division 1,Tuesday,03:30-04:30,RDOS LAB
-"LAB Batch 3-RDOS- Robotics, Drone",Division 1,Tuesday,04:30-05:30,RDOS LAB
-"LAB Batch 4-RDOS- Robotics, Drone",Division 1,Wednesday,10:30-11:30,RDOS LAB
-"LAB Batch 4-RDOS- Robotics, Drone",Division 1,Wednesday,11:30-12:30,RDOS LAB
+LAB Batch 1-RDOS- Robotics Drone,Division 1,Monday,03:30-04:30,RDOS LAB
+LAB Batch 1-RDOS- Robotics Drone,Division 1,Monday,04:30-05:30,RDOS LAB
+LAB Batch 2-RDOS- Robotics Drone,Division 1,Thursday,10:30-11:30,RDOS LAB
+LAB Batch 2-RDOS- Robotics Drone,Division 1,Thursday,11:30-12:30,RDOS LAB
+LAB Batch 3-RDOS- Robotics Drone,Division 1,Tuesday,03:30-04:30,RDOS LAB
+LAB Batch 3-RDOS- Robotics Drone,Division 1,Tuesday,04:30-05:30,RDOS LAB
+LAB Batch 4-RDOS- Robotics Drone,Division 1,Wednesday,10:30-11:30,RDOS LAB
+LAB Batch 4-RDOS- Robotics Drone,Division 1,Wednesday,11:30-12:30,RDOS LAB
 LAB Batch 1-CAD- Computer Aided Drafting,Division 1,Thursday,03:30-04:30,CAD & CAE LAB
 LAB Batch 1-CAD- Computer Aided Drafting,Division 1,Thursday,04:30-05:30,CAD & CAE LAB
 LAB Batch 2-CAD- Computer Aided Drafting,Division 1,Thursday,10:30-11:30,CAD & CAE LAB
