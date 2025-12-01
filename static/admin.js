@@ -1,15 +1,17 @@
-// --- Helper Functions (Unchanged) ---
+// --- Helper Functions ---
 function getTomorrowMidnight() {
     const tomorrow = new Date();
     tomorrow.setDate(tomorrow.getDate() + 1);
     tomorrow.setHours(0, 0, 0, 0); 
     return tomorrow;
 }
+
 function formatDateForInput(date) {
     if (!date) return '';
     const localISOString = new Date(date.getTime() - (date.getTimezoneOffset() * 60000)).toISOString().slice(0, 16);
     return localISOString;
 }
+
 function formatReadableDate(timestamp) {
     if (!timestamp) return 'N/A';
     return timestamp.toDate().toLocaleString('en-US', {
@@ -19,11 +21,21 @@ function formatReadableDate(timestamp) {
         minute: '2-digit'
     });
 }
+
+// --- NEW: Function to turn URLs into clickable links ---
+function makeLinksClickable(text) {
+    if (!text) return "";
+    // Regex to find http/https URLs
+    const urlPattern = /(https?:\/\/[^\s]+)/g;
+    return text.replace(urlPattern, function(url) {
+        // Returns the clickable HTML link with blue styling
+        return `<a href="${url}" target="_blank" style="color: #007bff; text-decoration: underline;">${url}</a>`;
+    });
+}
 // --- End Helper Functions ---
 
 
 // --- 1. GET ALL ELEMENTS ---
-// (Login, Panel, Nav, Notice elements unchanged...)
 const loginContainer = document.getElementById('login-container');
 const loginForm = document.getElementById('login-form');
 const loginMisInput = document.getElementById('login-mis');
@@ -43,26 +55,24 @@ const publishStatus = document.getElementById('publish-status');
 const currentNoticesList = document.getElementById('current-notices-list');
 const noNoticesMsg = document.getElementById('no-notices-msg');
 
-// --- UPDATED: Extra Class elements ---
 const extraClassForm = document.getElementById('extra-class-form');
 const ecSubject = document.getElementById('ec-subject');
 const ecDivision = document.getElementById('ec-division');
 const ecDate = document.getElementById('ec-date');
-const ecStartTime = document.getElementById('ec-start-time'); // Now a <select>
-const ecEndTime = document.getElementById('ec-end-time');     // Now a <select>
+const ecStartTime = document.getElementById('ec-start-time');
+const ecEndTime = document.getElementById('ec-end-time');
 const ecRoom = document.getElementById('ec-room');
 const ecPublishStatus = document.getElementById('ec-publish-status');
 const currentClassesList = document.getElementById('current-classes-list');
 const noClassesMsg = document.getElementById('no-classes-msg');
 
-// (Firestore/Global vars unchanged)
 const noticesCollection = db.collection('notices');
 const extraClassesCollection = db.collection('extraClasses'); 
 let noticeListener = null;
 let classListener = null; 
 let subjectDivisionMap = {};
 
-// --- 2. AUTHENTICATION LOGIC (Unchanged) ---
+// --- 2. AUTHENTICATION LOGIC ---
 loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
     loginError.textContent = ''; 
@@ -82,6 +92,7 @@ loginForm.addEventListener('submit', (e) => {
           loginError.textContent = 'Invalid MIS number or password.';
       });
 });
+
 logoutButton.addEventListener('click', () => {
     auth.signOut().catch((error) => console.error('Logout Error', error));
 });
@@ -92,7 +103,7 @@ auth.onAuthStateChanged((user) => {
         adminPanel.classList.remove('hidden'); 
         showNoticePanel(); 
         loadAdminData(); 
-        populateTimeDropdowns(); // <-- NEW: Populate time dropdowns
+        populateTimeDropdowns(); 
         listenForActiveNotices(); 
         listenForExtraClasses(); 
         noticeExpiry.value = formatDateForInput(getTomorrowMidnight());
@@ -105,9 +116,10 @@ auth.onAuthStateChanged((user) => {
 });
 
 
-// --- 3. TAB NAVIGATION LOGIC (Unchanged) ---
+// --- 3. TAB NAVIGATION LOGIC ---
 navNoticesBtn.addEventListener('click', showNoticePanel);
 navClassesBtn.addEventListener('click', showClassPanel);
+
 function showNoticePanel() {
     panelTitle.textContent = 'Notice Manager';
     navNoticesBtn.classList.add('active');
@@ -115,6 +127,7 @@ function showNoticePanel() {
     noticePanel.classList.remove('hidden');
     classPanel.classList.add('hidden');
 }
+
 function showClassPanel() {
     panelTitle.textContent = 'Extra Class Manager';
     navNoticesBtn.classList.remove('active');
@@ -124,11 +137,8 @@ function showClassPanel() {
 }
 
 
-// --- 4. ADMIN DATA & TIME LOADERS (UPDATED) ---
-
-// --- NEW: Function to populate time dropdowns ---
+// --- 4. ADMIN DATA & TIME LOADERS ---
 function populateTimeDropdowns() {
-    // 08:30 AM to 05:30 PM
     const startTimes = [
         { text: "08:30 AM", value: "08:30" }, { text: "09:30 AM", value: "09:30" },
         { text: "10:30 AM", value: "10:30" }, { text: "11:30 AM", value: "11:30" },
@@ -136,7 +146,6 @@ function populateTimeDropdowns() {
         { text: "02:30 PM", value: "14:30" }, { text: "03:30 PM", value: "15:30" },
         { text: "04:30 PM", value: "16:30" }, { text: "05:30 PM", value: "17:30" }
     ];
-    // 09:30 AM to 06:30 PM
     const endTimes = [
         { text: "09:30 AM", value: "09:30" }, { text: "10:30 AM", value: "10:30" },
         { text: "11:30 AM", value: "11:30" }, { text: "12:30 PM", value: "12:30" },
@@ -153,7 +162,6 @@ function populateTimeDropdowns() {
     });
 }
 
-// (This function is unchanged from last time)
 async function loadAdminData() {
     try {
         const response = await fetch('/get_admin_data');
@@ -177,7 +185,6 @@ async function loadAdminData() {
     }
 }
 
-// (This is unchanged from last time)
 ecSubject.addEventListener('change', () => {
     const selectedSubject = ecSubject.value;
     ecDivision.innerHTML = '';
@@ -197,7 +204,7 @@ ecSubject.addEventListener('change', () => {
 });
 
 
-// --- 5. NOTICE MANAGEMENT LOGIC (Unchanged) ---
+// --- 5. NOTICE MANAGEMENT LOGIC ---
 noticeForm.addEventListener('submit', (e) => {
     e.preventDefault();
     publishStatus.textContent = 'Publishing...';
@@ -227,6 +234,7 @@ noticeForm.addEventListener('submit', (e) => {
         publishStatus.className = 'error';
     });
 });
+
 function listenForActiveNotices() {
     const now = new Date();
     if (noticeListener) noticeListener(); 
@@ -240,14 +248,22 @@ function listenForActiveNotices() {
             snapshot.forEach(doc => renderNoticeItem(doc));
         }, (error) => console.error("Error listening for notices: ", error));
 }
+
+// --- UPDATED RENDER FUNCTION ---
 function renderNoticeItem(doc) {
     const data = doc.data();
     const id = doc.id;
     const item = document.createElement('div');
     item.className = 'admin-list-item';
+
+    // 1. Process links first
+    let content = makeLinksClickable(data.message);
+    // 2. Process line breaks second
+    content = content.replace(/\n/g, '<br>');
+
     item.innerHTML = `
         <div class="item-content">
-            <p>${data.message.replace(/\n/g, '<br>')}</p>
+            <p>${content}</p>
             <small>Expires: ${formatReadableDate(data.expiry)}</small>
             <small>By: ${data.author || 'unknown'}</small>
         </div>
@@ -262,19 +278,17 @@ function renderNoticeItem(doc) {
 }
 
 
-// --- 6. EXTRA CLASS LOGIC (UPDATED) ---
-
+// --- 6. EXTRA CLASS LOGIC ---
 extraClassForm.addEventListener('submit', (e) => {
     e.preventDefault();
     ecPublishStatus.textContent = 'Scheduling...';
     ecPublishStatus.className = 'status';
     
-    // --- UPDATED: Read from select dropdowns ---
     const subject = ecSubject.value;
     const division = ecDivision.value;
     const date = ecDate.value;
-    const startTime = ecStartTime.value; // This is now a 24-hour value (e.g., "08:30" or "13:30")
-    const endTime = ecEndTime.value;     // This is now a 24-hour value
+    const startTime = ecStartTime.value; 
+    const endTime = ecEndTime.value;    
     const room = ecRoom.value.trim() || 'N/A';
     
     if (!subject || !division || !date || !startTime || !endTime) {
@@ -283,13 +297,12 @@ extraClassForm.addEventListener('submit', (e) => {
         return;
     }
     
-    // The 24-hour values from the dropdown work perfectly here!
     const startDateTime = new Date(`${date}T${startTime}`);
     const endDateTime = new Date(`${date}T${endTime}`);
     
     if (endDateTime <= startDateTime) {
         ecPublishStatus.textContent = 'End time must be after start time.';
-        ecPublishHStatus.className = 'error';
+        ecPublishStatus.className = 'error'; // Fixed typo here as well (ecPublishHStatus)
         return;
     }
 
@@ -316,7 +329,6 @@ extraClassForm.addEventListener('submit', (e) => {
         ecSubject.value = ""; 
         ecDivision.innerHTML = '<option value="">Select a subject first</option>';
         ecDivision.disabled = true;
-        // --- NEW: Reset time dropdowns ---
         ecStartTime.value = "";
         ecEndTime.value = "";
         setTimeout(() => { ecPublishStatus.textContent = ''; }, 3000);
@@ -328,7 +340,6 @@ extraClassForm.addEventListener('submit', (e) => {
     });
 });
 
-// (This is unchanged)
 function listenForExtraClasses() {
     const now = new Date();
     if (classListener) classListener(); 
@@ -342,7 +353,7 @@ function listenForExtraClasses() {
             snapshot.forEach(doc => renderExtraClassItem(doc));
         }, (error) => console.error("Error listening for classes: ", error));
 }
-// (This is unchanged)
+
 function renderExtraClassItem(doc) {
     const data = doc.data();
     const id = doc.id;
